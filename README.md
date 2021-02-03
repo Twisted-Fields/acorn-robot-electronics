@@ -1,6 +1,6 @@
-% Acorn Raspberry Pi Motherboard
+# Acorn Raspberry Pi Motherboard
 
-## About
+### About
 
 ![rendering of front of board](./docs/top.jpg)
 
@@ -14,8 +14,8 @@ For more information please see http://community.twistedfields.com
 
 ![rendering of rear of board](./docs/bottom.jpg)
 
-Tin Woodman board artwork originally by William Wallace Denslow (1856-1915)
+Tin Woodman board artwork originally by William Wallace Denslow (1856-1915)  
 https://en.wikipedia.org/wiki/Tin_Woodman
 
-Kicad project derived from:
+Kicad project derived from:  
 https://github.com/xesscorp/RPi_Hat_Template
