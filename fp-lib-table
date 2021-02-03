@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name RPi_Hat_Template)(type KiCad)(uri /home/taylor/pcb/twistedfields/RPi_Hat_Template)(options "")(descr ""))
+)
