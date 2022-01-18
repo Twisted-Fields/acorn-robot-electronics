@@ -1,0 +1,15 @@
+
+motherboard:
+	fix size of C5, 8mm diameter too small
+	USB diode doesn't work, I guess need ideal diode to handle more power? LTC4412 controller and p-ch mosfet. need reverse current protection mostly
+	https://www.ti.com/lit/an/slvae57b/slvae57b.pdf?ts=1641991127253
+	fork board, flip camera connectors. delete camera connectors from main board
+	add camera LED control
+	add something to the design to hold CM4 in reset until power is stabilized? why does it not always boot at power on?
+	are any switches backwards?
+	add ground test points
+	check the size of the PTH holes used on the DC DC converter
+	consider a power on delay chip attached to GLOBAL_EN, or debug inconsistent power on condition. or is that due to incorrectly seated CM4?
+	
+odrive aux board:
+	footprint for buffers is wrong, copy from motherboard

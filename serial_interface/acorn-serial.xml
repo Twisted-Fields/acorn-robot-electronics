@@ -1,0 +1,2547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/taylor/pcb/acorn-serial/acorn-serial.kicad_sch</source>
+    <date>Wed 17 Nov 2021 08:14:40 PM PST</date>
+    <tool>Eeschema 5.99.0-unknown-47cb7f53fd~143~ubuntu20.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>acorn-serial.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>18pF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">311-1102-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey" value="311-1102-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>63a1f9ef-4b06-452f-b2a8-90163ccbd146</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>18pF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">311-1102-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey" value="311-1102-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c438cfb8-5eb9-4740-8dd9-1664cb808e46</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>18pF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">311-1102-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey" value="311-1102-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005eb903aa</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>18pF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">311-1102-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey" value="311-1102-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005eb8fa11</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>18pF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">311-1102-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey" value="311-1102-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005ee16964</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>18pF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">311-1102-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey" value="311-1102-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005ee1695a</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">311-1361-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey" value="311-1361-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7a780f22-2c37-4492-8d6d-460dcb5c3e9e</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">311-1361-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey" value="311-1361-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005ebec8c0</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">311-1361-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey" value="311-1361-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005ee16a22</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005ee16a46</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">311-1361-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey" value="311-1361-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005ebf42f2</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005ee16a3c</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">311-1361-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey" value="311-1361-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005ebf3c14</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">311-1355-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey" value="311-1355-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006178c8db</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>CDSOT23-SM712</value>
+      <footprint>digikey-footprints:SOT-23-3</footprint>
+      <datasheet>https://www.bourns.com/docs/Product-Datasheets/CDSOT23-SM712.pdf</datasheet>
+      <fields>
+        <field name="Category">Circuit Protection</field>
+        <field name="DK_Datasheet_Link">https://www.bourns.com/docs/Product-Datasheets/CDSOT23-SM712.pdf</field>
+        <field name="DK_Detail_Page">/product-detail/en/bourns-inc/CDSOT23-SM712/CDSOT23-SM712CT-ND/1630607</field>
+        <field name="Description">TVS DIODE 7V/12V 14V/26V SOT23-3</field>
+        <field name="Digikey">CDSOT23-SM712CT-ND</field>
+        <field name="Family">TVS - Diodes</field>
+        <field name="MPN">CDSOT23-SM712</field>
+        <field name="Manufacturer">Bourns Inc.</field>
+        <field name="Status">Active</field>
+      </fields>
+      <libsource lib="dk_TVS-Diodes" part="CDSOT23-SM712" description="TVS DIODE 7V/12V 14V/26V SOT23-3"/>
+      <property name="Digikey" value="CDSOT23-SM712CT-ND"/>
+      <property name="MPN" value="CDSOT23-SM712"/>
+      <property name="Category" value="Circuit Protection"/>
+      <property name="Family" value="TVS - Diodes"/>
+      <property name="DK_Datasheet_Link" value="https://www.bourns.com/docs/Product-Datasheets/CDSOT23-SM712.pdf"/>
+      <property name="DK_Detail_Page" value="/product-detail/en/bourns-inc/CDSOT23-SM712/CDSOT23-SM712CT-ND/1630607"/>
+      <property name="Description" value="TVS DIODE 7V/12V 14V/26V SOT23-3"/>
+      <property name="Manufacturer" value="Bourns Inc."/>
+      <property name="Status" value="Active"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061727443</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>CDSOT23-SM712</value>
+      <footprint>digikey-footprints:SOT-23-3</footprint>
+      <datasheet>https://www.bourns.com/docs/Product-Datasheets/CDSOT23-SM712.pdf</datasheet>
+      <fields>
+        <field name="Category">Circuit Protection</field>
+        <field name="DK_Datasheet_Link">https://www.bourns.com/docs/Product-Datasheets/CDSOT23-SM712.pdf</field>
+        <field name="DK_Detail_Page">/product-detail/en/bourns-inc/CDSOT23-SM712/CDSOT23-SM712CT-ND/1630607</field>
+        <field name="Description">TVS DIODE 7V/12V 14V/26V SOT23-3</field>
+        <field name="Digikey">CDSOT23-SM712CT-ND</field>
+        <field name="Family">TVS - Diodes</field>
+        <field name="MPN">CDSOT23-SM712</field>
+        <field name="Manufacturer">Bourns Inc.</field>
+        <field name="Status">Active</field>
+      </fields>
+      <libsource lib="dk_TVS-Diodes" part="CDSOT23-SM712" description="TVS DIODE 7V/12V 14V/26V SOT23-3"/>
+      <property name="Digikey" value="CDSOT23-SM712CT-ND"/>
+      <property name="MPN" value="CDSOT23-SM712"/>
+      <property name="Category" value="Circuit Protection"/>
+      <property name="Family" value="TVS - Diodes"/>
+      <property name="DK_Datasheet_Link" value="https://www.bourns.com/docs/Product-Datasheets/CDSOT23-SM712.pdf"/>
+      <property name="DK_Detail_Page" value="/product-detail/en/bourns-inc/CDSOT23-SM712/CDSOT23-SM712CT-ND/1630607"/>
+      <property name="Description" value="TVS DIODE 7V/12V 14V/26V SOT23-3"/>
+      <property name="Manufacturer" value="Bourns Inc."/>
+      <property name="Status" value="Active"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061727526</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>CDSOT23-SM712</value>
+      <footprint>digikey-footprints:SOT-23-3</footprint>
+      <datasheet>https://www.bourns.com/docs/Product-Datasheets/CDSOT23-SM712.pdf</datasheet>
+      <fields>
+        <field name="Category">Circuit Protection</field>
+        <field name="DK_Datasheet_Link">https://www.bourns.com/docs/Product-Datasheets/CDSOT23-SM712.pdf</field>
+        <field name="DK_Detail_Page">/product-detail/en/bourns-inc/CDSOT23-SM712/CDSOT23-SM712CT-ND/1630607</field>
+        <field name="Description">TVS DIODE 7V/12V 14V/26V SOT23-3</field>
+        <field name="Digikey">CDSOT23-SM712CT-ND</field>
+        <field name="Family">TVS - Diodes</field>
+        <field name="MPN">CDSOT23-SM712</field>
+        <field name="Manufacturer">Bourns Inc.</field>
+        <field name="Status">Active</field>
+      </fields>
+      <libsource lib="dk_TVS-Diodes" part="CDSOT23-SM712" description="TVS DIODE 7V/12V 14V/26V SOT23-3"/>
+      <property name="Digikey" value="CDSOT23-SM712CT-ND"/>
+      <property name="MPN" value="CDSOT23-SM712"/>
+      <property name="Category" value="Circuit Protection"/>
+      <property name="Family" value="TVS - Diodes"/>
+      <property name="DK_Datasheet_Link" value="https://www.bourns.com/docs/Product-Datasheets/CDSOT23-SM712.pdf"/>
+      <property name="DK_Detail_Page" value="/product-detail/en/bourns-inc/CDSOT23-SM712/CDSOT23-SM712CT-ND/1630607"/>
+      <property name="Description" value="TVS DIODE 7V/12V 14V/26V SOT23-3"/>
+      <property name="Manufacturer" value="Bourns Inc."/>
+      <property name="Status" value="Active"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060aa041d</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>CDSOT23-SM712</value>
+      <footprint>digikey-footprints:SOT-23-3</footprint>
+      <datasheet>https://www.bourns.com/docs/Product-Datasheets/CDSOT23-SM712.pdf</datasheet>
+      <fields>
+        <field name="Category">Circuit Protection</field>
+        <field name="DK_Datasheet_Link">https://www.bourns.com/docs/Product-Datasheets/CDSOT23-SM712.pdf</field>
+        <field name="DK_Detail_Page">/product-detail/en/bourns-inc/CDSOT23-SM712/CDSOT23-SM712CT-ND/1630607</field>
+        <field name="Description">TVS DIODE 7V/12V 14V/26V SOT23-3</field>
+        <field name="Digikey">CDSOT23-SM712CT-ND</field>
+        <field name="Family">TVS - Diodes</field>
+        <field name="MPN">CDSOT23-SM712</field>
+        <field name="Manufacturer">Bourns Inc.</field>
+        <field name="Status">Active</field>
+      </fields>
+      <libsource lib="dk_TVS-Diodes" part="CDSOT23-SM712" description="TVS DIODE 7V/12V 14V/26V SOT23-3"/>
+      <property name="Digikey" value="CDSOT23-SM712CT-ND"/>
+      <property name="MPN" value="CDSOT23-SM712"/>
+      <property name="Category" value="Circuit Protection"/>
+      <property name="Family" value="TVS - Diodes"/>
+      <property name="DK_Datasheet_Link" value="https://www.bourns.com/docs/Product-Datasheets/CDSOT23-SM712.pdf"/>
+      <property name="DK_Detail_Page" value="/product-detail/en/bourns-inc/CDSOT23-SM712/CDSOT23-SM712CT-ND/1630607"/>
+      <property name="Description" value="TVS DIODE 7V/12V 14V/26V SOT23-3"/>
+      <property name="Manufacturer" value="Bourns Inc."/>
+      <property name="Status" value="Active"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006129f4db</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>CDSOT23-SM712</value>
+      <footprint>digikey-footprints:SOT-23-3</footprint>
+      <datasheet>https://www.bourns.com/docs/Product-Datasheets/CDSOT23-SM712.pdf</datasheet>
+      <fields>
+        <field name="Category">Circuit Protection</field>
+        <field name="DK_Datasheet_Link">https://www.bourns.com/docs/Product-Datasheets/CDSOT23-SM712.pdf</field>
+        <field name="DK_Detail_Page">/product-detail/en/bourns-inc/CDSOT23-SM712/CDSOT23-SM712CT-ND/1630607</field>
+        <field name="Description">TVS DIODE 7V/12V 14V/26V SOT23-3</field>
+        <field name="Digikey">CDSOT23-SM712CT-ND</field>
+        <field name="Family">TVS - Diodes</field>
+        <field name="MPN">CDSOT23-SM712</field>
+        <field name="Manufacturer">Bourns Inc.</field>
+        <field name="Status">Active</field>
+      </fields>
+      <libsource lib="dk_TVS-Diodes" part="CDSOT23-SM712" description="TVS DIODE 7V/12V 14V/26V SOT23-3"/>
+      <property name="Digikey" value="CDSOT23-SM712CT-ND"/>
+      <property name="MPN" value="CDSOT23-SM712"/>
+      <property name="Category" value="Circuit Protection"/>
+      <property name="Family" value="TVS - Diodes"/>
+      <property name="DK_Datasheet_Link" value="https://www.bourns.com/docs/Product-Datasheets/CDSOT23-SM712.pdf"/>
+      <property name="DK_Detail_Page" value="/product-detail/en/bourns-inc/CDSOT23-SM712/CDSOT23-SM712CT-ND/1630607"/>
+      <property name="Description" value="TVS DIODE 7V/12V 14V/26V SOT23-3"/>
+      <property name="Manufacturer" value="Bourns Inc."/>
+      <property name="Status" value="Active"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061727410</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>CDSOT23-SM712</value>
+      <footprint>digikey-footprints:SOT-23-3</footprint>
+      <datasheet>https://www.bourns.com/docs/Product-Datasheets/CDSOT23-SM712.pdf</datasheet>
+      <fields>
+        <field name="Category">Circuit Protection</field>
+        <field name="DK_Datasheet_Link">https://www.bourns.com/docs/Product-Datasheets/CDSOT23-SM712.pdf</field>
+        <field name="DK_Detail_Page">/product-detail/en/bourns-inc/CDSOT23-SM712/CDSOT23-SM712CT-ND/1630607</field>
+        <field name="Description">TVS DIODE 7V/12V 14V/26V SOT23-3</field>
+        <field name="Digikey">CDSOT23-SM712CT-ND</field>
+        <field name="Family">TVS - Diodes</field>
+        <field name="MPN">CDSOT23-SM712</field>
+        <field name="Manufacturer">Bourns Inc.</field>
+        <field name="Status">Active</field>
+      </fields>
+      <libsource lib="dk_TVS-Diodes" part="CDSOT23-SM712" description="TVS DIODE 7V/12V 14V/26V SOT23-3"/>
+      <property name="Digikey" value="CDSOT23-SM712CT-ND"/>
+      <property name="MPN" value="CDSOT23-SM712"/>
+      <property name="Category" value="Circuit Protection"/>
+      <property name="Family" value="TVS - Diodes"/>
+      <property name="DK_Datasheet_Link" value="https://www.bourns.com/docs/Product-Datasheets/CDSOT23-SM712.pdf"/>
+      <property name="DK_Detail_Page" value="/product-detail/en/bourns-inc/CDSOT23-SM712/CDSOT23-SM712CT-ND/1630607"/>
+      <property name="Description" value="TVS DIODE 7V/12V 14V/26V SOT23-3"/>
+      <property name="Manufacturer" value="Bourns Inc."/>
+      <property name="Status" value="Active"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000617274f3</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>CDSOT23-SM712</value>
+      <footprint>digikey-footprints:SOT-23-3</footprint>
+      <datasheet>https://www.bourns.com/docs/Product-Datasheets/CDSOT23-SM712.pdf</datasheet>
+      <fields>
+        <field name="Category">Circuit Protection</field>
+        <field name="DK_Datasheet_Link">https://www.bourns.com/docs/Product-Datasheets/CDSOT23-SM712.pdf</field>
+        <field name="DK_Detail_Page">/product-detail/en/bourns-inc/CDSOT23-SM712/CDSOT23-SM712CT-ND/1630607</field>
+        <field name="Description">TVS DIODE 7V/12V 14V/26V SOT23-3</field>
+        <field name="Digikey">CDSOT23-SM712CT-ND</field>
+        <field name="Family">TVS - Diodes</field>
+        <field name="MPN">CDSOT23-SM712</field>
+        <field name="Manufacturer">Bourns Inc.</field>
+        <field name="Status">Active</field>
+      </fields>
+      <libsource lib="dk_TVS-Diodes" part="CDSOT23-SM712" description="TVS DIODE 7V/12V 14V/26V SOT23-3"/>
+      <property name="Digikey" value="CDSOT23-SM712CT-ND"/>
+      <property name="MPN" value="CDSOT23-SM712"/>
+      <property name="Category" value="Circuit Protection"/>
+      <property name="Family" value="TVS - Diodes"/>
+      <property name="DK_Datasheet_Link" value="https://www.bourns.com/docs/Product-Datasheets/CDSOT23-SM712.pdf"/>
+      <property name="DK_Detail_Page" value="/product-detail/en/bourns-inc/CDSOT23-SM712/CDSOT23-SM712CT-ND/1630607"/>
+      <property name="Description" value="TVS DIODE 7V/12V 14V/26V SOT23-3"/>
+      <property name="Manufacturer" value="Bourns Inc."/>
+      <property name="Status" value="Active"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006062bdd6</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>CDSOT23-SM712</value>
+      <footprint>digikey-footprints:SOT-23-3</footprint>
+      <datasheet>https://www.bourns.com/docs/Product-Datasheets/CDSOT23-SM712.pdf</datasheet>
+      <fields>
+        <field name="Category">Circuit Protection</field>
+        <field name="DK_Datasheet_Link">https://www.bourns.com/docs/Product-Datasheets/CDSOT23-SM712.pdf</field>
+        <field name="DK_Detail_Page">/product-detail/en/bourns-inc/CDSOT23-SM712/CDSOT23-SM712CT-ND/1630607</field>
+        <field name="Description">TVS DIODE 7V/12V 14V/26V SOT23-3</field>
+        <field name="Digikey">CDSOT23-SM712CT-ND</field>
+        <field name="Family">TVS - Diodes</field>
+        <field name="MPN">CDSOT23-SM712</field>
+        <field name="Manufacturer">Bourns Inc.</field>
+        <field name="Status">Active</field>
+      </fields>
+      <libsource lib="dk_TVS-Diodes" part="CDSOT23-SM712" description="TVS DIODE 7V/12V 14V/26V SOT23-3"/>
+      <property name="Digikey" value="CDSOT23-SM712CT-ND"/>
+      <property name="MPN" value="CDSOT23-SM712"/>
+      <property name="Category" value="Circuit Protection"/>
+      <property name="Family" value="TVS - Diodes"/>
+      <property name="DK_Datasheet_Link" value="https://www.bourns.com/docs/Product-Datasheets/CDSOT23-SM712.pdf"/>
+      <property name="DK_Detail_Page" value="/product-detail/en/bourns-inc/CDSOT23-SM712/CDSOT23-SM712CT-ND/1630607"/>
+      <property name="Description" value="TVS DIODE 7V/12V 14V/26V SOT23-3"/>
+      <property name="Manufacturer" value="Bourns Inc."/>
+      <property name="Status" value="Active"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006129f4a8</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric</footprint>
+      <fields>
+        <field name="Digikey">160-1405-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Digikey" value="160-1405-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006178c8fd</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>D_TVS</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <fields>
+        <field name="Digikey">DESD5V0U1BA-7DICT-ND</field>
+        <field name="MPN">DESD5V0U1BA-7</field>
+      </fields>
+      <libsource lib="Device" part="D_TVS" description="Bidirectional transient-voltage-suppression diode"/>
+      <property name="Digikey" value="DESD5V0U1BA-7DICT-ND"/>
+      <property name="MPN" value="DESD5V0U1BA-7"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006178c916</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x04</value>
+      <footprint>Connector_Molex:Molex_KK-254_AE-6410-04A_1x04_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Digikey">WM4202-ND</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Digikey" value="WM4202-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>28b7a9a7-4a1d-4e50-8e06-2fed00acfbab</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x04</value>
+      <footprint>Connector_Molex:Molex_KK-254_AE-6410-04A_1x04_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Digikey">WM4202-ND</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Digikey" value="WM4202-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8c53e5aa-8a17-4ee0-ab12-affcc7a100f9</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>RJ45_LED_Shielded</value>
+      <footprint>taylor_footprints:RJHSE-3381</footprint>
+      <fields>
+        <field name="Digikey">RJHSE-3381-ND</field>
+      </fields>
+      <libsource lib="Connector" part="RJ45_LED_Shielded" description="RJ connector, 8P8C (8 positions 8 connected), two LEDs, Shielded"/>
+      <property name="Digikey" value="RJHSE-3381-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006748aa17</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>RJ45_LED_Shielded</value>
+      <footprint>taylor_footprints:RJHSE-3381</footprint>
+      <fields>
+        <field name="Digikey">RJHSE-3381-ND</field>
+      </fields>
+      <libsource lib="Connector" part="RJ45_LED_Shielded" description="RJ connector, 8P8C (8 positions 8 connected), two LEDs, Shielded"/>
+      <property name="Digikey" value="RJHSE-3381-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000067486a9e</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>RJ45_LED_Shielded</value>
+      <footprint>taylor_footprints:RJHSE-3381</footprint>
+      <fields>
+        <field name="Digikey">RJHSE-3381-ND</field>
+      </fields>
+      <libsource lib="Connector" part="RJ45_LED_Shielded" description="RJ connector, 8P8C (8 positions 8 connected), two LEDs, Shielded"/>
+      <property name="Digikey" value="RJHSE-3381-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000066daed47</tstamps>
+    </comp>
+    <comp ref="J10">
+      <value>RJ45_LED_Shielded</value>
+      <footprint>taylor_footprints:RJHSE-3381</footprint>
+      <fields>
+        <field name="Digikey">RJHSE-3381-ND</field>
+      </fields>
+      <libsource lib="Connector" part="RJ45_LED_Shielded" description="RJ connector, 8P8C (8 positions 8 connected), two LEDs, Shielded"/>
+      <property name="Digikey" value="RJHSE-3381-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000066742bc7</tstamps>
+    </comp>
+    <comp ref="J11">
+      <value>Raspberry_Pi_2_3</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_2x20_P2.54mm_Vertical</footprint>
+      <datasheet>https://www.raspberrypi.org/documentation/hardware/raspberrypi/schematics/rpi_SCH_3bplus_1p0_reduced.pdf</datasheet>
+      <fields>
+        <field name="Digikey">S2012E-20-ND</field>
+      </fields>
+      <libsource lib="Connector" part="Raspberry_Pi_2_3" description="expansion header for Raspberry Pi 2 &amp; 3"/>
+      <property name="Digikey" value="S2012E-20-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006a5093d5</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">311-10.0KCRCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey" value="311-10.0KCRCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>33c3cf12-5fbd-418d-9c0e-777d634f29e7</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">311-1.0KARCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey" value="311-1.0KARCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cd46b1fd-43f8-43f2-bc4e-328b3ec6445b</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">311-10.0KCRCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey" value="311-10.0KCRCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005eb94948</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">311-1.0KARCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey" value="311-1.0KARCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005eb94cef</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">311-10.0KCRCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey" value="311-10.0KCRCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005ee1696e</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">311-1.0KARCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey" value="311-1.0KARCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005ee16978</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>130R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">RMCF0805FT130RCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey" value="RMCF0805FT130RCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000617273cb</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>750R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">RMCF0805FT750RCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey" value="RMCF0805FT750RCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000617273d5</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>130R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">RMCF0805FT130RCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey" value="RMCF0805FT130RCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000617274ae</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>750R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000617274b8</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>130R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">RMCF0805FT130RCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey" value="RMCF0805FT130RCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060506830</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>750R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">RMCF0805FT750RCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey" value="RMCF0805FT750RCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060506c89</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>130R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">RMCF0805FT130RCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey" value="RMCF0805FT130RCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006129f463</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>750R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">RMCF0805FT750RCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey" value="RMCF0805FT750RCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006129f46d</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>750R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">RMCF0805FT750RCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey" value="RMCF0805FT750RCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000617273c1</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>750R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000617274a4</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>750R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">RMCF0805FT750RCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey" value="RMCF0805FT750RCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000603ebfd5</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>750R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">RMCF0805FT750RCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey" value="RMCF0805FT750RCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006129f459</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>750R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">RMCF0805FT750RCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey" value="RMCF0805FT750RCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000617273df</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>130R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">RMCF0805FT130RCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey" value="RMCF0805FT130RCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061727482</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>750R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">RMCF0805FT750RCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey" value="RMCF0805FT750RCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000617273e9</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>750R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000617274c2</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>130R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">RMCF0805FT130RCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey" value="RMCF0805FT130RCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061727565</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>750R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000617274cc</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>750R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">RMCF0805FT750RCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey" value="RMCF0805FT750RCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006050a03a</tstamps>
+    </comp>
+    <comp ref="R26">
+      <value>130R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">RMCF0805FT130RCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey" value="RMCF0805FT130RCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006050a044</tstamps>
+    </comp>
+    <comp ref="R27">
+      <value>750R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">RMCF0805FT750RCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey" value="RMCF0805FT750RCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006050a04e</tstamps>
+    </comp>
+    <comp ref="R28">
+      <value>750R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">RMCF0805FT750RCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey" value="RMCF0805FT750RCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006129f477</tstamps>
+    </comp>
+    <comp ref="R29">
+      <value>130R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">RMCF0805FT130RCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey" value="RMCF0805FT130RCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006129f51a</tstamps>
+    </comp>
+    <comp ref="R30">
+      <value>750R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">RMCF0805FT750RCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey" value="RMCF0805FT750RCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006129f481</tstamps>
+    </comp>
+    <comp ref="R31">
+      <value>499R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">311-499CRCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey" value="311-499CRCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062612d37</tstamps>
+    </comp>
+    <comp ref="R32">
+      <value>499R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">311-499CRCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey" value="311-499CRCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062612d41</tstamps>
+    </comp>
+    <comp ref="R33">
+      <value>499R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">311-499CRCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey" value="311-499CRCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062612d4b</tstamps>
+    </comp>
+    <comp ref="R34">
+      <value>499R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">311-499CRCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey" value="311-499CRCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062612d55</tstamps>
+    </comp>
+    <comp ref="R35">
+      <value>499R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">311-499CRCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey" value="311-499CRCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000625f730d</tstamps>
+    </comp>
+    <comp ref="R36">
+      <value>499R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">311-499CRCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey" value="311-499CRCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000625f75a6</tstamps>
+    </comp>
+    <comp ref="R37">
+      <value>499R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">311-499CRCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey" value="311-499CRCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000625f7860</tstamps>
+    </comp>
+    <comp ref="R38">
+      <value>499R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">311-499CRCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey" value="311-499CRCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000625f7ae1</tstamps>
+    </comp>
+    <comp ref="R39">
+      <value>220R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">A129741CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey" value="A129741CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006178c903</tstamps>
+    </comp>
+    <comp ref="TP1">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Keystone_5015_Micro-Minature</footprint>
+      <fields>
+        <field name="Digikey">36-5015CT-ND</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Digikey" value="36-5015CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006bae220c</tstamps>
+    </comp>
+    <comp ref="TP2">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Keystone_5015_Micro-Minature</footprint>
+      <fields>
+        <field name="Digikey">36-5015CT-ND</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Digikey" value="36-5015CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006ba0fb3d</tstamps>
+    </comp>
+    <comp ref="TP3">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Keystone_5015_Micro-Minature</footprint>
+      <fields>
+        <field name="Digikey">36-5015CT-ND</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Digikey" value="36-5015CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006a6c5386</tstamps>
+    </comp>
+    <comp ref="TP4">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Keystone_5015_Micro-Minature</footprint>
+      <fields>
+        <field name="Digikey">36-5015CT-ND</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Digikey" value="36-5015CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006a6eef48</tstamps>
+    </comp>
+    <comp ref="TP5">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Keystone_5015_Micro-Minature</footprint>
+      <fields>
+        <field name="Digikey">36-5015CT-ND</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Digikey" value="36-5015CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006a6ef3ef</tstamps>
+    </comp>
+    <comp ref="TP6">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Keystone_5015_Micro-Minature</footprint>
+      <fields>
+        <field name="Digikey">36-5015CT-ND</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Digikey" value="36-5015CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006a6ef904</tstamps>
+    </comp>
+    <comp ref="TP7">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Keystone_5015_Micro-Minature</footprint>
+      <fields>
+        <field name="Digikey">36-5015CT-ND</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Digikey" value="36-5015CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006a6f0124</tstamps>
+    </comp>
+    <comp ref="TP8">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Keystone_5015_Micro-Minature</footprint>
+      <fields>
+        <field name="Digikey">36-5015CT-ND</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Digikey" value="36-5015CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7036e97d-19eb-4617-a9b6-d046dd75dd0c</tstamps>
+    </comp>
+    <comp ref="TP9">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Keystone_5015_Micro-Minature</footprint>
+      <fields>
+        <field name="Digikey">36-5015CT-ND</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Digikey" value="36-5015CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa3b51f6-39b4-47b5-9b14-681e58a442c8</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>SC16IS752</value>
+      <footprint>Package_SO:TSSOP-28_4.4x9.7mm_P0.65mm</footprint>
+      <datasheet>DOCUMENTATION</datasheet>
+      <fields>
+        <field name="Digikey">568-4021-5-ND</field>
+      </fields>
+      <libsource lib="SC16IS752" part="SC16IS752" description=""/>
+      <property name="Digikey" value="568-4021-5-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>85df1d28-afe5-41db-a992-6cbff2548e67</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>SC16IS752</value>
+      <footprint>Package_SO:TSSOP-28_4.4x9.7mm_P0.65mm</footprint>
+      <datasheet>DOCUMENTATION</datasheet>
+      <fields>
+        <field name="Digikey">568-4021-5-ND</field>
+      </fields>
+      <libsource lib="SC16IS752" part="SC16IS752" description=""/>
+      <property name="Digikey" value="568-4021-5-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005eb62b34</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>SC16IS752</value>
+      <footprint>Package_SO:TSSOP-28_4.4x9.7mm_P0.65mm</footprint>
+      <datasheet>DOCUMENTATION</datasheet>
+      <fields>
+        <field name="Digikey">568-4021-5-ND</field>
+      </fields>
+      <libsource lib="SC16IS752" part="SC16IS752" description=""/>
+      <property name="Digikey" value="568-4021-5-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005ee1691c</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>FOD8012AR2</value>
+      <footprint>taylor_footprints:FOD8012AR2</footprint>
+      <fields>
+        <field name="Digikey">FOD8012A-ND</field>
+      </fields>
+      <libsource lib="2021-10-15_06-38-43" part="FOD8012AR2" description=""/>
+      <property name="Digikey" value="FOD8012A-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000639895aa</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>FOD8012AR2</value>
+      <footprint>taylor_footprints:FOD8012AR2</footprint>
+      <fields>
+        <field name="Digikey">FOD8012A-ND</field>
+      </fields>
+      <libsource lib="2021-10-15_06-38-43" part="FOD8012AR2" description=""/>
+      <property name="Digikey" value="FOD8012A-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000640da914</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>FOD8012AR2</value>
+      <footprint>taylor_footprints:FOD8012AR2</footprint>
+      <fields>
+        <field name="Digikey">FOD8012A-ND</field>
+      </fields>
+      <libsource lib="2021-10-15_06-38-43" part="FOD8012AR2" description=""/>
+      <property name="Digikey" value="FOD8012A-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000064f5522b</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>FOD8012AR2</value>
+      <footprint>taylor_footprints:FOD8012AR2</footprint>
+      <fields>
+        <field name="Digikey">FOD8012A-ND</field>
+      </fields>
+      <libsource lib="2021-10-15_06-38-43" part="FOD8012AR2" description=""/>
+      <property name="Digikey" value="FOD8012A-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000064f5525a</tstamps>
+    </comp>
+    <comp ref="U8">
+      <value>PDS1-S3-S3-M</value>
+      <footprint>power_footprints:CONV_PDS1-S3-S3-M</footprint>
+      <fields>
+        <field name="Digikey">102-5720-ND</field>
+        <field name="MPN">PDS1-S3-S3-M</field>
+      </fields>
+      <libsource lib="PDS1-S3-S3-M" part="PDS1-S3-S3-M" description=""/>
+      <property name="Digikey" value="102-5720-ND"/>
+      <property name="MPN" value="PDS1-S3-S3-M"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4864b5f9-3642-4ba8-be8e-195248244fbe</tstamps>
+    </comp>
+    <comp ref="U9">
+      <value>THVD1451D</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/thvd1451.pdf</datasheet>
+      <fields>
+        <field name="Digikey">MAX3490EESA+CT-ND</field>
+      </fields>
+      <libsource lib="Interface_UART" part="THVD1451D" description="RS485 transceiver, 3.3-V to 5-V, 18-kV IEC ESD Protection, SOIC-8"/>
+      <property name="Digikey" value="MAX3490EESA+CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005ee16926</tstamps>
+    </comp>
+    <comp ref="U10">
+      <value>THVD1451D</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/thvd1451.pdf</datasheet>
+      <fields>
+        <field name="Digikey">MAX3490EESA+CT-ND</field>
+      </fields>
+      <libsource lib="Interface_UART" part="THVD1451D" description="RS485 transceiver, 3.3-V to 5-V, 18-kV IEC ESD Protection, SOIC-8"/>
+      <property name="Digikey" value="MAX3490EESA+CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005ee16930</tstamps>
+    </comp>
+    <comp ref="U11">
+      <value>THVD1451D</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/thvd1451.pdf</datasheet>
+      <fields>
+        <field name="Digikey">MAX3490EESA+CT-ND</field>
+      </fields>
+      <libsource lib="Interface_UART" part="THVD1451D" description="RS485 transceiver, 3.3-V to 5-V, 18-kV IEC ESD Protection, SOIC-8"/>
+      <property name="Digikey" value="MAX3490EESA+CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005eb83072</tstamps>
+    </comp>
+    <comp ref="U12">
+      <value>THVD1451D</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/thvd1451.pdf</datasheet>
+      <fields>
+        <field name="Digikey">MAX3490EESA+CT-ND</field>
+      </fields>
+      <libsource lib="Interface_UART" part="THVD1451D" description="RS485 transceiver, 3.3-V to 5-V, 18-kV IEC ESD Protection, SOIC-8"/>
+      <property name="Digikey" value="MAX3490EESA+CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005eb8369d</tstamps>
+    </comp>
+    <comp ref="U13">
+      <value>FOD8012AR2</value>
+      <footprint>taylor_footprints:FOD8012AR2</footprint>
+      <fields>
+        <field name="Digikey">FOD8012A-ND</field>
+      </fields>
+      <libsource lib="2021-10-15_06-38-43" part="FOD8012AR2" description=""/>
+      <property name="Digikey" value="FOD8012A-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000621b5491</tstamps>
+    </comp>
+    <comp ref="U14">
+      <value>buffer</value>
+      <footprint>footprints2:SN74LVC1G07QDCKTQ1</footprint>
+      <fields>
+        <field name="Digikey">TC7SH34FULJ(CTCT-ND</field>
+        <field name="MPN">TC7SH34FU,LJ(CT</field>
+      </fields>
+      <libsource lib="taylor_kicad" part="SN74LVC1G07QDCKTQ1" description=""/>
+      <property name="MPN" value="TC7SH34FU,LJ(CT"/>
+      <property name="Digikey" value="TC7SH34FULJ(CTCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>16900c41-6659-4307-8145-be162a476748</tstamps>
+    </comp>
+    <comp ref="Y1">
+      <value>Crystal_GND24</value>
+      <footprint>Crystal:Crystal_SMD_Abracon_ABM3C-4Pin_5.0x3.2mm</footprint>
+      <fields>
+        <field name="Digikey">535-11286-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="Crystal_GND24" description="Four pin crystal, GND on pins 2 and 4"/>
+      <property name="Digikey" value="535-11286-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2c7a674b-f155-43dd-93e2-5c0b461529e3</tstamps>
+    </comp>
+    <comp ref="Y2">
+      <value>Crystal_GND24</value>
+      <footprint>Crystal:Crystal_SMD_Abracon_ABM3C-4Pin_5.0x3.2mm</footprint>
+      <fields>
+        <field name="Digikey">535-11286-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="Crystal_GND24" description="Four pin crystal, GND on pins 2 and 4"/>
+      <property name="Digikey" value="535-11286-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005eb8ee28</tstamps>
+    </comp>
+    <comp ref="Y3">
+      <value>Crystal_GND24</value>
+      <footprint>Crystal:Crystal_SMD_Abracon_ABM3C-4Pin_5.0x3.2mm</footprint>
+      <fields>
+        <field name="Digikey">535-11286-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="Crystal_GND24" description="Four pin crystal, GND on pins 2 and 4"/>
+      <property name="Digikey" value="535-11286-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-serial.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005ee16950</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="2021-10-15_06-38-43" part="FOD8012AR2">
+      <footprints>
+        <fp>SOIC8_4P16X5P13_ONS</fp>
+        <fp>SOIC8_4P16X5P13_ONS-M</fp>
+        <fp>SOIC8_4P16X5P13_ONS-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">2021-10-15_06-38-43_FOD8012AR2</field>
+        <field name="Footprint">SOIC8_4P16X5P13_ONS</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD1" type="power_in"/>
+        <pin num="2" name="VOA" type="output"/>
+        <pin num="3" name="VINB" type="input"/>
+        <pin num="4" name="GND1" type="power_in"/>
+        <pin num="5" name="GND2" type="power_in"/>
+        <pin num="6" name="VOB" type="output"/>
+        <pin num="7" name="VINA" type="input"/>
+        <pin num="8" name="VDD2" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="RJ45_LED_Shielded">
+      <description>RJ connector, 8P8C (8 positions 8 connected), two LEDs, Shielded</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>8P8C*</fp>
+        <fp>RJ45*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">RJ45_LED_Shielded</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="5" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+        <pin num="7" name="" type="passive"/>
+        <pin num="8" name="" type="passive"/>
+        <pin num="9" name="" type="passive"/>
+        <pin num="10" name="" type="passive"/>
+        <pin num="11" name="" type="passive"/>
+        <pin num="12" name="" type="passive"/>
+        <pin num="SH" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Raspberry_Pi_2_3">
+      <description>expansion header for Raspberry Pi 2 &amp; 3</description>
+      <docs>https://www.raspberrypi.org/documentation/hardware/raspberrypi/schematics/rpi_SCH_3bplus_1p0_reduced.pdf</docs>
+      <footprints>
+        <fp>PinHeader*2x20*P2.54mm*Vertical*</fp>
+        <fp>PinSocket*2x20*P2.54mm*Vertical*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Raspberry_Pi_2_3</field>
+        <field name="Datasheet">https://www.raspberrypi.org/documentation/hardware/raspberrypi/schematics/rpi_SCH_3bplus_1p0_reduced.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="3V3" type="power_in"/>
+        <pin num="2" name="5V" type="power_in"/>
+        <pin num="3" name="SDA/GPIO2" type="bidirectional"/>
+        <pin num="4" name="5V" type="power_in"/>
+        <pin num="5" name="SCL/GPIO3" type="bidirectional"/>
+        <pin num="6" name="GND" type="power_in"/>
+        <pin num="7" name="GCLK0/GPIO4" type="bidirectional"/>
+        <pin num="8" name="GPIO14/TXD" type="bidirectional"/>
+        <pin num="9" name="GND" type="power_in"/>
+        <pin num="10" name="GPIO15/RXD" type="bidirectional"/>
+        <pin num="11" name="GPIO17" type="bidirectional"/>
+        <pin num="12" name="GPIO18/PWM0" type="bidirectional"/>
+        <pin num="13" name="GPIO27" type="bidirectional"/>
+        <pin num="14" name="GND" type="power_in"/>
+        <pin num="15" name="GPIO22" type="bidirectional"/>
+        <pin num="16" name="GPIO23" type="bidirectional"/>
+        <pin num="17" name="3V3" type="power_in"/>
+        <pin num="18" name="GPIO24" type="bidirectional"/>
+        <pin num="19" name="MOSI0/GPIO10" type="bidirectional"/>
+        <pin num="20" name="GND" type="power_in"/>
+        <pin num="21" name="MISO0/GPIO9" type="bidirectional"/>
+        <pin num="22" name="GPIO25" type="bidirectional"/>
+        <pin num="23" name="SCLK0/GPIO11" type="bidirectional"/>
+        <pin num="24" name="~{CE0}/GPIO8" type="bidirectional"/>
+        <pin num="25" name="GND" type="power_in"/>
+        <pin num="26" name="~{CE1}/GPIO7" type="bidirectional"/>
+        <pin num="27" name="ID_SD/GPIO0" type="bidirectional"/>
+        <pin num="28" name="ID_SC/GPIO1" type="bidirectional"/>
+        <pin num="29" name="GCLK1/GPIO5" type="bidirectional"/>
+        <pin num="30" name="GND" type="power_in"/>
+        <pin num="31" name="GCLK2/GPIO6" type="bidirectional"/>
+        <pin num="32" name="PWM0/GPIO12" type="bidirectional"/>
+        <pin num="33" name="PWM1/GPIO13" type="bidirectional"/>
+        <pin num="34" name="GND" type="power_in"/>
+        <pin num="35" name="GPIO19/MISO1" type="bidirectional"/>
+        <pin num="36" name="GPIO16" type="bidirectional"/>
+        <pin num="37" name="GPIO26" type="bidirectional"/>
+        <pin num="38" name="GPIO20/MOSI1" type="bidirectional"/>
+        <pin num="39" name="GND" type="power_in"/>
+        <pin num="40" name="GPIO21/SCLK1" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="TestPoint">
+      <description>test point</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x04">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Crystal_GND24">
+      <description>Four pin crystal, GND on pins 2 and 4</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal_GND24</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_TVS">
+      <description>Bidirectional transient-voltage-suppression diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_TVS</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A1" type="passive"/>
+        <pin num="2" name="A2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Interface_UART" part="THVD1451D">
+      <description>RS485 transceiver, 3.3-V to 5-V, 18-kV IEC ESD Protection, SOIC-8</description>
+      <docs>http://www.ti.com/lit/ds/symlink/thvd1451.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x4.9mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">THVD1451D</field>
+        <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/thvd1451.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC" type="power_in"/>
+        <pin num="2" name="R" type="output"/>
+        <pin num="3" name="D" type="input"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="Y" type="output"/>
+        <pin num="6" name="Z" type="output"/>
+        <pin num="7" name="B" type="input"/>
+        <pin num="8" name="A" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="SolderJumper_2_Bridged">
+      <description>Solder Jumper, 2-pole, closed/bridged</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SolderJumper*Bridged*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">SolderJumper_2_Bridged</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="SolderJumper_2_Open">
+      <description>Solder Jumper, 2-pole, open</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SolderJumper*Open*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">SolderJumper_2_Open</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="SolderJumper_3_Open">
+      <description>Solder Jumper, 3-pole, open</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SolderJumper*Open*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">SolderJumper_3_Open</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="C" type="input"/>
+        <pin num="3" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="PDS1-S3-S3-M" part="PDS1-S3-S3-M">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">PDS1-S3-S3-M</field>
+        <field name="Footprint">CONV_PDS1-S3-S3-M</field>
+        <field name="MP">PDS1-S12-S12-M</field>
+        <field name="PACKAGE">SMD-8 CUI</field>
+        <field name="DESCRIPTION">PDS1 Series 1 W 12 VDC 84 mA Surface Mount DC-DC Isolated Converter</field>
+        <field name="PRICE">4.02 USD</field>
+        <field name="AVAILABILITY">Bad</field>
+        <field name="MF">CUI</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VIN" type="input"/>
+        <pin num="4" name="0V" type="power_in"/>
+        <pin num="5" name="+VO" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="SC16IS752" part="SC16IS752">
+      <docs>DOCUMENTATION</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SC16IS752</field>
+        <field name="Footprint">MODULE</field>
+        <field name="Datasheet">DOCUMENTATION</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~{RTSA}" type="output"/>
+        <pin num="2" name="~{CTSA}" type="input"/>
+        <pin num="3" name="TXA" type="output"/>
+        <pin num="4" name="RXA" type="input"/>
+        <pin num="5" name="~{RESET}" type="input"/>
+        <pin num="6" name="XTAL1" type="input"/>
+        <pin num="7" name="XTAL2" type="input"/>
+        <pin num="8" name="VDD" type="power_in"/>
+        <pin num="9" name="I2C/~{SPI}" type="input"/>
+        <pin num="10" name="A0/~{CS}" type="input"/>
+        <pin num="11" name="A1/SI" type="input"/>
+        <pin num="12" name="SO" type="output"/>
+        <pin num="13" name="SCL/SCLK" type="input"/>
+        <pin num="14" name="SDA/VSS" type="bidirectional"/>
+        <pin num="15" name="~{IRQ}" type="output"/>
+        <pin num="16" name="~{CTSB}" type="input"/>
+        <pin num="17" name="~{RTSB}" type="output"/>
+        <pin num="18" name="~{DSRB}" type="output"/>
+        <pin num="19" name="~{DTRB}" type="input"/>
+        <pin num="20" name="~{CDB}" type="input"/>
+        <pin num="21" name="~{RIB}" type="input"/>
+        <pin num="22" name="VSS" type="power_in"/>
+        <pin num="23" name="TXB" type="output"/>
+        <pin num="24" name="RXB" type="input"/>
+        <pin num="25" name="~{DSRA}" type="output"/>
+        <pin num="26" name="~{DTRA}" type="input"/>
+        <pin num="27" name="~{CDA}" type="input"/>
+        <pin num="28" name="~{RIA}" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="dk_TVS-Diodes" part="CDSOT23-SM712">
+      <description>TVS DIODE 7V/12V 14V/26V SOT23-3</description>
+      <docs>https://www.bourns.com/docs/Product-Datasheets/CDSOT23-SM712.pdf</docs>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">CDSOT23-SM712</field>
+        <field name="Footprint">digikey-footprints:SOT-23-3</field>
+        <field name="Datasheet">https://www.bourns.com/docs/Product-Datasheets/CDSOT23-SM712.pdf</field>
+        <field name="Digi-Key_PN">CDSOT23-SM712CT-ND</field>
+        <field name="MPN">CDSOT23-SM712</field>
+        <field name="Category">Circuit Protection</field>
+        <field name="Family">TVS - Diodes</field>
+        <field name="DK_Datasheet_Link">https://www.bourns.com/docs/Product-Datasheets/CDSOT23-SM712.pdf</field>
+        <field name="DK_Detail_Page">/product-detail/en/bourns-inc/CDSOT23-SM712/CDSOT23-SM712CT-ND/1630607</field>
+        <field name="Description">TVS DIODE 7V/12V 14V/26V SOT23-3</field>
+        <field name="Manufacturer">Bourns Inc.</field>
+        <field name="Status">Active</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Input" type="input"/>
+        <pin num="2" name="Input" type="input"/>
+        <pin num="3" name="Output" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="taylor_kicad" part="SN74LVC1G07QDCKTQ1">
+      <footprints>
+        <fp>DBV5_TEX</fp>
+        <fp>DBV5_TEX-M</fp>
+        <fp>DBV5_TEX-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">taylor_kicad_SN74LVC1G07QDCKTQ1</field>
+        <field name="Footprint">DBV5_TEX</field>
+      </fields>
+      <pins>
+        <pin num="2" name="A" type="input"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="Y" type="output"/>
+        <pin num="5" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/usr/share/kicad-nightly/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>/usr/share/kicad-nightly/symbols//Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad-nightly/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Interface_UART">
+      <uri>/usr/share/kicad-nightly/symbols//Interface_UART.kicad_sym</uri>
+    </library>
+    <library logical="Jumper">
+      <uri>/usr/share/kicad-nightly/symbols//Jumper.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>/usr/share/kicad-nightly/symbols//Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="PDS1-S3-S3-M">
+      <uri>/home/taylor/pcb/library/PDS1-S3-S3-M.kicad_sym</uri>
+    </library>
+    <library logical="SC16IS752">
+      <uri>/home/taylor/pcb/library/sx16is752-breakout/SC16IS752.lib</uri>
+    </library>
+    <library logical="dk_TVS-Diodes">
+      <uri>/home/taylor/pcb/library/digikey-kicad-library/digikey-symbols/dk_TVS-Diodes.lib</uri>
+    </library>
+    <library logical="taylor_kicad">
+      <uri>/home/taylor/pcb/library/taylor_kicad.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="J10" pin="10" pintype="passive"/>
+      <node ref="J10" pin="12" pintype="passive"/>
+      <node ref="J11" pin="1" pinfunction="3V3" pintype="power_in"/>
+      <node ref="J11" pin="17" pinfunction="3V3" pintype="power_in"/>
+      <node ref="J7" pin="10" pintype="passive"/>
+      <node ref="J7" pin="12" pintype="passive"/>
+      <node ref="J8" pin="10" pintype="passive"/>
+      <node ref="J8" pin="12" pintype="passive"/>
+      <node ref="J9" pin="10" pintype="passive"/>
+      <node ref="J9" pin="12" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U13" pin="1" pinfunction="VDD1" pintype="power_in"/>
+      <node ref="U2" pin="8" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U3" pin="8" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U4" pin="1" pinfunction="VDD1" pintype="power_in"/>
+      <node ref="U5" pin="1" pinfunction="VDD1" pintype="power_in"/>
+      <node ref="U6" pin="1" pinfunction="VDD1" pintype="power_in"/>
+      <node ref="U7" pin="1" pinfunction="VDD1" pintype="power_in"/>
+      <node ref="U8" pin="2" pinfunction="VIN" pintype="input"/>
+    </net>
+    <net code="2" name="+3V3_isolated">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="R24" pin="1" pintype="passive"/>
+      <node ref="R27" pin="1" pintype="passive"/>
+      <node ref="R30" pin="1" pintype="passive"/>
+      <node ref="TP8" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U10" pin="1" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U11" pin="1" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U12" pin="1" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U13" pin="8" pinfunction="VDD2" pintype="power_in"/>
+      <node ref="U4" pin="8" pinfunction="VDD2" pintype="power_in"/>
+      <node ref="U5" pin="8" pinfunction="VDD2" pintype="power_in"/>
+      <node ref="U6" pin="8" pinfunction="VDD2" pintype="power_in"/>
+      <node ref="U7" pin="8" pinfunction="VDD2" pintype="power_in"/>
+      <node ref="U8" pin="5" pinfunction="+VO" pintype="output"/>
+      <node ref="U9" pin="1" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="3" name="+5V">
+      <node ref="J11" pin="2" pinfunction="5V" pintype="power_in"/>
+      <node ref="J11" pin="4" pinfunction="5V" pintype="power_in"/>
+    </net>
+    <net code="4" name="CS1">
+      <node ref="J11" pin="12" pinfunction="GPIO18/PWM0" pintype="bidirectional"/>
+      <node ref="U3" pin="10" pinfunction="A0/~{CS}" pintype="input"/>
+    </net>
+    <net code="5" name="CS2">
+      <node ref="J11" pin="11" pinfunction="GPIO17" pintype="bidirectional"/>
+      <node ref="TP3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="10" pinfunction="A0/~{CS}" pintype="input"/>
+    </net>
+    <net code="6" name="CS3">
+      <node ref="J11" pin="36" pinfunction="GPIO16" pintype="bidirectional"/>
+      <node ref="U1" pin="10" pinfunction="A0/~{CS}" pintype="input"/>
+    </net>
+    <net code="7" name="E1A">
+      <node ref="J7" pin="5" pintype="passive"/>
+    </net>
+    <net code="8" name="E1B">
+      <node ref="J7" pin="4" pintype="passive"/>
+      <node ref="J8" pin="5" pintype="passive"/>
+    </net>
+    <net code="9" name="E2A">
+      <node ref="J8" pin="4" pintype="passive"/>
+      <node ref="J9" pin="5" pintype="passive"/>
+    </net>
+    <net code="10" name="E3B">
+      <node ref="J10" pin="5" pintype="passive"/>
+      <node ref="J9" pin="4" pintype="passive"/>
+    </net>
+    <net code="11" name="E4A">
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="D10" pin="1" pinfunction="A1" pintype="passive"/>
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J10" pin="4" pintype="passive"/>
+      <node ref="U14" pin="5" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="12" name="ESTOP_IN">
+      <node ref="J11" pin="31" pinfunction="GCLK2/GPIO6" pintype="bidirectional"/>
+      <node ref="U13" pin="3" pinfunction="VINB" pintype="input"/>
+    </net>
+    <net code="13" name="ESTOP_IN_ISOLATED">
+      <node ref="U13" pin="6" pinfunction="VOB" pintype="output"/>
+      <node ref="U14" pin="2" pinfunction="A" pintype="input"/>
+    </net>
+    <net code="14" name="ESTOP_OUT">
+      <node ref="J10" pin="8" pintype="passive"/>
+      <node ref="J7" pin="8" pintype="passive"/>
+      <node ref="J8" pin="8" pintype="passive"/>
+      <node ref="J9" pin="8" pintype="passive"/>
+      <node ref="U13" pin="7" pinfunction="VINA" pintype="input"/>
+      <node ref="U14" pin="4" pinfunction="Y" pintype="output"/>
+    </net>
+    <net code="15" name="ESTOP_RETURN">
+      <node ref="J11" pin="33" pinfunction="PWM1/GPIO13" pintype="bidirectional"/>
+      <node ref="U13" pin="2" pinfunction="VOA" pintype="output"/>
+    </net>
+    <net code="16" name="GND">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J11" pin="14" pinfunction="GND" pintype="power_in"/>
+      <node ref="J11" pin="20" pinfunction="GND" pintype="power_in"/>
+      <node ref="J11" pin="25" pinfunction="GND" pintype="power_in"/>
+      <node ref="J11" pin="30" pinfunction="GND" pintype="power_in"/>
+      <node ref="J11" pin="34" pinfunction="GND" pintype="power_in"/>
+      <node ref="J11" pin="39" pinfunction="GND" pintype="power_in"/>
+      <node ref="J11" pin="6" pinfunction="GND" pintype="power_in"/>
+      <node ref="J11" pin="9" pinfunction="GND" pintype="power_in"/>
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="TP1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="SDA/VSS" pintype="bidirectional"/>
+      <node ref="U1" pin="22" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U1" pin="9" pinfunction="I2C/~{SPI}" pintype="input"/>
+      <node ref="U13" pin="4" pinfunction="GND1" pintype="power_in"/>
+      <node ref="U2" pin="14" pinfunction="SDA/VSS" pintype="bidirectional"/>
+      <node ref="U2" pin="22" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U2" pin="9" pinfunction="I2C/~{SPI}" pintype="input"/>
+      <node ref="U3" pin="14" pinfunction="SDA/VSS" pintype="bidirectional"/>
+      <node ref="U3" pin="22" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U3" pin="9" pinfunction="I2C/~{SPI}" pintype="input"/>
+      <node ref="U4" pin="4" pinfunction="GND1" pintype="power_in"/>
+      <node ref="U5" pin="4" pinfunction="GND1" pintype="power_in"/>
+      <node ref="U6" pin="4" pinfunction="GND1" pintype="power_in"/>
+      <node ref="U7" pin="4" pinfunction="GND1" pintype="power_in"/>
+      <node ref="U8" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="Y1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Y1" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="Y2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Y2" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="Y3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Y3" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="17" name="GND_isolated">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="D1" pin="3" pinfunction="Output" pintype="output"/>
+      <node ref="D10" pin="2" pinfunction="A2" pintype="passive"/>
+      <node ref="D2" pin="3" pinfunction="Output" pintype="output"/>
+      <node ref="D3" pin="3" pinfunction="Output" pintype="output"/>
+      <node ref="D4" pin="3" pinfunction="Output" pintype="output"/>
+      <node ref="D5" pin="3" pinfunction="Output" pintype="output"/>
+      <node ref="D6" pin="3" pinfunction="Output" pintype="output"/>
+      <node ref="D7" pin="3" pinfunction="Output" pintype="output"/>
+      <node ref="D8" pin="3" pinfunction="Output" pintype="output"/>
+      <node ref="J10" pin="7" pintype="passive"/>
+      <node ref="J10" pin="SH" pintype="passive"/>
+      <node ref="J7" pin="7" pintype="passive"/>
+      <node ref="J7" pin="SH" pintype="passive"/>
+      <node ref="J8" pin="7" pintype="passive"/>
+      <node ref="J8" pin="SH" pintype="passive"/>
+      <node ref="J9" pin="7" pintype="passive"/>
+      <node ref="J9" pin="SH" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="R22" pin="1" pintype="passive"/>
+      <node ref="R25" pin="1" pintype="passive"/>
+      <node ref="R28" pin="1" pintype="passive"/>
+      <node ref="R39" pin="2" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="TP9" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U10" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="U11" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="U12" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="U13" pin="5" pinfunction="GND2" pintype="power_in"/>
+      <node ref="U14" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="5" pinfunction="GND2" pintype="power_in"/>
+      <node ref="U5" pin="5" pinfunction="GND2" pintype="power_in"/>
+      <node ref="U6" pin="5" pinfunction="GND2" pintype="power_in"/>
+      <node ref="U7" pin="5" pinfunction="GND2" pintype="power_in"/>
+      <node ref="U8" pin="4" pinfunction="0V" pintype="power_in"/>
+      <node ref="U9" pin="4" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="18" name="IRQ1">
+      <node ref="J11" pin="37" pinfunction="GPIO26" pintype="bidirectional"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U3" pin="15" pinfunction="~{IRQ}" pintype="output"/>
+    </net>
+    <net code="19" name="IRQ2">
+      <node ref="J11" pin="13" pinfunction="GPIO27" pintype="bidirectional"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="TP7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="15" pinfunction="~{IRQ}" pintype="output"/>
+    </net>
+    <net code="20" name="IRQ3">
+      <node ref="J11" pin="26" pinfunction="~{CE1}/GPIO7" pintype="bidirectional"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="~{IRQ}" pintype="output"/>
+    </net>
+    <net code="21" name="MISO">
+      <node ref="J11" pin="35" pinfunction="GPIO19/MISO1" pintype="bidirectional"/>
+      <node ref="TP5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="SO" pintype="output"/>
+      <node ref="U2" pin="12" pinfunction="SO" pintype="output"/>
+      <node ref="U3" pin="12" pinfunction="SO" pintype="output"/>
+    </net>
+    <net code="22" name="MOSI">
+      <node ref="J11" pin="38" pinfunction="GPIO20/MOSI1" pintype="bidirectional"/>
+      <node ref="TP4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="A1/SI" pintype="input"/>
+      <node ref="U2" pin="11" pinfunction="A1/SI" pintype="input"/>
+      <node ref="U3" pin="11" pinfunction="A1/SI" pintype="input"/>
+    </net>
+    <net code="23" name="Net-(C1-Pad2)">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="XTAL1" pintype="input"/>
+      <node ref="Y1" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="XTAL2" pintype="input"/>
+      <node ref="Y1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(C3-Pad2)">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="XTAL1" pintype="input"/>
+      <node ref="Y2" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(C4-Pad1)">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="U2" pin="7" pinfunction="XTAL2" pintype="input"/>
+      <node ref="Y2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(C5-Pad2)">
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="U3" pin="6" pinfunction="XTAL1" pintype="input"/>
+      <node ref="Y3" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(C6-Pad1)">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="U3" pin="7" pinfunction="XTAL2" pintype="input"/>
+      <node ref="Y3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1" pinfunction="Input" pintype="input"/>
+      <node ref="J7" pin="2" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+      <node ref="U9" pin="6" pinfunction="Z" pintype="output"/>
+    </net>
+    <net code="30" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="Input" pintype="input"/>
+      <node ref="J7" pin="1" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+      <node ref="U9" pin="5" pinfunction="Y" pintype="output"/>
+    </net>
+    <net code="31" name="Net-(D2-Pad1)">
+      <node ref="D2" pin="1" pinfunction="Input" pintype="input"/>
+      <node ref="J8" pin="2" pintype="passive"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+      <node ref="R23" pin="2" pintype="passive"/>
+      <node ref="U10" pin="6" pinfunction="Z" pintype="output"/>
+    </net>
+    <net code="32" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pinfunction="Input" pintype="input"/>
+      <node ref="J8" pin="1" pintype="passive"/>
+      <node ref="R23" pin="1" pintype="passive"/>
+      <node ref="R24" pin="2" pintype="passive"/>
+      <node ref="U10" pin="5" pinfunction="Y" pintype="output"/>
+    </net>
+    <net code="33" name="Net-(D3-Pad1)">
+      <node ref="D3" pin="1" pinfunction="Input" pintype="input"/>
+      <node ref="J9" pin="2" pintype="passive"/>
+      <node ref="R25" pin="2" pintype="passive"/>
+      <node ref="R26" pin="2" pintype="passive"/>
+      <node ref="U11" pin="6" pinfunction="Z" pintype="output"/>
+    </net>
+    <net code="34" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2" pinfunction="Input" pintype="input"/>
+      <node ref="J9" pin="1" pintype="passive"/>
+      <node ref="R26" pin="1" pintype="passive"/>
+      <node ref="R27" pin="2" pintype="passive"/>
+      <node ref="U11" pin="5" pinfunction="Y" pintype="output"/>
+    </net>
+    <net code="35" name="Net-(D4-Pad1)">
+      <node ref="D4" pin="1" pinfunction="Input" pintype="input"/>
+      <node ref="J10" pin="2" pintype="passive"/>
+      <node ref="R28" pin="2" pintype="passive"/>
+      <node ref="R29" pin="2" pintype="passive"/>
+      <node ref="U12" pin="6" pinfunction="Z" pintype="output"/>
+    </net>
+    <net code="36" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2" pinfunction="Input" pintype="input"/>
+      <node ref="J10" pin="1" pintype="passive"/>
+      <node ref="R29" pin="1" pintype="passive"/>
+      <node ref="R30" pin="2" pintype="passive"/>
+      <node ref="U12" pin="5" pinfunction="Y" pintype="output"/>
+    </net>
+    <net code="37" name="Net-(D5-Pad1)">
+      <node ref="D5" pin="1" pinfunction="Input" pintype="input"/>
+      <node ref="J7" pin="6" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U9" pin="8" pinfunction="A" pintype="input"/>
+    </net>
+    <net code="38" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2" pinfunction="Input" pintype="input"/>
+      <node ref="J7" pin="3" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U9" pin="7" pinfunction="B" pintype="input"/>
+    </net>
+    <net code="39" name="Net-(D6-Pad1)">
+      <node ref="D6" pin="1" pinfunction="Input" pintype="input"/>
+      <node ref="J8" pin="6" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U10" pin="8" pinfunction="A" pintype="input"/>
+    </net>
+    <net code="40" name="Net-(D6-Pad2)">
+      <node ref="D6" pin="2" pinfunction="Input" pintype="input"/>
+      <node ref="J8" pin="3" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U10" pin="7" pinfunction="B" pintype="input"/>
+    </net>
+    <net code="41" name="Net-(D7-Pad1)">
+      <node ref="D7" pin="1" pinfunction="Input" pintype="input"/>
+      <node ref="J9" pin="6" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="U11" pin="8" pinfunction="A" pintype="input"/>
+    </net>
+    <net code="42" name="Net-(D7-Pad2)">
+      <node ref="D7" pin="2" pinfunction="Input" pintype="input"/>
+      <node ref="J9" pin="3" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="U11" pin="7" pinfunction="B" pintype="input"/>
+    </net>
+    <net code="43" name="Net-(D8-Pad1)">
+      <node ref="D8" pin="1" pinfunction="Input" pintype="input"/>
+      <node ref="J10" pin="6" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="U12" pin="8" pinfunction="A" pintype="input"/>
+    </net>
+    <net code="44" name="Net-(D8-Pad2)">
+      <node ref="D8" pin="2" pinfunction="Input" pintype="input"/>
+      <node ref="J10" pin="3" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="U12" pin="7" pinfunction="B" pintype="input"/>
+    </net>
+    <net code="45" name="Net-(D9-Pad1)">
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R39" pin="1" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(J7-Pad9)">
+      <node ref="J7" pin="9" pintype="passive"/>
+      <node ref="R31" pin="1" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(J7-Pad11)">
+      <node ref="J7" pin="11" pintype="passive"/>
+      <node ref="R32" pin="1" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(J8-Pad9)">
+      <node ref="J8" pin="9" pintype="passive"/>
+      <node ref="R33" pin="1" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(J8-Pad11)">
+      <node ref="J8" pin="11" pintype="passive"/>
+      <node ref="R34" pin="1" pintype="passive"/>
+    </net>
+    <net code="50" name="Net-(J9-Pad9)">
+      <node ref="J9" pin="9" pintype="passive"/>
+      <node ref="R35" pin="1" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(J9-Pad11)">
+      <node ref="J9" pin="11" pintype="passive"/>
+      <node ref="R36" pin="1" pintype="passive"/>
+    </net>
+    <net code="52" name="Net-(J10-Pad9)">
+      <node ref="J10" pin="9" pintype="passive"/>
+      <node ref="R37" pin="1" pintype="passive"/>
+    </net>
+    <net code="53" name="Net-(J10-Pad11)">
+      <node ref="J10" pin="11" pintype="passive"/>
+      <node ref="R38" pin="1" pintype="passive"/>
+    </net>
+    <net code="54" name="Net-(R1-Pad1)">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="~{RESET}" pintype="input"/>
+    </net>
+    <net code="55" name="Net-(R3-Pad1)">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="~{RESET}" pintype="input"/>
+    </net>
+    <net code="56" name="Net-(R5-Pad1)">
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="~{RESET}" pintype="input"/>
+    </net>
+    <net code="57" name="Net-(U4-Pad6)">
+      <node ref="U4" pin="6" pinfunction="VOB" pintype="output"/>
+      <node ref="U9" pin="3" pinfunction="D" pintype="input"/>
+    </net>
+    <net code="58" name="Net-(U4-Pad7)">
+      <node ref="U4" pin="7" pinfunction="VINA" pintype="input"/>
+      <node ref="U9" pin="2" pinfunction="R" pintype="output"/>
+    </net>
+    <net code="59" name="Net-(U10-Pad2)">
+      <node ref="U10" pin="2" pinfunction="R" pintype="output"/>
+      <node ref="U5" pin="7" pinfunction="VINA" pintype="input"/>
+    </net>
+    <net code="60" name="Net-(U10-Pad3)">
+      <node ref="U10" pin="3" pinfunction="D" pintype="input"/>
+      <node ref="U5" pin="6" pinfunction="VOB" pintype="output"/>
+    </net>
+    <net code="61" name="Net-(U11-Pad2)">
+      <node ref="U11" pin="2" pinfunction="R" pintype="output"/>
+      <node ref="U6" pin="7" pinfunction="VINA" pintype="input"/>
+    </net>
+    <net code="62" name="Net-(U11-Pad3)">
+      <node ref="U11" pin="3" pinfunction="D" pintype="input"/>
+      <node ref="U6" pin="6" pinfunction="VOB" pintype="output"/>
+    </net>
+    <net code="63" name="Net-(U12-Pad2)">
+      <node ref="U12" pin="2" pinfunction="R" pintype="output"/>
+      <node ref="U7" pin="7" pinfunction="VINA" pintype="input"/>
+    </net>
+    <net code="64" name="Net-(U12-Pad3)">
+      <node ref="U12" pin="3" pinfunction="D" pintype="input"/>
+      <node ref="U7" pin="6" pinfunction="VOB" pintype="output"/>
+    </net>
+    <net code="65" name="RX1">
+      <node ref="R31" pin="2" pintype="passive"/>
+      <node ref="U3" pin="4" pinfunction="RXA" pintype="input"/>
+      <node ref="U4" pin="2" pinfunction="VOA" pintype="output"/>
+    </net>
+    <net code="66" name="RX2">
+      <node ref="R33" pin="2" pintype="passive"/>
+      <node ref="U3" pin="24" pinfunction="RXB" pintype="input"/>
+      <node ref="U5" pin="2" pinfunction="VOA" pintype="output"/>
+    </net>
+    <net code="67" name="RX3">
+      <node ref="R35" pin="2" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="RXA" pintype="input"/>
+      <node ref="U6" pin="2" pinfunction="VOA" pintype="output"/>
+    </net>
+    <net code="68" name="RX4">
+      <node ref="R37" pin="2" pintype="passive"/>
+      <node ref="U2" pin="24" pinfunction="RXB" pintype="input"/>
+      <node ref="U7" pin="2" pinfunction="VOA" pintype="output"/>
+    </net>
+    <net code="69" name="RX5">
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="RXA" pintype="input"/>
+    </net>
+    <net code="70" name="RX6">
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U1" pin="24" pinfunction="RXB" pintype="input"/>
+    </net>
+    <net code="71" name="SCLK">
+      <node ref="J11" pin="40" pinfunction="GPIO21/SCLK1" pintype="bidirectional"/>
+      <node ref="TP6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="SCL/SCLK" pintype="input"/>
+      <node ref="U2" pin="13" pinfunction="SCL/SCLK" pintype="input"/>
+      <node ref="U3" pin="13" pinfunction="SCL/SCLK" pintype="input"/>
+    </net>
+    <net code="72" name="SERIALPWR">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="73" name="TX1">
+      <node ref="R32" pin="2" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="TXA" pintype="output"/>
+      <node ref="U4" pin="3" pinfunction="VINB" pintype="input"/>
+    </net>
+    <net code="74" name="TX2">
+      <node ref="R34" pin="2" pintype="passive"/>
+      <node ref="U3" pin="23" pinfunction="TXB" pintype="output"/>
+      <node ref="U5" pin="3" pinfunction="VINB" pintype="input"/>
+    </net>
+    <net code="75" name="TX3">
+      <node ref="R36" pin="2" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="TXA" pintype="output"/>
+      <node ref="U6" pin="3" pinfunction="VINB" pintype="input"/>
+    </net>
+    <net code="76" name="TX4">
+      <node ref="R38" pin="2" pintype="passive"/>
+      <node ref="U2" pin="23" pinfunction="TXB" pintype="output"/>
+      <node ref="U7" pin="3" pinfunction="VINB" pintype="input"/>
+    </net>
+    <net code="77" name="TX5">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="TXA" pintype="output"/>
+    </net>
+    <net code="78" name="TX6">
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="23" pinfunction="TXB" pintype="output"/>
+    </net>
+    <net code="79" name="unconnected-(J11-Pad3)">
+      <node ref="J11" pin="3" pinfunction="SDA/GPIO2" pintype="bidirectional"/>
+    </net>
+    <net code="80" name="unconnected-(J11-Pad5)">
+      <node ref="J11" pin="5" pinfunction="SCL/GPIO3" pintype="bidirectional"/>
+    </net>
+    <net code="81" name="unconnected-(J11-Pad7)">
+      <node ref="J11" pin="7" pinfunction="GCLK0/GPIO4" pintype="bidirectional"/>
+    </net>
+    <net code="82" name="unconnected-(J11-Pad8)">
+      <node ref="J11" pin="8" pinfunction="GPIO14/TXD" pintype="bidirectional"/>
+    </net>
+    <net code="83" name="unconnected-(J11-Pad10)">
+      <node ref="J11" pin="10" pinfunction="GPIO15/RXD" pintype="bidirectional"/>
+    </net>
+    <net code="84" name="unconnected-(J11-Pad15)">
+      <node ref="J11" pin="15" pinfunction="GPIO22" pintype="bidirectional"/>
+    </net>
+    <net code="85" name="unconnected-(J11-Pad16)">
+      <node ref="J11" pin="16" pinfunction="GPIO23" pintype="bidirectional"/>
+    </net>
+    <net code="86" name="unconnected-(J11-Pad18)">
+      <node ref="J11" pin="18" pinfunction="GPIO24" pintype="bidirectional"/>
+    </net>
+    <net code="87" name="unconnected-(J11-Pad19)">
+      <node ref="J11" pin="19" pinfunction="MOSI0/GPIO10" pintype="bidirectional"/>
+    </net>
+    <net code="88" name="unconnected-(J11-Pad21)">
+      <node ref="J11" pin="21" pinfunction="MISO0/GPIO9" pintype="bidirectional"/>
+    </net>
+    <net code="89" name="unconnected-(J11-Pad22)">
+      <node ref="J11" pin="22" pinfunction="GPIO25" pintype="bidirectional"/>
+    </net>
+    <net code="90" name="unconnected-(J11-Pad23)">
+      <node ref="J11" pin="23" pinfunction="SCLK0/GPIO11" pintype="bidirectional"/>
+    </net>
+    <net code="91" name="unconnected-(J11-Pad24)">
+      <node ref="J11" pin="24" pinfunction="~{CE0}/GPIO8" pintype="bidirectional"/>
+    </net>
+    <net code="92" name="unconnected-(J11-Pad27)">
+      <node ref="J11" pin="27" pinfunction="ID_SD/GPIO0" pintype="bidirectional"/>
+    </net>
+    <net code="93" name="unconnected-(J11-Pad28)">
+      <node ref="J11" pin="28" pinfunction="ID_SC/GPIO1" pintype="bidirectional"/>
+    </net>
+    <net code="94" name="unconnected-(J11-Pad29)">
+      <node ref="J11" pin="29" pinfunction="GCLK1/GPIO5" pintype="bidirectional"/>
+    </net>
+    <net code="95" name="unconnected-(J11-Pad32)">
+      <node ref="J11" pin="32" pinfunction="PWM0/GPIO12" pintype="bidirectional"/>
+    </net>
+    <net code="96" name="unconnected-(U1-Pad1)">
+      <node ref="U1" pin="1" pinfunction="~{RTSA}" pintype="output+no_connect"/>
+    </net>
+    <net code="97" name="unconnected-(U1-Pad2)">
+      <node ref="U1" pin="2" pinfunction="~{CTSA}" pintype="input+no_connect"/>
+    </net>
+    <net code="98" name="unconnected-(U1-Pad16)">
+      <node ref="U1" pin="16" pinfunction="~{CTSB}" pintype="input+no_connect"/>
+    </net>
+    <net code="99" name="unconnected-(U1-Pad17)">
+      <node ref="U1" pin="17" pinfunction="~{RTSB}" pintype="output+no_connect"/>
+    </net>
+    <net code="100" name="unconnected-(U1-Pad18)">
+      <node ref="U1" pin="18" pinfunction="~{DSRB}" pintype="output+no_connect"/>
+    </net>
+    <net code="101" name="unconnected-(U1-Pad19)">
+      <node ref="U1" pin="19" pinfunction="~{DTRB}" pintype="input+no_connect"/>
+    </net>
+    <net code="102" name="unconnected-(U1-Pad20)">
+      <node ref="U1" pin="20" pinfunction="~{CDB}" pintype="input+no_connect"/>
+    </net>
+    <net code="103" name="unconnected-(U1-Pad21)">
+      <node ref="U1" pin="21" pinfunction="~{RIB}" pintype="input+no_connect"/>
+    </net>
+    <net code="104" name="unconnected-(U1-Pad25)">
+      <node ref="U1" pin="25" pinfunction="~{DSRA}" pintype="output+no_connect"/>
+    </net>
+    <net code="105" name="unconnected-(U1-Pad26)">
+      <node ref="U1" pin="26" pinfunction="~{DTRA}" pintype="input+no_connect"/>
+    </net>
+    <net code="106" name="unconnected-(U1-Pad27)">
+      <node ref="U1" pin="27" pinfunction="~{CDA}" pintype="input+no_connect"/>
+    </net>
+    <net code="107" name="unconnected-(U1-Pad28)">
+      <node ref="U1" pin="28" pinfunction="~{RIA}" pintype="input+no_connect"/>
+    </net>
+    <net code="108" name="unconnected-(U2-Pad1)">
+      <node ref="U2" pin="1" pinfunction="~{RTSA}" pintype="output+no_connect"/>
+    </net>
+    <net code="109" name="unconnected-(U2-Pad2)">
+      <node ref="U2" pin="2" pinfunction="~{CTSA}" pintype="input+no_connect"/>
+    </net>
+    <net code="110" name="unconnected-(U2-Pad16)">
+      <node ref="U2" pin="16" pinfunction="~{CTSB}" pintype="input+no_connect"/>
+    </net>
+    <net code="111" name="unconnected-(U2-Pad17)">
+      <node ref="U2" pin="17" pinfunction="~{RTSB}" pintype="output+no_connect"/>
+    </net>
+    <net code="112" name="unconnected-(U2-Pad18)">
+      <node ref="U2" pin="18" pinfunction="~{DSRB}" pintype="output+no_connect"/>
+    </net>
+    <net code="113" name="unconnected-(U2-Pad19)">
+      <node ref="U2" pin="19" pinfunction="~{DTRB}" pintype="input+no_connect"/>
+    </net>
+    <net code="114" name="unconnected-(U2-Pad20)">
+      <node ref="U2" pin="20" pinfunction="~{CDB}" pintype="input+no_connect"/>
+    </net>
+    <net code="115" name="unconnected-(U2-Pad21)">
+      <node ref="U2" pin="21" pinfunction="~{RIB}" pintype="input+no_connect"/>
+    </net>
+    <net code="116" name="unconnected-(U2-Pad25)">
+      <node ref="U2" pin="25" pinfunction="~{DSRA}" pintype="output+no_connect"/>
+    </net>
+    <net code="117" name="unconnected-(U2-Pad26)">
+      <node ref="U2" pin="26" pinfunction="~{DTRA}" pintype="input+no_connect"/>
+    </net>
+    <net code="118" name="unconnected-(U2-Pad27)">
+      <node ref="U2" pin="27" pinfunction="~{CDA}" pintype="input+no_connect"/>
+    </net>
+    <net code="119" name="unconnected-(U2-Pad28)">
+      <node ref="U2" pin="28" pinfunction="~{RIA}" pintype="input+no_connect"/>
+    </net>
+    <net code="120" name="unconnected-(U3-Pad1)">
+      <node ref="U3" pin="1" pinfunction="~{RTSA}" pintype="output+no_connect"/>
+    </net>
+    <net code="121" name="unconnected-(U3-Pad2)">
+      <node ref="U3" pin="2" pinfunction="~{CTSA}" pintype="input+no_connect"/>
+    </net>
+    <net code="122" name="unconnected-(U3-Pad16)">
+      <node ref="U3" pin="16" pinfunction="~{CTSB}" pintype="input+no_connect"/>
+    </net>
+    <net code="123" name="unconnected-(U3-Pad17)">
+      <node ref="U3" pin="17" pinfunction="~{RTSB}" pintype="output+no_connect"/>
+    </net>
+    <net code="124" name="unconnected-(U3-Pad18)">
+      <node ref="U3" pin="18" pinfunction="~{DSRB}" pintype="output+no_connect"/>
+    </net>
+    <net code="125" name="unconnected-(U3-Pad19)">
+      <node ref="U3" pin="19" pinfunction="~{DTRB}" pintype="input+no_connect"/>
+    </net>
+    <net code="126" name="unconnected-(U3-Pad20)">
+      <node ref="U3" pin="20" pinfunction="~{CDB}" pintype="input+no_connect"/>
+    </net>
+    <net code="127" name="unconnected-(U3-Pad21)">
+      <node ref="U3" pin="21" pinfunction="~{RIB}" pintype="input+no_connect"/>
+    </net>
+    <net code="128" name="unconnected-(U3-Pad25)">
+      <node ref="U3" pin="25" pinfunction="~{DSRA}" pintype="output+no_connect"/>
+    </net>
+    <net code="129" name="unconnected-(U3-Pad26)">
+      <node ref="U3" pin="26" pinfunction="~{DTRA}" pintype="input+no_connect"/>
+    </net>
+    <net code="130" name="unconnected-(U3-Pad27)">
+      <node ref="U3" pin="27" pinfunction="~{CDA}" pintype="input+no_connect"/>
+    </net>
+    <net code="131" name="unconnected-(U3-Pad28)">
+      <node ref="U3" pin="28" pinfunction="~{RIA}" pintype="input+no_connect"/>
+    </net>
+  </nets>
+</export>

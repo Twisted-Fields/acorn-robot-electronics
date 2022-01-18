@@ -1,0 +1,869 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/taylor/pcb/acorn-power-electronics/acorn-power-electronics.kicad_sch</source>
+    <date>Wed 17 Nov 2021 08:27:49 PM PST</date>
+    <tool>Eeschema 5.99.0-unknown-47cb7f53fd~143~ubuntu20.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>acorn-power-electronics.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">311-1361-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey" value="311-1361-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-power-electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000629327a5</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>1000pF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">311-1469-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey" value="311-1469-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-power-electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062c6e203</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>0.15uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">311-3393-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey" value="311-3393-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-power-electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f007684</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">311-1361-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey" value="311-1361-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-power-electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000618c741b</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>BZX84Cxx</value>
+      <footprint>Diode_SMD:D_SOT-23_ANK</footprint>
+      <datasheet>https://diotec.com/tl_files/diotec/files/pdf/datasheets/bzx84c2v4.pdf</datasheet>
+      <fields>
+        <field name="Digikey">MMBZ5240B-FDICT-ND</field>
+        <field name="MPN">MMBZ5240B-7-F</field>
+      </fields>
+      <libsource lib="Diode" part="BZX84Cxx" description="300mW Zener Diode, SOT-23"/>
+      <property name="Digikey" value="MMBZ5240B-FDICT-ND"/>
+      <property name="MPN" value="MMBZ5240B-7-F"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-power-electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>db12915e-f010-4830-9adc-884bfc4b0670</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>BZX84Cxx</value>
+      <footprint>Diode_SMD:D_SOT-23_ANK</footprint>
+      <datasheet>https://diotec.com/tl_files/diotec/files/pdf/datasheets/bzx84c2v4.pdf</datasheet>
+      <fields>
+        <field name="Digikey">MMBZ5240B-FDICT-ND</field>
+        <field name="MPN">MMBZ5240B-7-F</field>
+      </fields>
+      <libsource lib="Diode" part="BZX84Cxx" description="300mW Zener Diode, SOT-23"/>
+      <property name="Digikey" value="MMBZ5240B-FDICT-ND"/>
+      <property name="MPN" value="MMBZ5240B-7-F"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-power-electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ad1b0617-519e-45a5-89a3-9748a0a72447</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x04</value>
+      <footprint>Connector_Molex:Molex_KK-254_AE-6410-04A_1x04_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Digikey">WM4202-ND</field>
+        <field name="MPN">0022232041</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Digikey" value="WM4202-ND"/>
+      <property name="MPN" value="0022232041"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-power-electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>15c50451-4e3f-46c3-bd32-5677bf67ac83</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>Conn_02x10_Counter_Clockwise</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x10_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Digikey">S9197-ND</field>
+        <field name="MPN">SFH11-PBPC-D10-ST-BK</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_02x10_Odd_Even" description="Generic connector, double row, 02x10, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Digikey" value="S9197-ND"/>
+      <property name="MPN" value="SFH11-PBPC-D10-ST-BK"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-power-electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006185df2d</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>IXTA96P085T-TRL</value>
+      <footprint>taylor_footprints:TO-263-2-pad4</footprint>
+      <datasheet>https://www.vishay.com/docs/69253/sud19p06.pdf</datasheet>
+      <fields>
+        <field name="Digikey">IXTA96P085T-TRLCT-ND</field>
+        <field name="MPN">IXTA96P085T-TRL</field>
+      </fields>
+      <libsource lib="" part="P_CHANNEL_1" description="19A Id, 60V Vds, TrenchFET P-Channel Power MOSFET, 60mOhm Ron, 40nC Qg, -55 to 150 °C, TO-252-2"/>
+      <property name="Digikey" value="IXTA96P085T-TRLCT-ND"/>
+      <property name="MPN" value="IXTA96P085T-TRL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-power-electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bfe01340-c50b-483e-9e9d-f314a525f07c</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>IXTA96P085T-TRL</value>
+      <footprint>taylor_footprints:TO-263-2-pad4</footprint>
+      <datasheet>https://www.vishay.com/docs/69253/sud19p06.pdf</datasheet>
+      <fields>
+        <field name="Digikey">IXTA96P085T-TRLCT-ND</field>
+        <field name="MPN">IXTA96P085T-TRL</field>
+      </fields>
+      <libsource lib="" part="P_CHANNEL_2" description="19A Id, 60V Vds, TrenchFET P-Channel Power MOSFET, 60mOhm Ron, 40nC Qg, -55 to 150 °C, TO-252-2"/>
+      <property name="Digikey" value="IXTA96P085T-TRLCT-ND"/>
+      <property name="MPN" value="IXTA96P085T-TRL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-power-electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2a8c331f-c758-48ea-97bb-8bcc62cf388b</tstamps>
+    </comp>
+    <comp ref="Q3">
+      <value>IXTA96P085T-TRL</value>
+      <footprint>taylor_footprints:TO-263-2-pad4</footprint>
+      <datasheet>https://www.vishay.com/docs/69253/sud19p06.pdf</datasheet>
+      <fields>
+        <field name="Digikey">IXTA96P085T-TRLCT-ND</field>
+        <field name="MPN">IXTA96P085T-TRL</field>
+      </fields>
+      <libsource lib="taylor_kicad" part="P_CHANNEL" description="19A Id, 60V Vds, TrenchFET P-Channel Power MOSFET, 60mOhm Ron, 40nC Qg, -55 to 150 °C, TO-252-2"/>
+      <property name="Digikey" value="IXTA96P085T-TRLCT-ND"/>
+      <property name="MPN" value="IXTA96P085T-TRL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-power-electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>619c1ceb-7625-492f-9560-3f6040c2e370</tstamps>
+    </comp>
+    <comp ref="Q4">
+      <value>IXTA96P085T-TRL</value>
+      <footprint>taylor_footprints:TO-263-2-pad4</footprint>
+      <datasheet>https://www.vishay.com/docs/69253/sud19p06.pdf</datasheet>
+      <fields>
+        <field name="Digikey">IXTA96P085T-TRLCT-ND</field>
+        <field name="MPN">IXTA96P085T-TRL</field>
+      </fields>
+      <libsource lib="" part="P_CHANNEL_3" description="19A Id, 60V Vds, TrenchFET P-Channel Power MOSFET, 60mOhm Ron, 40nC Qg, -55 to 150 °C, TO-252-2"/>
+      <property name="Digikey" value="IXTA96P085T-TRLCT-ND"/>
+      <property name="MPN" value="IXTA96P085T-TRL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-power-electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>83f36efd-c692-424a-a3b0-ed3e823e9c6d</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>330R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">A106061CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey" value="A106061CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-power-electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>df8d925c-48ba-45ea-9ddb-6ca99983513e</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>330R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">A106061CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey" value="A106061CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-power-electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>30fc5892-2ca6-40e7-95bd-dbfb18669d4b</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>200</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">311-200ARCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey" value="311-200ARCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-power-electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b65ae137-dc16-4165-b100-83081a9f5fec</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">311-1.0KARCT-ND</field>
+        <field name="MPN">RC0805FR-071KL</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey" value="311-1.0KARCT-ND"/>
+      <property name="MPN" value="RC0805FR-071KL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-power-electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fcf7e8c4-eb70-4a18-996b-084003241950</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>200</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">311-200ARCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey" value="311-200ARCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-power-electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f08aa77f-0b80-4eac-9dba-c88960f7608e</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">311-1.0KARCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey" value="311-1.0KARCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-power-electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f007001</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>DNS for ACS725 / 0R for ACS722</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">311-0.0ARCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey" value="311-0.0ARCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-power-electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000630e742c</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey">311-1.0KARCT-ND</field>
+        <field name="MPN">RC0805FR-071KL</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey" value="311-1.0KARCT-ND"/>
+      <property name="MPN" value="RC0805FR-071KL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-power-electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e1e50600-d517-4a4c-88d2-a32fff951978</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>ACPL-214-500E</value>
+      <footprint>Package_SO:SOP-4_4.4x2.6mm_P1.27mm</footprint>
+      <datasheet>https://docs.broadcom.com/doc/AV02-0469EN</datasheet>
+      <fields>
+        <field name="Digikey">559-1105-ND</field>
+        <field name="MPN">PS2805A-1-A</field>
+      </fields>
+      <libsource lib="Isolator" part="ACPL-214-500E" description="AC/DC Phototransistor Optocoupler, Vce 80V, CTR 20-400%, SOP-4"/>
+      <property name="Digikey" value="559-1105-ND"/>
+      <property name="MPN" value="PS2805A-1-A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-power-electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>617d4219-ebe0-4f9e-8301-1587436e7bb5</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>ACPL-214-500E</value>
+      <footprint>Package_SO:SOP-4_4.4x2.6mm_P1.27mm</footprint>
+      <datasheet>https://docs.broadcom.com/doc/AV02-0469EN</datasheet>
+      <fields>
+        <field name="Digikey">559-1105-ND</field>
+        <field name="MPN">PS2805A-1-A</field>
+      </fields>
+      <libsource lib="Isolator" part="ACPL-214-500E" description="AC/DC Phototransistor Optocoupler, Vce 80V, CTR 20-400%, SOP-4"/>
+      <property name="Digikey" value="559-1105-ND"/>
+      <property name="MPN" value="PS2805A-1-A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-power-electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ecb218ce-636f-4399-98b3-0efd062e7110</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>ACS725xLCTR-10AU</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>http://www.allegromicro.com/~/media/Files/Datasheets/ACS725-Datasheet.ashx?la=en</datasheet>
+      <fields>
+        <field name="Digikey">620-1719-1-ND</field>
+        <field name="MPN">ACS724LLCTR-10AB-T</field>
+      </fields>
+      <libsource lib="Sensor_Current" part="ACS725xLCTR-10AU" description="10A Unidirectional Hall-Effect Current Sensor, +3.3V supply, 264mV/A, SOIC-8"/>
+      <property name="Digikey" value="620-1719-1-ND"/>
+      <property name="MPN" value="ACS724LLCTR-10AB-T"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-power-electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062c697e2</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>PDS1-S5-S12-M-TR</value>
+      <footprint>CONV_PDS1-S3-S3-M</footprint>
+      <fields>
+        <field name="DESCRIPTION">DC DC CONVERTER 12V 1W</field>
+        <field name="Digikey">102-2686-1-ND</field>
+        <field name="MF">CUI</field>
+        <field name="MPN">PDS1-S5-S12-M-TR</field>
+        <field name="PRICE">4.02 USD</field>
+      </fields>
+      <libsource lib="PDS1-S3-S3-M" part="PDS1-S3-S3-M" description=""/>
+      <property name="Digikey" value="102-2686-1-ND"/>
+      <property name="MPN" value="PDS1-S5-S12-M-TR"/>
+      <property name="DESCRIPTION" value="DC DC CONVERTER 12V 1W"/>
+      <property name="PRICE" value="4.02 USD"/>
+      <property name="MF" value="CUI"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-power-electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d4d39c2a-095e-44da-9f44-96c5caf40229</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>ADS1115IDGS</value>
+      <footprint>Package_SO:TSSOP-10_3x3mm_P0.5mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/ads1113.pdf</datasheet>
+      <fields>
+        <field name="Digikey">296-25226-1-ND</field>
+        <field name="MPN">ADS1014IDGST</field>
+      </fields>
+      <libsource lib="Analog_ADC" part="ADS1115IDGS" description="Ultra-Small, Low-Power, I2C-Compatible, 860-SPS, 16-Bit ADCs With Internal Reference, Oscillator, and Programmable Comparator, VSSOP-10"/>
+      <property name="Digikey" value="296-25226-1-ND"/>
+      <property name="MPN" value="ADS1014IDGST"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="acorn-power-electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000618c7408</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="" part="P_CHANNEL_1">
+      <description>19A Id, 60V Vds, TrenchFET P-Channel Power MOSFET, 60mOhm Ron, 40nC Qg, -55 to 150 °C, TO-252-2</description>
+      <docs>https://www.vishay.com/docs/69253/sud19p06.pdf</docs>
+      <footprints>
+        <fp>TO?252*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">P_CHANNEL_1</field>
+        <field name="Footprint">taylor_footprints:TO-263-2-pad4</field>
+        <field name="Datasheet">https://www.vishay.com/docs/69253/sud19p06.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="3" name="S" type="passive"/>
+        <pin num="4" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="P_CHANNEL_2">
+      <description>19A Id, 60V Vds, TrenchFET P-Channel Power MOSFET, 60mOhm Ron, 40nC Qg, -55 to 150 °C, TO-252-2</description>
+      <docs>https://www.vishay.com/docs/69253/sud19p06.pdf</docs>
+      <footprints>
+        <fp>TO?252*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">P_CHANNEL_2</field>
+        <field name="Footprint">taylor_footprints:TO-263-2-pad4</field>
+        <field name="Datasheet">https://www.vishay.com/docs/69253/sud19p06.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="3" name="S" type="passive"/>
+        <pin num="4" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="P_CHANNEL_3">
+      <description>19A Id, 60V Vds, TrenchFET P-Channel Power MOSFET, 60mOhm Ron, 40nC Qg, -55 to 150 °C, TO-252-2</description>
+      <docs>https://www.vishay.com/docs/69253/sud19p06.pdf</docs>
+      <footprints>
+        <fp>TO?252*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">P_CHANNEL_3</field>
+        <field name="Footprint">taylor_footprints:TO-263-2-pad4</field>
+        <field name="Datasheet">https://www.vishay.com/docs/69253/sud19p06.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="3" name="S" type="passive"/>
+        <pin num="4" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Analog_ADC" part="ADS1115IDGS">
+      <description>Ultra-Small, Low-Power, I2C-Compatible, 860-SPS, 16-Bit ADCs With Internal Reference, Oscillator, and Programmable Comparator, VSSOP-10</description>
+      <docs>http://www.ti.com/lit/ds/symlink/ads1113.pdf</docs>
+      <footprints>
+        <fp>TSSOP*3x3mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ADS1115IDGS</field>
+        <field name="Footprint">Package_SO:TSSOP-10_3x3mm_P0.5mm</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/ads1113.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="ADDR" type="input"/>
+        <pin num="2" name="ALERT/RDY" type="output"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="AIN0" type="input"/>
+        <pin num="5" name="AIN1" type="input"/>
+        <pin num="6" name="AIN2" type="input"/>
+        <pin num="7" name="AIN3" type="input"/>
+        <pin num="8" name="VDD" type="power_in"/>
+        <pin num="9" name="SDA" type="bidirectional"/>
+        <pin num="10" name="SCL" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x04">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x10_Odd_Even">
+      <description>Generic connector, double row, 02x10, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x10_Odd_Even</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+        <pin num="15" name="Pin_15" type="passive"/>
+        <pin num="16" name="Pin_16" type="passive"/>
+        <pin num="17" name="Pin_17" type="passive"/>
+        <pin num="18" name="Pin_18" type="passive"/>
+        <pin num="19" name="Pin_19" type="passive"/>
+        <pin num="20" name="Pin_20" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="BZX84Cxx">
+      <description>300mW Zener Diode, SOT-23</description>
+      <docs>https://diotec.com/tl_files/diotec/files/pdf/datasheets/bzx84c2v4.pdf</docs>
+      <footprints>
+        <fp>D*SOT?23*ANK*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">BZX84Cxx</field>
+        <field name="Footprint">Diode_SMD:D_SOT-23_ANK</field>
+        <field name="Datasheet">https://diotec.com/tl_files/diotec/files/pdf/datasheets/bzx84c2v4.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Isolator" part="ACPL-214-500E">
+      <description>AC/DC Phototransistor Optocoupler, Vce 80V, CTR 20-400%, SOP-4</description>
+      <docs>https://docs.broadcom.com/doc/AV02-0469EN</docs>
+      <footprints>
+        <fp>SOP*4*4.4x2.6mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ACPL-214-500E</field>
+        <field name="Footprint">Package_SO:SOP-4_4.4x2.6mm_P1.27mm</field>
+        <field name="Datasheet">https://docs.broadcom.com/doc/AV02-0469EN</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="PDS1-S3-S3-M" part="PDS1-S3-S3-M">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">PDS1-S3-S3-M</field>
+        <field name="Footprint">CONV_PDS1-S3-S3-M</field>
+        <field name="MP">PDS1-S12-S12-M</field>
+        <field name="PACKAGE">SMD-8 CUI</field>
+        <field name="DESCRIPTION">PDS1 Series 1 W 12 VDC 84 mA Surface Mount DC-DC Isolated Converter</field>
+        <field name="PRICE">4.02 USD</field>
+        <field name="AVAILABILITY">Bad</field>
+        <field name="MF">CUI</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VIN" type="input"/>
+        <pin num="4" name="0V" type="power_in"/>
+        <pin num="5" name="+VO" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="Sensor_Current" part="ACS725xLCTR-10AU">
+      <description>10A Unidirectional Hall-Effect Current Sensor, +3.3V supply, 264mV/A, SOIC-8</description>
+      <docs>http://www.allegromicro.com/~/media/Files/Datasheets/ACS725-Datasheet.ashx?la=en</docs>
+      <footprints>
+        <fp>SOIC*3.9x4.9m*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ACS725xLCTR-10AU</field>
+        <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
+        <field name="Datasheet">http://www.allegromicro.com/~/media/Files/Datasheets/ACS725-Datasheet.ashx?la=en</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IP+" type="passive"/>
+        <pin num="2" name="IP+" type="passive"/>
+        <pin num="3" name="IP-" type="passive"/>
+        <pin num="4" name="IP-" type="passive"/>
+        <pin num="5" name="GND" type="power_in"/>
+        <pin num="6" name="FILTER" type="passive"/>
+        <pin num="7" name="VIOUT" type="output"/>
+        <pin num="8" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="taylor_kicad" part="P_CHANNEL">
+      <description>19A Id, 60V Vds, TrenchFET P-Channel Power MOSFET, 60mOhm Ron, 40nC Qg, -55 to 150 °C, TO-252-2</description>
+      <docs>https://www.vishay.com/docs/69253/sud19p06.pdf</docs>
+      <footprints>
+        <fp>TO?252*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">P_CHANNEL</field>
+        <field name="Footprint">taylor_footprints:TO-263-2-pad4</field>
+        <field name="Datasheet">https://www.vishay.com/docs/69253/sud19p06.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="3" name="S" type="passive"/>
+        <pin num="4" name="D" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Analog_ADC">
+      <uri>/usr/share/kicad-nightly/symbols//Analog_ADC.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>/usr/share/kicad-nightly/symbols//Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad-nightly/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Diode">
+      <uri>/usr/share/kicad-nightly/symbols//Diode.kicad_sym</uri>
+    </library>
+    <library logical="Isolator">
+      <uri>/usr/share/kicad-nightly/symbols//Isolator.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>/usr/share/kicad-nightly/symbols//Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="PDS1-S3-S3-M">
+      <uri>/home/taylor/pcb/library/PDS1-S3-S3-M.kicad_sym</uri>
+    </library>
+    <library logical="Sensor_Current">
+      <uri>/usr/share/kicad-nightly/symbols//Sensor_Current.kicad_sym</uri>
+    </library>
+    <library logical="taylor_kicad">
+      <uri>/home/taylor/pcb/library/taylor_kicad.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="J7" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="J7" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U3" pin="8" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U5" pin="8" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="2" name="+5V">
+      <node ref="J7" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="J7" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="U4" pin="2" pinfunction="VIN" pintype="input"/>
+    </net>
+    <net code="3" name="+12V">
+      <node ref="J7" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J7" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="U4" pin="5" pinfunction="+VO" pintype="output"/>
+    </net>
+    <net code="4" name="+48V">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J7" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="Q1" pin="4" pinfunction="D" pintype="passive"/>
+      <node ref="Q2" pin="4" pinfunction="D" pintype="passive"/>
+      <node ref="Q3" pin="4" pinfunction="D" pintype="passive"/>
+      <node ref="Q4" pin="4" pinfunction="D" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="IP-" pintype="passive"/>
+      <node ref="U3" pin="4" pinfunction="IP-" pintype="passive"/>
+    </net>
+    <net code="5" name="A1">
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U5" pin="4" pinfunction="AIN0" pintype="input"/>
+    </net>
+    <net code="6" name="A2">
+      <node ref="U5" pin="5" pinfunction="AIN1" pintype="input"/>
+    </net>
+    <net code="7" name="A3">
+      <node ref="U5" pin="6" pinfunction="AIN2" pintype="input"/>
+    </net>
+    <net code="8" name="A4">
+      <node ref="U5" pin="7" pinfunction="AIN3" pintype="input"/>
+    </net>
+    <net code="9" name="EXT_PSU_FET">
+      <node ref="J7" pin="20" pinfunction="Pin_20" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="10" name="GND">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="J7" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="J7" pin="12" pinfunction="Pin_12" pintype="passive"/>
+      <node ref="U1" pin="2" pintype="passive"/>
+      <node ref="U2" pin="2" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="4" pinfunction="0V" pintype="power_in"/>
+      <node ref="U5" pin="1" pinfunction="ADDR" pintype="input"/>
+      <node ref="U5" pin="3" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="11" name="GNDPWR">
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J7" pin="13" pinfunction="Pin_13" pintype="passive"/>
+      <node ref="J7" pin="14" pinfunction="Pin_14" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(C2-Pad2)">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U3" pin="6" pinfunction="FILTER" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U3" pin="7" pinfunction="VIOUT" pintype="output"/>
+    </net>
+    <net code="14" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="Q1" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U2" pin="4" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(R1-Pad2)">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="1" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(R2-Pad2)">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U2" pin="1" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(R3-Pad2)">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U1" pin="3" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(R5-Pad2)">
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U2" pin="3" pintype="passive"/>
+    </net>
+    <net code="19" name="SCL">
+      <node ref="J7" pin="19" pinfunction="Pin_19" pintype="passive"/>
+      <node ref="U5" pin="10" pinfunction="SCL" pintype="input"/>
+    </net>
+    <net code="20" name="SDA">
+      <node ref="J7" pin="17" pinfunction="Pin_17" pintype="passive"/>
+      <node ref="U5" pin="9" pinfunction="SDA" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="SOLARIN">
+      <node ref="U3" pin="1" pinfunction="IP+" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="IP+" pintype="passive"/>
+    </net>
+    <net code="22" name="VOUT">
+      <node ref="J7" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J7" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="Q2" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="Q3" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="Q4" pin="3" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="23" name="VOUT_ENABLE">
+      <node ref="J7" pin="15" pinfunction="Pin_15" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="24" name="VOUT_EXT_COMPUTE">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="25" name="VOUT_FET">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="Q2" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="Q3" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="Q4" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U1" pin="4" pintype="passive"/>
+    </net>
+    <net code="26" name="unconnected-(J7-Pad16)">
+      <node ref="J7" pin="16" pinfunction="Pin_16" pintype="passive"/>
+    </net>
+    <net code="27" name="unconnected-(J7-Pad18)">
+      <node ref="J7" pin="18" pinfunction="Pin_18" pintype="passive"/>
+    </net>
+    <net code="28" name="unconnected-(U5-Pad2)">
+      <node ref="U5" pin="2" pinfunction="ALERT/RDY" pintype="output+no_connect"/>
+    </net>
+  </nets>
+</export>

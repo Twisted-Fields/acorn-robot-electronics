@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name odrive_aux_interface-rescue)(type Legacy)(uri ${KIPRJMOD}/odrive_aux_interface-rescue.lib)(options "")(descr ""))
+)
