@@ -1,0 +1,82 @@
+
+
+CCG304805S or PDQ30-Q48-S5-D for 5v power supply
+
+SC16IS762 in SPI mode for dual serial ports
+See this for some background on enabling kernel support.
+https://www.raspberrypi.org/forums/viewtopic.php?f=107&t=146908&start=25
+Read both pages but check if newer kernels still need this.
+
+Possibly ISL83488 or 65HVD32 or THVD1451 for rs485 line drivers. prefer THVD1451, must double check datasheets if others used.
+will use kicad footprint of THVD1451 but may prefer ISL83488 for slew rate limited drivers.
+should use 250kbps data rate or lower
+See layout guidelines at http://www.ti.com/lit/ds/symlink/thvd1451.pdf
+
+See https://www.waveshare.com/wiki/2-CH_RS485_HAT for some details
+
+Can draw up to 500ma from the 3.3v line on the raspberry pi.
+https://pinout.xyz/pinout/pin1_3v3_power
+
+Should add a connector for SPI e-ink display.
+https://www.waveshare.com/wiki/7.5inch_e-Paper_HAT_(B)
+
+ABM3C-14.7456MHZ-D4Y-T  for serial crystal
+
+BTS500851TMAATMA1 for power switch.
+
+zener  	MMSZ5226B-7-F 
+
+Power Capacitors
+565-4013-ND 
+EKYB101ELL101MJ20S 
+
+Inductor
+RLB0913-470K-ND 
+RLB0913-470K 
+
+THVD1451 RS485 tranceiver
+
+TVS Diodes:
+SM712-TP or
+SM712-02HTG 
+
+
+Solar current sensor:
+unidirectional 10A
+ACS725LLCTR-10AU-T
+
+Bidirectional 5A:
+ACS722LLCTR-05AB-T
+
+Bidirectional 10A:
+ACS722LLCTR-10AB-T
+
+Slide switchs should be:
+ASE1D-2M-10-Z
+Kicad lists another part for the footprint, but they match. This part is 60v tolerant.
+
+SPST switch:
+GF-123-0054
+
+alarm
+TXL7-V96-930-S
+
+Molex connectors for keypad:
+0022232051 
+
+inductor:
+MLZ2012N100LT000
+
+5v external power supplies for Jetson Nano:
+$108 compact 100w:
+https://www.digikey.com/product-detail/en/cui-inc/PQA50-D48-S5-T/102-3295-ND/4765796
+$39 60w no remote on/off (can drive from switched 48v):
+https://www.digikey.com/product-detail/en/mean-well-usa-inc/RSD-60L-5/1866-5467-ND/7706269
+$40 compact 30w:
+https://www.digikey.com/product-detail/en/cui-inc/PYBE30-Q48-S5-DIN/102-6035-ND/9859991
+
+e-paper screen wiring:
+https://www.waveshare.com/wiki/7.5inch_e-Paper_HAT_(B)
+
+
+

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="998.477" height="570.354" viewBox="0, 0, 998.477, 570.354">
+  <g id="Layer_1">
+    <path d="M8.144,-0 L998.477,-0 L998.477,570.354 L8.144,570.354 L8.144,-0 z" fill="#FFFFFF"/>
+    <path d="M114.727,79.527 L114.727,90.527" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M114.727,102.777 L114.727,114.777" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M114.727,127.277 L114.727,138.527" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M120.005,152.834 C95.684,152.834 75.969,133.118 75.969,108.798 C75.969,84.477 95.684,64.761 120.005,64.761 C144.326,64.761 164.042,84.477 164.042,108.798 C164.042,133.118 144.326,152.834 120.005,152.834 z" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M102.653,136.209 L102.653,85.209" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M102.653,85.209 L19.477,85.209" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <g>
+      <path d="M116.227,108.798 L127.827,108.798" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+      <path d="M127.827,108.798 L125.027,112.997 L136.227,108.798 L125.027,104.598 z" fill="#000000" fill-opacity="1" stroke="#000000" stroke-width="3" stroke-opacity="1"/>
+    </g>
+    <path d="M139.227,85.209 L139.227,31.527" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M116.227,85.209 L139.227,85.209" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M116.227,133.027 L139.227,133.027" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M139.227,108.798 L139.227,186.777" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M330.727,75.818 L330.727,136.116" fill-opacity="0" stroke="#000000" stroke-width="5"/>
+    <path d="M336.005,149.125 C311.684,149.125 291.969,129.409 291.969,105.088 C291.969,80.768 311.684,61.052 336.005,61.052 C360.326,61.052 380.042,80.768 380.042,105.088 C380.042,129.409 360.326,149.125 336.005,149.125 z" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M318.653,132.5 L318.653,81.5" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M318.653,81.5 L235.477,81.5" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M355.227,81.5 L355.227,27.818" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <g>
+      <path d="M340.273,130.088 L353.873,130.088" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+      <path d="M340.273,130.088 L343.073,125.888 L331.873,130.088 L343.073,134.288 z" fill="#000000" fill-opacity="1" stroke="#000000" stroke-width="3" stroke-opacity="1"/>
+    </g>
+    <path d="M332.227,81.5 L355.227,81.5" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M355.227,129.318 L355.227,183.068" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M330.727,304.542 L330.727,364.839" fill-opacity="0" stroke="#000000" stroke-width="5"/>
+    <path d="M336.005,377.848 C311.684,377.848 291.969,358.132 291.969,333.812 C291.969,309.491 311.684,289.775 336.005,289.775 C360.326,289.775 380.042,309.491 380.042,333.812 C380.042,358.132 360.326,377.848 336.005,377.848 z" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M318.653,361.223 L318.653,310.223" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M318.653,310.223 L235.477,310.223" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M355.227,310.223 L355.227,256.542" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <g>
+      <path d="M333.581,358.042 L344.473,358.042" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+      <path d="M344.473,358.042 L341.673,362.242 L352.873,358.042 L341.673,353.842 z" fill="#000000" fill-opacity="1" stroke="#000000" stroke-width="3" stroke-opacity="1"/>
+    </g>
+    <path d="M332.227,309.292 L356.581,309.292" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M355.227,358.042 L355.227,411.792" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M760.061,75.818 L760.061,135.023" fill-opacity="0" stroke="#000000" stroke-width="5"/>
+    <path d="M765.339,149.125 C741.018,149.125 721.302,129.409 721.302,105.088 C721.302,80.768 741.018,61.052 765.339,61.052 C789.659,61.052 809.375,80.768 809.375,105.088 C809.375,129.409 789.659,149.125 765.339,149.125 z" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M747.986,132.5 L747.986,81.5" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M747.986,81.5 L664.811,81.5" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <g>
+      <path d="M761.561,105.088 L773.161,105.088" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+      <path d="M773.161,105.088 L770.361,109.288 L781.561,105.088 L770.361,100.888 z" fill="#000000" fill-opacity="1" stroke="#000000" stroke-width="3" stroke-opacity="1"/>
+    </g>
+    <path d="M784.561,81.5 L784.561,27.818" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M761.561,81.5 L784.561,81.5" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M761.561,129.318 L784.561,129.318" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M784.561,105.088 L784.561,183.068" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M760.061,304.187 L760.061,363.392" fill-opacity="0" stroke="#000000" stroke-width="5"/>
+    <path d="M765.339,377.493 C741.018,377.493 721.302,357.778 721.302,333.457 C721.302,309.136 741.018,289.42 765.339,289.42 C789.659,289.42 809.375,309.136 809.375,333.457 C809.375,357.778 789.659,377.493 765.339,377.493 z" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M747.986,360.868 L747.986,309.868" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M747.986,309.868 L664.811,309.868" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <g>
+      <path d="M770.961,333.457 L784.561,333.457" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+      <path d="M770.961,333.457 L773.761,329.257 L762.561,333.457 L773.761,337.657 z" fill="#000000" fill-opacity="1" stroke="#000000" stroke-width="3" stroke-opacity="1"/>
+    </g>
+    <path d="M784.561,309.868 L784.561,256.187" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M761.561,309.868 L784.561,309.868" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M761.561,357.687 L784.561,357.687" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M784.561,333.457 L784.561,411.437" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M114.728,304.542 L114.728,315.542" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M114.728,327.792 L114.728,339.792" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M114.728,352.292 L114.728,363.542" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M120.006,377.848 C95.685,377.848 75.969,358.132 75.969,333.812 C75.969,309.491 95.685,289.775 120.006,289.775 C144.326,289.775 164.042,309.491 164.042,333.812 C164.042,358.132 144.326,377.848 120.006,377.848 z" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M102.653,361.223 L102.653,310.223" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M102.653,310.223 L19.478,310.223" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <g>
+      <path d="M125.628,333.812 L139.228,333.812" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+      <path d="M125.628,333.812 L128.428,329.612 L117.228,333.812 L128.428,338.012 z" fill="#000000" fill-opacity="1" stroke="#000000" stroke-width="3" stroke-opacity="1"/>
+    </g>
+    <path d="M139.228,310.223 L139.228,256.542" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M116.228,310.223 L139.228,310.223" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M116.228,358.042 L139.228,358.042" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M139.228,333.812 L139.228,411.792" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <text transform="matrix(1, 0, 0, 1, 156.514, 173.625)">
+      <tspan x="-10.008" y="11" font-family="Avenir-Medium" font-size="36" fill="#656565">S</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 372.864, 173.625)">
+      <tspan x="-10.008" y="11" font-family="Avenir-Medium" font-size="36" fill="#656565">S</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 156.514, 402.348)">
+      <tspan x="-10.008" y="11" font-family="Avenir-Medium" font-size="36" fill="#656565">S</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 372.864, 399.276)">
+      <tspan x="-10.008" y="11" font-family="Avenir-Medium" font-size="36" fill="#656565">S</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 32.982, 65.652)">
+      <tspan x="-14.004" y="11" font-family="Avenir-Medium" font-size="36" fill="#656565">G</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 248.981, 56)">
+      <tspan x="-14.004" y="11" font-family="Avenir-Medium" font-size="36" fill="#656565">G</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 32.982, 287.276)">
+      <tspan x="-14.004" y="11" font-family="Avenir-Medium" font-size="36" fill="#656565">G</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 248.981, 287.276)">
+      <tspan x="-14.004" y="11" font-family="Avenir-Medium" font-size="36" fill="#656565">G</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 159.844, 42.318)">
+      <tspan x="-13.338" y="11" font-family="Avenir-Medium" font-size="36" fill="#656565">D</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 372.864, 42.318)">
+      <tspan x="-13.338" y="11" font-family="Avenir-Medium" font-size="36" fill="#656565">D</tspan>
+    </text>
+    <path d="M545.394,75.818 L545.394,136.116" fill-opacity="0" stroke="#000000" stroke-width="5"/>
+    <path d="M550.672,149.125 C526.351,149.125 506.635,129.409 506.635,105.088 C506.635,80.768 526.351,61.052 550.672,61.052 C574.992,61.052 594.708,80.768 594.708,105.088 C594.708,129.409 574.992,149.125 550.672,149.125 z" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M533.319,132.5 L533.319,81.5" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M533.319,105.088 L450.144,105.088" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M569.894,81.5 L569.894,27.818" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M546.894,81.5 L569.894,81.5" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M546.894,129.318 L569.894,129.318" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M569.894,129.318 L569.894,183.068" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <text transform="matrix(1, 0, 0, 1, 584.2, 173.625)">
+      <tspan x="-10.008" y="11" font-family="Avenir-Medium" font-size="36" fill="#656565">S</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 802.197, 173.625)">
+      <tspan x="-10.008" y="11" font-family="Avenir-Medium" font-size="36" fill="#656565">S</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 802.197, 402.348)">
+      <tspan x="-10.008" y="11" font-family="Avenir-Medium" font-size="36" fill="#656565">S</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 466.981, 80.068)">
+      <tspan x="-14.004" y="11" font-family="Avenir-Medium" font-size="36" fill="#656565">G</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 678.315, 61.068)">
+      <tspan x="-14.004" y="11" font-family="Avenir-Medium" font-size="36" fill="#656565">G</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 678.315, 291.735)">
+      <tspan x="-14.004" y="11" font-family="Avenir-Medium" font-size="36" fill="#656565">G</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 587.53, 42.318)">
+      <tspan x="-13.338" y="11" font-family="Avenir-Medium" font-size="36" fill="#656565">D</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 802.197, 42.318)">
+      <tspan x="-13.338" y="11" font-family="Avenir-Medium" font-size="36" fill="#656565">D</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 802.197, 268.375)">
+      <tspan x="-13.338" y="11" font-family="Avenir-Medium" font-size="36" fill="#656565">D</tspan>
+    </text>
+    <path d="M545.394,304.542 L545.394,364.839" fill-opacity="0" stroke="#000000" stroke-width="5"/>
+    <path d="M550.672,377.848 C526.351,377.848 506.635,358.132 506.635,333.812 C506.635,309.491 526.351,289.775 550.672,289.775 C574.992,289.775 594.708,309.491 594.708,333.812 C594.708,358.132 574.992,377.848 550.672,377.848 z" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M533.319,361.223 L533.319,310.223" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M533.319,333.812 L450.144,333.812" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M569.894,310.223 L569.894,256.542" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M546.894,310.223 L569.894,310.223" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M546.894,358.042 L569.894,358.042" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M569.894,358.042 L569.894,411.792" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <text transform="matrix(1, 0, 0, 1, 587.53, 402.348)">
+      <tspan x="-10.008" y="11" font-family="Avenir-Medium" font-size="36" fill="#656565">S</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 466.981, 308.792)">
+      <tspan x="-14.004" y="11" font-family="Avenir-Medium" font-size="36" fill="#656565">G</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 587.53, 268.375)">
+      <tspan x="-13.338" y="11" font-family="Avenir-Medium" font-size="36" fill="#656565">D</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 159.844, 268.375)">
+      <tspan x="-13.338" y="11" font-family="Avenir-Medium" font-size="36" fill="#656565">D</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 372.864, 264.275)">
+      <tspan x="-13.338" y="11" font-family="Avenir-Medium" font-size="36" fill="#656565">D</tspan>
+    </text>
+    <g>
+      <path d="M528.027,111.26 C525.104,111.26 522.734,108.89 522.734,105.967 C522.734,103.044 525.104,100.674 528.027,100.674 C530.95,100.674 533.32,103.044 533.32,105.967 C533.32,108.89 530.95,111.26 528.027,111.26 z" fill="#FFFFFF"/>
+      <path d="M528.027,111.26 C525.104,111.26 522.734,108.89 522.734,105.967 C522.734,103.044 525.104,100.674 528.027,100.674 C530.95,100.674 533.32,103.044 533.32,105.967 C533.32,108.89 530.95,111.26 528.027,111.26 z" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    </g>
+    <text transform="matrix(1, 0, 0, 1, 111.06, 504.354)">
+      <tspan x="-101.805" y="8" font-family="Avenir-Medium" font-size="33" fill="#656565">Enhancement</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 759.561, 504.354)">
+      <tspan x="-73.656" y="8" font-family="Avenir-Medium" font-size="33" fill="#656565">Depletion</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 915.697, 104.588)">
+      <tspan x="-71.544" y="8" font-family="Avenir-Medium" font-size="33" fill="#656565">P channel</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 915.697, 339.339)">
+      <tspan x="-74.894" y="8" font-family="Avenir-Medium" font-size="33" fill="#656565">N channel</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 429.213, 524.854)">
+      <tspan x="-101.805" y="-12.5" font-family="Avenir-Medium" font-size="33" fill="#656565">Enhancement</tspan>
+      <tspan x="-94.446" y="32.5" font-family="Avenir-Medium" font-size="33" fill="#656565">no bulk semi</tspan>
+    </text>
+    <g>
+      <path d="M235.809,447.862 C226.271,470.62 425.294,444.693 418.239,473.187" fill-opacity="0" stroke="#DE787A" stroke-width="4"/>
+      <path d="M601.036,447.862 C610.573,470.62 411.551,444.693 418.606,473.187" fill-opacity="0" stroke="#DE787A" stroke-width="4"/>
+    </g>
+  </g>
+</svg>

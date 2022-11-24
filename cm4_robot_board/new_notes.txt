@@ -1,0 +1,5 @@
+WL_nDisable logic high indicates the enable/disable state of wireless networking. may want to connect it to an LED. can also be pulled low to disable wlan
+BT_nDisable same as above for bluetooth
+
+etherney jack for rpi networking
+https://www.digikey.com/en/products/detail/bel-fuse-inc/0826-1X1T-GH-F/2257874

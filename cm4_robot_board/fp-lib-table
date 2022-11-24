@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "parts")(type "KiCad")(uri "${KIPRJMOD}/parts")(options "")(descr ""))
+  (lib (name "CM4IO")(type "KiCad")(uri "/home/taylor/pcb/cm4io/CM4IO.pretty")(options "")(descr ""))
+)
