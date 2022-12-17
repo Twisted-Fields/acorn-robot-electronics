@@ -1,4 +1,4 @@
-20884789234536370
+20889801217494938
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -88970,6 +88970,13 @@ LED RGB NeoPixel Mini
 4
 4
 parts
+L_15mmx15mm
+Shielded Power Inductor, Wuerth Elektronik, WE-PD, SMD, Typ LS, https://katalog.we-online.com/pbs/datasheet/7447715906.pdf
+Choke Shielded Power Inductor WE-PD TypLS Wuerth
+0
+2
+2
+parts
 MWSA1206S-680MT
 
 
@@ -88998,6 +89005,13 @@ PAD_12GA_WIRE
 1
 1
 parts
+RJ45_R-RJ45R08P-B000
+Shielded, https://www.amphenolcanada.com/ProductSearch/drawings/AC/RJHSE538X.pdf
+RJ45 8p8c ethernet cat5
+0
+10
+9
+parts
 SS-12F44-G5
 CuK miniature slide switch, OS series, SPDT, https://www.ckswitches.com/media/1428/os.pdf
 switch SPDT
@@ -89018,6 +89032,13 @@ TE_1747981-1
 0
 23
 23
+parts
+TXS0101DCKR
+
+
+0
+6
+6
 parts
 USB_A_Female_UE27AC54100
 
