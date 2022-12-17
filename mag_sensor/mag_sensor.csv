@@ -1,0 +1,6 @@
+Comment,Designator,Footprint,LCSC
+"10u","C1","Capacitor_SMD:C_0805_2012Metric","C15850"
+"100n","C2","Capacitor_SMD:C_0603_1608Metric","C14663"
+"4.7n","C3","Capacitor_SMD:C_0603_1608Metric","C106218"
+"Conn_01x03","J1","Connector_Molex:Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical","C29275"
+"MT9105ET","U1","Package_TO_SOT_SMD:SOT-23","C967861"
