@@ -6,6 +6,6 @@ PCBs designed in Kicad for Acorn the farming robot.
 
 For more information please see [http://community.twistedfields.com](http://community.twistedfields.com)
 
-![A photo of the PCB designs](doc/motherboard_all.jpg?raw=true "A photo of the PCB designs")
+Note: The design has just been updated. New photos will be posted soon.
 
 
