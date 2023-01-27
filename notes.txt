@@ -3,4 +3,8 @@ TODO RECOMMENDATIONS AFTER PRODUCTION
 
 Make clear the polarity for U5 、D19、D5、D6、D20、D7、D21、D18
 
-e-stop should activate if a cable is disconnected.
+e-stop should activate if a cable is disconnected. - nevermind, it does this
+
+make CAN controller crystal value more clear - 16mhz not 12mhz!
+
+invert CAN TX/RX LED polarity either by using inverting buffer part number or by rewiring input - maybe inverted is best for fast cut-off?
