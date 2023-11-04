@@ -2,8 +2,8 @@
 <export version="E">
   <design>
     <source>/home/taylor/pcb/acorn-robot-electronics/cm4_robot_board/cm4-robot.kicad_sch</source>
-    <date>Sat 10 Dec 2022 12:50:15 AM PST</date>
-    <tool>Eeschema 6.0.2+dfsg-1</tool>
+    <date>Fri 24 Feb 2023 08:16:46 PM PST</date>
+    <tool>Eeschema 7.0.0-da2b9df05c~163~ubuntu22.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title/>
@@ -47,6 +47,8 @@
       <property name="LCSC" value="C14663"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>148d8fcc-5cdd-45e4-b406-33b1ea9e3cb8</tstamps>
     </comp>
@@ -64,6 +66,8 @@
       <property name="LCSC" value="C15850"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f29d804a-3e40-4eab-bcb9-ffb3ddb7f1dd</tstamps>
     </comp>
@@ -81,6 +85,8 @@
       <property name="LCSC" value="C15850"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>7e52e542-8808-4964-a644-64e59144c49f</tstamps>
     </comp>
@@ -94,6 +100,8 @@
       <property name="LCSC" value="C1647"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>3edfc0bc-d045-4dbb-8f17-0ebc0e465a97</tstamps>
     </comp>
@@ -107,6 +115,8 @@
       <property name="LCSC" value="C310843"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f908ae3a-dcd1-428c-86b6-6fb16d1baf2a</tstamps>
     </comp>
@@ -133,6 +143,8 @@
       <property name="LCSC" value="C14663"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b7cfc833-ab00-4957-9352-81dd4de4d339</tstamps>
     </comp>
@@ -146,6 +158,8 @@
       <property name="LCSC" value="C1647"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>129c0e9c-441b-4118-844f-dfd716948d30</tstamps>
     </comp>
@@ -159,6 +173,8 @@
       <property name="LCSC" value="C1647"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c954543c-d9da-42b7-9ab8-47bfb6e8b7ac</tstamps>
     </comp>
@@ -173,6 +189,8 @@
       <property name="LCSC" value="C14663"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000065ba8ffb</tstamps>
     </comp>
@@ -186,6 +204,8 @@
       <property name="LCSC" value="C1647"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>13eb1000-87dd-4600-ae2c-93fcc45f0949</tstamps>
     </comp>
@@ -200,6 +220,8 @@
       <property name="LCSC" value="C14663"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>a3cc080d-38e6-4df3-8cd7-8193df45494c</tstamps>
     </comp>
@@ -214,6 +236,8 @@
       <property name="LCSC" value="C14663"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>470a44e2-9e45-44b4-8b93-d7d8918eac1f</tstamps>
     </comp>
@@ -227,6 +251,8 @@
       <property name="LCSC" value="C14663"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>04369e77-d9e4-40f5-830a-569d8d974b01</tstamps>
     </comp>
@@ -240,6 +266,8 @@
       <property name="LCSC" value="C14663"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>aa6e3215-aa8e-4d56-9d00-ceb349f3b92e</tstamps>
     </comp>
@@ -279,6 +307,8 @@
       <property name="LCSC" value="C69335"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b72b141e-d191-4feb-afd5-1ebc12ff6002</tstamps>
     </comp>
@@ -292,6 +322,8 @@
       <property name="LCSC" value="C95180"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>017ebd84-5522-4c0d-99d1-db4d804c59ef</tstamps>
     </comp>
@@ -305,6 +337,8 @@
       <property name="LCSC" value="C59302"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>ba1ea6bb-d708-4fe9-915d-9cffb9510e14</tstamps>
     </comp>
@@ -319,6 +353,8 @@
       <property name="LCSC" value="C1653"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d49cf8f2-3407-4e7b-8c38-7c44be027185</tstamps>
     </comp>
@@ -333,6 +369,8 @@
       <property name="LCSC" value="C1653"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b29a2ff4-284d-42f8-b2e0-afd328a4df3d</tstamps>
     </comp>
@@ -347,6 +385,8 @@
       <property name="LCSC" value="C1653"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>bbf1e889-279a-4dfd-b2de-5380a06f582a</tstamps>
     </comp>
@@ -361,6 +401,8 @@
       <property name="LCSC" value="C1653"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>118f7056-d13a-4b6f-af8b-b70dbf07a77b</tstamps>
     </comp>
@@ -376,6 +418,8 @@
       <property name="LCSC" value="C14663"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>6d84417b-57f7-43ca-a087-1198a55a640c</tstamps>
     </comp>
@@ -391,6 +435,8 @@
       <property name="LCSC" value="C14663"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d5cbc4a8-5e5f-496f-8b6c-671a83825740</tstamps>
     </comp>
@@ -404,6 +450,8 @@
       <property name="LCSC" value="C335988"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>0d05704b-8b9a-46cb-b445-60dc8619bc35</tstamps>
     </comp>
@@ -417,6 +465,8 @@
       <property name="LCSC" value="C335988"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>dbbc81c5-f42e-430b-af0f-3563a9bc596b</tstamps>
     </comp>
@@ -430,6 +480,8 @@
       <property name="LCSC" value="C335982"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d0b1f637-e85b-4d36-855e-e29feafb284d</tstamps>
     </comp>
@@ -473,6 +525,8 @@
       <property name="LCSC" value="C5137318"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000068d9d0df</tstamps>
     </comp>
@@ -490,19 +544,23 @@
       <property name="LCSC" value="C84256"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f3a0dcc</tstamps>
     </comp>
     <comp ref="D3">
       <value>D_Schottky</value>
-      <footprint>Diode_SMD:D_SMA</footprint>
+      <footprint>Diode_SMD:D_SMC</footprint>
       <fields>
-        <field name="LCSC">C15874</field>
+        <field name="LCSC">C123944</field>
       </fields>
       <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
-      <property name="LCSC" value="C15874"/>
+      <property name="LCSC" value="C123944"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Schottky diode"/>
+      <property name="ki_keywords" value="diode Schottky"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>fcf28982-2461-4595-8660-eca70b5bc569</tstamps>
     </comp>
@@ -520,6 +578,8 @@
       <property name="LCSC" value="C5137315"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000063dce68f</tstamps>
     </comp>
@@ -534,6 +594,8 @@
       <property name="LCSC" value="C2761795"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>2c867f6b-e868-49b1-9bb9-8e3c6fa12ec2</tstamps>
     </comp>
@@ -548,6 +610,8 @@
       <property name="LCSC" value="C2761795"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>88057d18-e0db-43ca-b05e-52cd6c3f2092</tstamps>
     </comp>
@@ -562,6 +626,8 @@
       <property name="LCSC" value="C2761795"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>2e96a266-f70a-4b5a-8d6c-fc505f204368</tstamps>
     </comp>
@@ -579,6 +645,8 @@
       <property name="LCSC" value="C84256"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b8b2f758-0a24-4d44-a282-466745752ae4</tstamps>
     </comp>
@@ -637,6 +705,8 @@
       <property name="LCSC" value="C77336"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="30V 0.5A Schottky Power Rectifier Diode, SOD-123"/>
+      <property name="ki_keywords" value="diode Schottky"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>372b99da-515f-40c1-936e-721efebe18ed</tstamps>
     </comp>
@@ -652,6 +722,8 @@
       <property name="LCSC" value="C2297"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>2f49564e-5195-4216-8d0b-a289f7ef744b</tstamps>
     </comp>
@@ -669,6 +741,8 @@
       <property name="LCSC" value="C5137318"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d7af8783-ff54-4faf-90bb-46ba35a7b230</tstamps>
     </comp>
@@ -683,6 +757,8 @@
       <property name="LCSC" value="C2761795"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>ab6bea34-f8f4-49ee-95c0-ec032cfa55ba</tstamps>
     </comp>
@@ -697,6 +773,8 @@
       <property name="LCSC" value="C2761795"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>add9be73-e411-401f-a1f4-ef153bd5c5f9</tstamps>
     </comp>
@@ -711,6 +789,8 @@
       <property name="LCSC" value="C2761795"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>e84859d9-5cd7-46ec-b84f-98af630da303</tstamps>
     </comp>
@@ -725,6 +805,8 @@
       <property name="LCSC" value="C2761795"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c926819e-476a-4aa8-a370-d692e0c844eb</tstamps>
     </comp>
@@ -740,6 +822,8 @@
       <property name="LCSC" value="C70065"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Resettable fuse, polymeric positive temperature coefficient"/>
+      <property name="ki_keywords" value="resettable fuse PTC PPTC polyfuse polyswitch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c2daeb8c-8c7e-456c-af53-caa6ee1b2523</tstamps>
     </comp>
@@ -761,6 +845,8 @@
       <property name="LCSC" value="C2906135"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="HDMI 1.4+ type A connector"/>
+      <property name="ki_keywords" value="hdmi conn"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>751649ea-95d1-4199-bebe-490d30f29852</tstamps>
     </comp>
@@ -804,6 +890,8 @@
       <property name="LCSC" value="C2835315"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="USB 2.0-only Type-C Receptacle connector"/>
+      <property name="ki_keywords" value="usb universal serial bus type-C USB2.0"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>904304b2-3ffb-4870-b3fd-8c1b59cdab72</tstamps>
     </comp>
@@ -821,6 +909,8 @@
       <property name="LCSC" value="C402777"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000698daced</tstamps>
     </comp>
@@ -838,6 +928,8 @@
       <property name="LCSC" value="C402777"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>768eda81-723f-4a04-bce6-419ff50bec6b</tstamps>
     </comp>
@@ -855,6 +947,8 @@
       <property name="LCSC" value="C402777"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>53587617-5a38-4f7b-ac1e-db18af594514</tstamps>
     </comp>
@@ -890,6 +984,8 @@
       <property name="LCSC" value="C402777"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>e3fe6c2c-43d1-47b6-9b7d-9ddcf7594c17</tstamps>
     </comp>
@@ -903,6 +999,8 @@
       <property name="LCSC" value="C402772"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>e148e775-f3b6-4af0-8f98-d693399b2325</tstamps>
     </comp>
@@ -920,6 +1018,8 @@
       <property name="LCSC" value="C402777"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>0145f8ef-b171-41b6-9887-4f68d7993b47</tstamps>
     </comp>
@@ -933,6 +1033,8 @@
       <property name="LCSC" value="C386756"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="RJ connector, 8P8C (8 positions 8 connected)"/>
+      <property name="ki_keywords" value="8P8C RJ female connector"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>fecf58c8-6382-41a3-82f7-acada1741e59</tstamps>
     </comp>
@@ -946,6 +1048,8 @@
       <property name="LCSC" value="C386756"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="RJ connector, 8P8C (8 positions 8 connected)"/>
+      <property name="ki_keywords" value="8P8C RJ female connector"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>8573451a-46a7-4011-98e0-f4a24113e6a3</tstamps>
     </comp>
@@ -961,6 +1065,8 @@
       <property name="LCSC" value="C402777"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>62d83c87-9811-4bb6-b3cc-a9ebb3e9faa3</tstamps>
     </comp>
@@ -976,6 +1082,8 @@
       <property name="LCSC" value="C402777"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>fcf2d07b-7eae-4a95-952c-703c63d4171d</tstamps>
     </comp>
@@ -991,6 +1099,8 @@
       <property name="LCSC" value="C402777"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>913a5c1d-78a1-4dd2-b8ee-5a1b4fbcec27</tstamps>
     </comp>
@@ -1006,6 +1116,8 @@
       <property name="LCSC" value="C402777"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>12ccfce7-ad40-4b44-9a36-b5b6684ec9a7</tstamps>
     </comp>
@@ -1019,6 +1131,8 @@
       <property name="LCSC" value="C402772"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>debb1729-46ac-42e7-9fe8-dc3fc66de6d1</tstamps>
     </comp>
@@ -1032,6 +1146,8 @@
       <property name="LCSC" value="C424649"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>23bd9450-ee11-484f-aeab-e9199d3159aa</tstamps>
     </comp>
@@ -1045,6 +1161,8 @@
       <property name="LCSC" value="C424649"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>87aaa972-d49a-4fa1-a4c9-b3cf80401fdf</tstamps>
     </comp>
@@ -1058,6 +1176,8 @@
       <property name="LCSC" value="C970545"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Inductor"/>
+      <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>3f6cc2f5-be2f-4321-a5c7-e1a558d2eef3</tstamps>
     </comp>
@@ -1071,6 +1191,8 @@
       <property name="LCSC" value="C107341"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Inductor"/>
+      <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>3acb0af9-9783-4cef-aa62-9c399b72bc8e</tstamps>
     </comp>
@@ -1085,6 +1207,8 @@
       <property name="LCSC" value="C347476"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="P-MOSFET transistor, gate/source/drain"/>
+      <property name="ki_keywords" value="transistor PMOS P-MOS P-MOSFET"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>ba17a29d-e585-40ae-8074-611c95d39d8d</tstamps>
     </comp>
@@ -1098,6 +1222,8 @@
       <property name="LCSC" value="C255584"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="N-MOSFET transistor, gate/source/drain"/>
+      <property name="ki_keywords" value="transistor NMOS N-MOS N-MOSFET"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>bd5194fc-d1ed-42c9-b9c7-826e7148bc36</tstamps>
     </comp>
@@ -1111,6 +1237,8 @@
       <property name="LCSC" value="C255584"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="N-MOSFET transistor, gate/source/drain"/>
+      <property name="ki_keywords" value="transistor NMOS N-MOS N-MOSFET"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>bb71a054-fb5e-470a-854b-1060570bc2af</tstamps>
     </comp>
@@ -1124,6 +1252,8 @@
       <property name="LCSC" value="C255584"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="N-MOSFET transistor, gate/source/drain"/>
+      <property name="ki_keywords" value="transistor NMOS N-MOS N-MOSFET"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>6251de50-0d3a-4caa-8b22-bf8c5a2af0d7</tstamps>
     </comp>
@@ -1137,6 +1267,8 @@
       <property name="LCSC" value="C255584"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="N-MOSFET transistor, gate/source/drain"/>
+      <property name="ki_keywords" value="transistor NMOS N-MOS N-MOSFET"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>4b86a3ad-023d-462d-bea3-26352262c77d</tstamps>
     </comp>
@@ -1152,6 +1284,8 @@
       <property name="LCSC" value="C21190"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000068d9d0e6</tstamps>
     </comp>
@@ -1167,6 +1301,8 @@
       <property name="LCSC" value="C23179"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000063660c58</tstamps>
     </comp>
@@ -1182,6 +1318,8 @@
       <property name="LCSC" value="C23179"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000063652d99</tstamps>
     </comp>
@@ -1197,6 +1335,8 @@
       <property name="LCSC" value="C22962"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f3a5f65</tstamps>
     </comp>
@@ -1236,6 +1376,8 @@
       <property name="LCSC" value="C23186"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f32e035f-c056-4078-824b-11a5b53362c3</tstamps>
     </comp>
@@ -1249,6 +1391,8 @@
       <property name="LCSC" value="C23186"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>028ff8c2-ef3f-417e-a65b-7635ad336e3b</tstamps>
     </comp>
@@ -1266,6 +1410,8 @@
       <property name="LCSC" value="C4190"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000067529d13</tstamps>
     </comp>
@@ -1281,6 +1427,8 @@
       <property name="LCSC" value="C21190"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>9cd77611-8837-4b53-901a-4adb875620cc</tstamps>
     </comp>
@@ -1298,6 +1446,8 @@
       <property name="LCSC" value="C4190"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000067306ac9</tstamps>
     </comp>
@@ -1325,6 +1475,8 @@
       <property name="LCSC" value="C25190"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>22585f96-2963-4972-b8cb-8c562cadd5f4</tstamps>
     </comp>
@@ -1352,6 +1504,8 @@
       <property name="LCSC" value="C25196"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>7422bd3b-1cfe-4542-bb48-ce33c12f73df</tstamps>
     </comp>
@@ -1365,6 +1519,8 @@
       <property name="LCSC" value="C22949"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b094e5fd-d634-449e-b0fe-b121017e4cdb</tstamps>
     </comp>
@@ -1378,6 +1534,8 @@
       <property name="LCSC" value="C177951"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>ac8aaf0e-a6c7-418a-b176-4032bfe2be92</tstamps>
     </comp>
@@ -1393,6 +1551,8 @@
       <property name="LCSC" value="C319939"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c11a1e59-0910-4b31-9297-ced1f9e15ba0</tstamps>
     </comp>
@@ -1408,6 +1568,8 @@
       <property name="LCSC" value="C22548"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>06cbff87-9d53-406b-8751-86e44e25ffc0</tstamps>
     </comp>
@@ -1423,6 +1585,8 @@
       <property name="LCSC" value="C319939"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d92d62b7-4ae9-41e0-abfc-58bd77d8d259</tstamps>
     </comp>
@@ -1438,6 +1602,8 @@
       <property name="LCSC" value="C22548"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>133fd08f-6e40-41ba-9cc7-645f0ad5e70a</tstamps>
     </comp>
@@ -1451,6 +1617,8 @@
       <property name="LCSC" value="C105588"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>6d688d04-02f7-499d-94f4-cb8ecb1e17d5</tstamps>
     </comp>
@@ -1477,6 +1645,8 @@
       <property name="LCSC" value="C105588"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>0acee4db-b7c1-4451-a91e-72af1e7a6968</tstamps>
     </comp>
@@ -1490,6 +1660,8 @@
       <property name="LCSC" value="C105588"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>1708f80d-b6aa-4a77-ab03-b739946c6ecd</tstamps>
     </comp>
@@ -1503,6 +1675,8 @@
       <property name="LCSC" value="C105588"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>27034d71-a069-4f28-98a7-50e7cd3416fd</tstamps>
     </comp>
@@ -1518,6 +1692,8 @@
       <property name="LCSC" value="C22962"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>14db380b-ce24-46ce-bd29-e52631945ef1</tstamps>
     </comp>
@@ -1605,6 +1781,8 @@
       <property name="Status" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="SWITCH TACTILE SPST-NO 0.05A 12V"/>
+      <property name="ki_keywords" value="SW1020CT-ND B3U"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>1cb12ed4-4003-4790-954c-e1cf1e3ea1fc</tstamps>
     </comp>
@@ -1620,6 +1798,8 @@
       <property name="LCSC" value="C319012"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Switch, single pole double throw"/>
+      <property name="ki_keywords" value="switch single-pole double-throw spdt ON-ON"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>6a093773-fb8e-4f0b-90a1-3ec39cfbf896</tstamps>
     </comp>
@@ -1635,6 +1815,8 @@
       <property name="LCSC" value="C319012"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Switch, single pole double throw"/>
+      <property name="ki_keywords" value="switch single-pole double-throw spdt ON-ON"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000069a18411</tstamps>
     </comp>
@@ -1648,6 +1830,8 @@
       <property name="LCSC" value="C238130"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>82ad8321-b020-470b-b9d2-192c1fa69192</tstamps>
     </comp>
@@ -1661,6 +1845,8 @@
       <property name="LCSC" value="C238130"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>1c529ee1-ff8e-49d6-a4ff-301cd95561b7</tstamps>
     </comp>
@@ -1709,6 +1895,8 @@
       <property name="LCSC" value="C234209"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="5V 3A, SIMPLE SWITCHER® Step-Down Voltage Regulator, High Voltage Input, TO-263"/>
+      <property name="ki_keywords" value="Step-Down Voltage Regulator 5V 3A High Voltage"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>cff1afd3-aa3a-4993-bcc6-b66e83cf0302</tstamps>
     </comp>
@@ -1756,13 +1944,19 @@
       <property name="LCSC" value="C514442"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Low Loss PowerPath Controller, TSOT-23-6"/>
+      <property name="ki_keywords" value="ideal-diode or-ing"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>8c092ac7-8393-48e3-8c14-2f2c3df2fa1b</tstamps>
     </comp>
     <comp ref="U7">
       <value>TXS0101DCKR</value>
       <footprint>Package_TO_SOT_SMD:SOT-363_SC-70-6</footprint>
+      <fields>
+        <field name="LCSC">C132031</field>
+      </fields>
       <libsource lib="2022-12-10_08-30-32" part="TXS0101DCKR" description=""/>
+      <property name="LCSC" value="C132031"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1779,6 +1973,8 @@
       <property name="LCSC" value="C153782"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Stand-Alone CAN Controller with SPI Interface, SOIC-18"/>
+      <property name="ki_keywords" value="CAN Controller SPI"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>3b5dd76c-2f85-4fa8-a85b-568a3c929622</tstamps>
     </comp>
@@ -1793,6 +1989,8 @@
       <property name="LCSC" value="C153782"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Stand-Alone CAN Controller with SPI Interface, SOIC-18"/>
+      <property name="ki_keywords" value="CAN Controller SPI"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>4f13f4bf-1cb7-4482-96eb-e224e269c3f2</tstamps>
     </comp>
@@ -1806,6 +2004,8 @@
       <property name="LCSC" value="C528763"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Isolated CAN Transceiver, SOP-8"/>
+      <property name="ki_keywords" value="CAN Isolated"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d7379dbc-3656-44ec-a50b-fbad8b85095f</tstamps>
     </comp>
@@ -1819,6 +2019,8 @@
       <property name="LCSC" value="C528763"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Isolated CAN Transceiver, SOP-8"/>
+      <property name="ki_keywords" value="CAN Isolated"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>86be4512-48b1-44f1-b007-cb17e42892d6</tstamps>
     </comp>
@@ -1851,6 +2053,8 @@
       <property name="LCSC" value="C7722"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="IC LED DRIVER RGLTR DIM SOT23-5"/>
+      <property name="ki_keywords" value="296-12685-1-ND"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>ba99016a-752a-4802-9e11-b31d8c68f6ab</tstamps>
     </comp>
@@ -1914,6 +2118,8 @@
       <property name="LCSC" value="C54396"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="4 digit 7 segment super bright orange LED, common cathode"/>
+      <property name="ki_keywords" value="display LED 7-segment"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f5400180-fd6a-49d2-a416-8022f2d967c2</tstamps>
     </comp>
@@ -1965,7 +2171,7 @@
       <tstamps>6fe9bb9d-8686-4d9d-8b02-07f0b2ad9fc2</tstamps>
     </comp>
     <comp ref="Y1">
-      <value>Crystal_GND24</value>
+      <value>16MHz</value>
       <footprint>Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm</footprint>
       <fields>
         <field name="LCSC">C362342</field>
@@ -1974,11 +2180,13 @@
       <property name="LCSC" value="C362342"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Four pin crystal, GND on pins 2 and 4"/>
+      <property name="ki_keywords" value="quartz ceramic resonator oscillator"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>1faad912-44db-4a08-a996-55a6a68bc97d</tstamps>
     </comp>
     <comp ref="Y2">
-      <value>Crystal_GND24</value>
+      <value>16MHz</value>
       <footprint>Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm</footprint>
       <fields>
         <field name="LCSC">C362342</field>
@@ -1987,11 +2195,13 @@
       <property name="LCSC" value="C362342"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Four pin crystal, GND on pins 2 and 4"/>
+      <property name="ki_keywords" value="quartz ceramic resonator oscillator"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>bb9f7006-e589-48f2-9116-14c0f6775fb9</tstamps>
     </comp>
     <comp ref="Y3">
-      <value>Crystal_GND24</value>
+      <value>14.7456MHz</value>
       <footprint>Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm</footprint>
       <fields>
         <field name="LCSC">C2901666</field>
@@ -2001,11 +2211,13 @@
       <property name="LCSC" value="C2901666"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Four pin crystal, GND on pins 2 and 4"/>
+      <property name="ki_keywords" value="quartz ceramic resonator oscillator"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>dfc8cc93-de3f-449d-a072-90ebb2311cf2</tstamps>
     </comp>
     <comp ref="Y4">
-      <value>Crystal_GND24</value>
+      <value>14.7456MHz</value>
       <footprint>Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm</footprint>
       <fields>
         <field name="LCSC">C2901666</field>
@@ -2015,6 +2227,8 @@
       <property name="LCSC" value="C2901666"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cm4-robot.kicad_sch"/>
+      <property name="ki_description" value="Four pin crystal, GND on pins 2 and 4"/>
+      <property name="ki_keywords" value="quartz ceramic resonator oscillator"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>88edad54-32f9-43d5-bffa-162db7abb9b5</tstamps>
     </comp>
@@ -3089,9 +3303,6 @@
     </libpart>
   </libparts>
   <libraries>
-    <library logical="2022-12-10_08-30-32">
-      <uri>/home/taylor/pcb/acorn-robot-electronics/cm4_robot_board/parts/2022-12-10_08-30-32.lib</uri>
-    </library>
     <library logical="CM4IO">
       <uri>/home/taylor/pcb/cm4io/CM4IO.kicad_sym</uri>
     </library>
@@ -3576,241 +3787,241 @@
       <node ref="J2" pin="4" pintype="passive"/>
       <node ref="J2" pin="5" pintype="passive"/>
     </net>
-    <net code="61" name="Net-(C4-Pad1)">
-      <node ref="C4" pin="1" pintype="passive"/>
-      <node ref="U9" pin="7" pinfunction="OSC2" pintype="output"/>
-      <node ref="Y1" pin="3" pinfunction="3" pintype="passive"/>
-    </net>
-    <net code="62" name="Net-(C7-Pad1)">
-      <node ref="C7" pin="1" pintype="passive"/>
-      <node ref="U9" pin="8" pinfunction="OSC1" pintype="input"/>
-      <node ref="Y1" pin="1" pinfunction="1" pintype="passive"/>
-    </net>
-    <net code="63" name="Net-(C8-Pad1)">
-      <node ref="C8" pin="1" pintype="passive"/>
-      <node ref="U8" pin="7" pinfunction="OSC2" pintype="output"/>
-      <node ref="Y2" pin="3" pinfunction="3" pintype="passive"/>
-    </net>
-    <net code="64" name="Net-(C10-Pad1)">
-      <node ref="C10" pin="1" pintype="passive"/>
-      <node ref="U8" pin="8" pinfunction="OSC1" pintype="input"/>
-      <node ref="Y2" pin="1" pinfunction="1" pintype="passive"/>
-    </net>
-    <net code="65" name="Net-(C21-Pad2)">
-      <node ref="C21" pin="2" pintype="passive"/>
-      <node ref="U13" pin="6" pinfunction="XTAL1" pintype="input"/>
-      <node ref="Y3" pin="3" pinfunction="3" pintype="passive"/>
-    </net>
-    <net code="66" name="Net-(C22-Pad1)">
-      <node ref="C22" pin="1" pintype="passive"/>
-      <node ref="U13" pin="7" pinfunction="XTAL2" pintype="input"/>
-      <node ref="Y3" pin="1" pinfunction="1" pintype="passive"/>
-    </net>
-    <net code="67" name="Net-(C23-Pad2)">
-      <node ref="C23" pin="2" pintype="passive"/>
-      <node ref="U14" pin="6" pinfunction="XTAL1" pintype="input"/>
-      <node ref="Y4" pin="3" pinfunction="3" pintype="passive"/>
-    </net>
-    <net code="68" name="Net-(C24-Pad1)">
-      <node ref="C24" pin="1" pintype="passive"/>
-      <node ref="U14" pin="7" pinfunction="XTAL2" pintype="input"/>
-      <node ref="Y4" pin="1" pinfunction="1" pintype="passive"/>
-    </net>
-    <net code="69" name="Net-(D1-Pad1)">
+    <net code="61" name="Net-(D1-K)">
       <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="R1" pin="1" pintype="passive"/>
     </net>
-    <net code="70" name="Net-(D2-Pad1)">
+    <net code="62" name="Net-(D2-K)">
       <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="R4" pin="1" pintype="passive"/>
     </net>
-    <net code="71" name="Net-(D3-Pad1)">
+    <net code="63" name="Net-(D3-K)">
       <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U3" pin="2" pinfunction="OUT" pintype="output"/>
     </net>
-    <net code="72" name="Net-(D4-Pad1)">
+    <net code="64" name="Net-(D4-K)">
       <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="R10" pin="2" pintype="passive"/>
     </net>
-    <net code="73" name="Net-(D5-Pad2)">
-      <node ref="D5" pin="2" pinfunction="DOUT" pintype="output"/>
-      <node ref="D6" pin="4" pinfunction="DIN" pintype="input"/>
-    </net>
-    <net code="74" name="Net-(D5-Pad4)">
+    <net code="65" name="Net-(D5-DIN)">
       <node ref="D5" pin="4" pinfunction="DIN" pintype="input"/>
       <node ref="U7" pin="4" pinfunction="B" pintype="bidirectional"/>
     </net>
-    <net code="75" name="Net-(D6-Pad2)">
+    <net code="66" name="Net-(D5-DOUT)">
+      <node ref="D5" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D6" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="67" name="Net-(D6-DOUT)">
       <node ref="D6" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="D7" pin="4" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="76" name="Net-(D8-Pad1)">
+    <net code="68" name="Net-(D8-K)">
       <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="R27" pin="1" pintype="passive"/>
     </net>
-    <net code="77" name="Net-(D11-Pad2)">
+    <net code="69" name="Net-(D11-A)">
       <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="L2" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="U12" pin="1" pinfunction="SW" pintype="power_out"/>
     </net>
-    <net code="78" name="Net-(D12-Pad1)">
-      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="R13" pin="2" pintype="passive"/>
-    </net>
-    <net code="79" name="Net-(D12-Pad2)">
+    <net code="70" name="Net-(D12-A)">
       <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="U18" pin="4" pinfunction="Y" pintype="output"/>
     </net>
-    <net code="80" name="Net-(D17-Pad1)">
-      <node ref="D17" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="R15" pin="2" pintype="passive"/>
+    <net code="71" name="Net-(D12-K)">
+      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
     </net>
-    <net code="81" name="Net-(D17-Pad2)">
+    <net code="72" name="Net-(D17-A)">
       <node ref="D17" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="U19" pin="4" pinfunction="Y" pintype="output"/>
     </net>
-    <net code="82" name="Net-(D18-Pad2)">
-      <node ref="D18" pin="2" pinfunction="DOUT" pintype="output"/>
-      <node ref="D19" pin="4" pinfunction="DIN" pintype="input"/>
+    <net code="73" name="Net-(D17-K)">
+      <node ref="D17" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
     </net>
-    <net code="83" name="Net-(D18-Pad4)">
+    <net code="74" name="Net-(D18-DIN)">
       <node ref="D18" pin="4" pinfunction="DIN" pintype="input"/>
       <node ref="D7" pin="2" pinfunction="DOUT" pintype="output"/>
     </net>
-    <net code="84" name="Net-(D19-Pad2)">
+    <net code="75" name="Net-(D18-DOUT)">
+      <node ref="D18" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D19" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="76" name="Net-(D19-DOUT)">
       <node ref="D19" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="D20" pin="4" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="85" name="Net-(D20-Pad2)">
+    <net code="77" name="Net-(D20-DOUT)">
       <node ref="D20" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="D21" pin="4" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="86" name="Net-(D21-Pad2)">
+    <net code="78" name="Net-(D21-DOUT)">
       <node ref="D21" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="J21" pin="2" pinfunction="Pin_2" pintype="passive"/>
     </net>
-    <net code="87" name="Net-(J2-Pad10)">
+    <net code="79" name="Net-(J2-Pad10)">
       <node ref="J2" pin="10" pintype="passive"/>
       <node ref="R2" pin="1" pintype="passive"/>
     </net>
-    <net code="88" name="Net-(J2-Pad11)">
+    <net code="80" name="Net-(J2-Pad11)">
       <node ref="J2" pin="11" pintype="passive"/>
       <node ref="R3" pin="1" pintype="passive"/>
     </net>
-    <net code="89" name="Net-(J3-PadA5)">
+    <net code="81" name="Net-(J3-CC1)">
       <node ref="J3" pin="A5" pinfunction="CC1" pintype="bidirectional"/>
       <node ref="R7" pin="2" pintype="passive"/>
     </net>
-    <net code="90" name="Net-(J3-PadB5)">
+    <net code="82" name="Net-(J3-CC2)">
       <node ref="J3" pin="B5" pinfunction="CC2" pintype="bidirectional"/>
       <node ref="R8" pin="1" pintype="passive"/>
     </net>
-    <net code="91" name="Net-(J12-Pad2)">
+    <net code="83" name="Net-(J12-Pin_2)">
       <node ref="J12" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="Q2" pin="3" pinfunction="D" pintype="passive"/>
     </net>
-    <net code="92" name="Net-(J12-Pad3)">
+    <net code="84" name="Net-(J12-Pin_3)">
       <node ref="J12" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="Q3" pin="3" pinfunction="D" pintype="passive"/>
     </net>
-    <net code="93" name="Net-(J12-Pad4)">
+    <net code="85" name="Net-(J12-Pin_4)">
       <node ref="J12" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="Q4" pin="3" pinfunction="D" pintype="passive"/>
     </net>
-    <net code="94" name="Net-(J17-Pad2)">
+    <net code="86" name="Net-(J17-Pin_2)">
       <node ref="J17" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="U13" pin="3" pinfunction="TXA" pintype="output"/>
     </net>
-    <net code="95" name="Net-(J17-Pad3)">
+    <net code="87" name="Net-(J17-Pin_3)">
       <node ref="J17" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="U13" pin="4" pinfunction="RXA" pintype="input"/>
     </net>
-    <net code="96" name="Net-(J18-Pad2)">
+    <net code="88" name="Net-(J18-Pin_2)">
       <node ref="J18" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="U14" pin="3" pinfunction="TXA" pintype="output"/>
     </net>
-    <net code="97" name="Net-(J18-Pad3)">
+    <net code="89" name="Net-(J18-Pin_3)">
       <node ref="J18" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="U14" pin="4" pinfunction="RXA" pintype="input"/>
     </net>
-    <net code="98" name="Net-(J19-Pad2)">
+    <net code="90" name="Net-(J19-Pin_2)">
       <node ref="J19" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="U13" pin="23" pinfunction="TXB" pintype="output"/>
     </net>
-    <net code="99" name="Net-(J19-Pad3)">
+    <net code="91" name="Net-(J19-Pin_3)">
       <node ref="J19" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="U13" pin="24" pinfunction="RXB" pintype="input"/>
     </net>
-    <net code="100" name="Net-(J20-Pad2)">
+    <net code="92" name="Net-(J20-Pin_2)">
       <node ref="J20" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="U14" pin="23" pinfunction="TXB" pintype="output"/>
     </net>
-    <net code="101" name="Net-(J20-Pad3)">
+    <net code="93" name="Net-(J20-Pin_3)">
       <node ref="J20" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="U14" pin="24" pinfunction="RXB" pintype="input"/>
     </net>
-    <net code="102" name="Net-(JP1-Pad2)">
+    <net code="94" name="Net-(JP1-B)">
       <node ref="R35" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="103" name="Net-(JP2-Pad2)">
+    <net code="95" name="Net-(JP2-B)">
       <node ref="R34" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="104" name="Net-(Module1-Pad21)">
+    <net code="96" name="Net-(Module1A-PI_nLED_Activity)">
       <node ref="R10" pin="1" pintype="passive"/>
       <node ref="TP1" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="105" name="Net-(Q1-Pad1)">
+    <net code="97" name="Net-(Q1-G)">
       <node ref="Q1" pin="1" pinfunction="G" pintype="input"/>
       <node ref="U6" pin="5" pinfunction="GATE" pintype="output"/>
     </net>
-    <net code="106" name="Net-(Q2-Pad1)">
+    <net code="98" name="Net-(Q2-G)">
       <node ref="Q2" pin="1" pinfunction="G" pintype="input"/>
       <node ref="R24" pin="2" pintype="passive"/>
     </net>
-    <net code="107" name="Net-(Q3-Pad1)">
+    <net code="99" name="Net-(Q3-G)">
       <node ref="Q3" pin="1" pinfunction="G" pintype="input"/>
       <node ref="R25" pin="2" pintype="passive"/>
     </net>
-    <net code="108" name="Net-(Q4-Pad1)">
+    <net code="100" name="Net-(Q4-G)">
       <node ref="Q4" pin="1" pinfunction="G" pintype="input"/>
       <node ref="R26" pin="2" pintype="passive"/>
     </net>
-    <net code="109" name="Net-(Q5-Pad1)">
+    <net code="101" name="Net-(Q5-G)">
       <node ref="Q5" pin="1" pinfunction="G" pintype="input"/>
       <node ref="R22" pin="2" pintype="passive"/>
     </net>
-    <net code="110" name="Net-(R1-Pad2)">
+    <net code="102" name="Net-(U1-Y)">
       <node ref="R1" pin="2" pintype="passive"/>
       <node ref="U1" pin="4" pinfunction="Y" pintype="output"/>
     </net>
-    <net code="111" name="Net-(R5-Pad1)">
-      <node ref="R5" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="U9" pin="17" pinfunction="~{RESET}" pintype="input"/>
-    </net>
-    <net code="112" name="Net-(R6-Pad1)">
-      <node ref="R6" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="U8" pin="17" pinfunction="~{RESET}" pintype="input"/>
-    </net>
-    <net code="113" name="Net-(R18-Pad1)">
-      <node ref="R18" pin="1" pintype="passive"/>
-      <node ref="U13" pin="5" pinfunction="~{RESET}" pintype="input"/>
-    </net>
-    <net code="114" name="Net-(R20-Pad1)">
-      <node ref="R20" pin="1" pintype="passive"/>
-      <node ref="U14" pin="5" pinfunction="~{RESET}" pintype="input"/>
-    </net>
-    <net code="115" name="Net-(SW1-Pad1)">
+    <net code="103" name="Net-(U2-Y)">
       <node ref="SW1" pin="1" pintype="passive"/>
       <node ref="U2" pin="4" pinfunction="Y" pintype="output"/>
     </net>
-    <net code="116" name="Net-(U10-Pad2)">
+    <net code="104" name="Net-(U8-OSC1)">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="U8" pin="8" pinfunction="OSC1" pintype="input"/>
+      <node ref="Y2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="105" name="Net-(U8-OSC2)">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="U8" pin="7" pinfunction="OSC2" pintype="output"/>
+      <node ref="Y2" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="106" name="Net-(U8-~{RESET})">
+      <node ref="R6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U8" pin="17" pinfunction="~{RESET}" pintype="input"/>
+    </net>
+    <net code="107" name="Net-(U9-OSC1)">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="U9" pin="8" pinfunction="OSC1" pintype="input"/>
+      <node ref="Y1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="108" name="Net-(U9-OSC2)">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="U9" pin="7" pinfunction="OSC2" pintype="output"/>
+      <node ref="Y1" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="109" name="Net-(U9-~{RESET})">
+      <node ref="R5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U9" pin="17" pinfunction="~{RESET}" pintype="input"/>
+    </net>
+    <net code="110" name="Net-(U10-RXD)">
       <node ref="U10" pin="2" pinfunction="RXD" pintype="output"/>
       <node ref="U9" pin="2" pinfunction="RXCAN" pintype="input"/>
     </net>
-    <net code="117" name="Net-(U10-Pad3)">
+    <net code="111" name="Net-(U10-TXD)">
       <node ref="U10" pin="3" pinfunction="TXD" pintype="input"/>
       <node ref="U9" pin="1" pinfunction="TXCAN" pintype="output"/>
+    </net>
+    <net code="112" name="Net-(U13-XTAL1)">
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="U13" pin="6" pinfunction="XTAL1" pintype="input"/>
+      <node ref="Y3" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="113" name="Net-(U13-XTAL2)">
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="U13" pin="7" pinfunction="XTAL2" pintype="input"/>
+      <node ref="Y3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="114" name="Net-(U13-~{RESET})">
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="U13" pin="5" pinfunction="~{RESET}" pintype="input"/>
+    </net>
+    <net code="115" name="Net-(U14-XTAL1)">
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="U14" pin="6" pinfunction="XTAL1" pintype="input"/>
+      <node ref="Y4" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="116" name="Net-(U14-XTAL2)">
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="U14" pin="7" pinfunction="XTAL2" pintype="input"/>
+      <node ref="Y4" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="117" name="Net-(U14-~{RESET})">
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="U14" pin="5" pinfunction="~{RESET}" pintype="input"/>
     </net>
     <net code="118" name="RC_SBUS">
       <node ref="J11" pin="1" pinfunction="Pin_1" pintype="passive"/>
@@ -3943,140 +4154,140 @@
     <net code="149" name="nRPI_BOOT">
       <node ref="SW3" pin="2" pinfunction="B" pintype="passive"/>
     </net>
-    <net code="150" name="unconnected-(J1-Pad14)">
+    <net code="150" name="unconnected-(J1-UTILITY{slash}HEAC+-Pad14)">
       <node ref="J1" pin="14" pinfunction="UTILITY/HEAC+" pintype="passive+no_connect"/>
     </net>
-    <net code="151" name="unconnected-(J2-Pad7)">
+    <net code="151" name="unconnected-(J2-NC-Pad7)">
       <node ref="J2" pin="7" pinfunction="NC" pintype="no_connect"/>
     </net>
-    <net code="152" name="unconnected-(J3-PadA8)">
+    <net code="152" name="unconnected-(J3-SBU1-PadA8)">
       <node ref="J3" pin="A8" pinfunction="SBU1" pintype="bidirectional"/>
     </net>
-    <net code="153" name="unconnected-(J3-PadB8)">
+    <net code="153" name="unconnected-(J3-SBU2-PadB8)">
       <node ref="J3" pin="B8" pinfunction="SBU2" pintype="bidirectional"/>
     </net>
-    <net code="154" name="unconnected-(J23-Pad1)">
+    <net code="154" name="unconnected-(J23-Pin_1-Pad1)">
       <node ref="J23" pin="1" pinfunction="Pin_1" pintype="passive+no_connect"/>
     </net>
-    <net code="238" name="unconnected-(SW2-Pad3)">
+    <net code="238" name="unconnected-(SW2-C-Pad3)">
       <node ref="SW2" pin="3" pinfunction="C" pintype="passive"/>
     </net>
-    <net code="239" name="unconnected-(SW3-Pad3)">
+    <net code="239" name="unconnected-(SW3-C-Pad3)">
       <node ref="SW3" pin="3" pinfunction="C" pintype="passive"/>
     </net>
-    <net code="240" name="unconnected-(U4-Pad5)">
+    <net code="240" name="unconnected-(U4-VP-Pad5)">
       <node ref="U4" pin="5" pinfunction="VP" pintype="unspecified+no_connect"/>
     </net>
-    <net code="241" name="unconnected-(U6-Pad4)">
+    <net code="241" name="unconnected-(U6-STAT-Pad4)">
       <node ref="U6" pin="4" pinfunction="STAT" pintype="open_collector"/>
     </net>
-    <net code="242" name="unconnected-(U8-Pad3)">
+    <net code="242" name="unconnected-(U8-CLKOUT{slash}SOF-Pad3)">
       <node ref="U8" pin="3" pinfunction="CLKOUT/SOF" pintype="output"/>
     </net>
-    <net code="243" name="unconnected-(U8-Pad4)">
-      <node ref="U8" pin="4" pinfunction="~{TX0RTS}" pintype="input"/>
-    </net>
-    <net code="244" name="unconnected-(U8-Pad5)">
-      <node ref="U8" pin="5" pinfunction="~{TX1RTS}" pintype="input"/>
-    </net>
-    <net code="245" name="unconnected-(U8-Pad6)">
-      <node ref="U8" pin="6" pinfunction="~{TX2RTS}" pintype="input"/>
-    </net>
-    <net code="246" name="unconnected-(U8-Pad10)">
-      <node ref="U8" pin="10" pinfunction="~{RX1BF}" pintype="output"/>
-    </net>
-    <net code="247" name="unconnected-(U8-Pad11)">
+    <net code="243" name="unconnected-(U8-~{RX0BF}-Pad11)">
       <node ref="U8" pin="11" pinfunction="~{RX0BF}" pintype="output"/>
     </net>
-    <net code="248" name="unconnected-(U9-Pad3)">
+    <net code="244" name="unconnected-(U8-~{RX1BF}-Pad10)">
+      <node ref="U8" pin="10" pinfunction="~{RX1BF}" pintype="output"/>
+    </net>
+    <net code="245" name="unconnected-(U8-~{TX0RTS}-Pad4)">
+      <node ref="U8" pin="4" pinfunction="~{TX0RTS}" pintype="input"/>
+    </net>
+    <net code="246" name="unconnected-(U8-~{TX1RTS}-Pad5)">
+      <node ref="U8" pin="5" pinfunction="~{TX1RTS}" pintype="input"/>
+    </net>
+    <net code="247" name="unconnected-(U8-~{TX2RTS}-Pad6)">
+      <node ref="U8" pin="6" pinfunction="~{TX2RTS}" pintype="input"/>
+    </net>
+    <net code="248" name="unconnected-(U9-CLKOUT{slash}SOF-Pad3)">
       <node ref="U9" pin="3" pinfunction="CLKOUT/SOF" pintype="output"/>
     </net>
-    <net code="249" name="unconnected-(U9-Pad4)">
-      <node ref="U9" pin="4" pinfunction="~{TX0RTS}" pintype="input"/>
-    </net>
-    <net code="250" name="unconnected-(U9-Pad5)">
-      <node ref="U9" pin="5" pinfunction="~{TX1RTS}" pintype="input"/>
-    </net>
-    <net code="251" name="unconnected-(U9-Pad6)">
-      <node ref="U9" pin="6" pinfunction="~{TX2RTS}" pintype="input"/>
-    </net>
-    <net code="252" name="unconnected-(U9-Pad10)">
-      <node ref="U9" pin="10" pinfunction="~{RX1BF}" pintype="output"/>
-    </net>
-    <net code="253" name="unconnected-(U9-Pad11)">
+    <net code="249" name="unconnected-(U9-~{RX0BF}-Pad11)">
       <node ref="U9" pin="11" pinfunction="~{RX0BF}" pintype="output"/>
     </net>
-    <net code="254" name="unconnected-(U13-Pad1)">
-      <node ref="U13" pin="1" pinfunction="~{RTSA}" pintype="output+no_connect"/>
+    <net code="250" name="unconnected-(U9-~{RX1BF}-Pad10)">
+      <node ref="U9" pin="10" pinfunction="~{RX1BF}" pintype="output"/>
     </net>
-    <net code="255" name="unconnected-(U13-Pad2)">
-      <node ref="U13" pin="2" pinfunction="~{CTSA}" pintype="input+no_connect"/>
+    <net code="251" name="unconnected-(U9-~{TX0RTS}-Pad4)">
+      <node ref="U9" pin="4" pinfunction="~{TX0RTS}" pintype="input"/>
     </net>
-    <net code="256" name="unconnected-(U13-Pad16)">
-      <node ref="U13" pin="16" pinfunction="~{CTSB}" pintype="input+no_connect"/>
+    <net code="252" name="unconnected-(U9-~{TX1RTS}-Pad5)">
+      <node ref="U9" pin="5" pinfunction="~{TX1RTS}" pintype="input"/>
     </net>
-    <net code="257" name="unconnected-(U13-Pad17)">
-      <node ref="U13" pin="17" pinfunction="~{RTSB}" pintype="output+no_connect"/>
+    <net code="253" name="unconnected-(U9-~{TX2RTS}-Pad6)">
+      <node ref="U9" pin="6" pinfunction="~{TX2RTS}" pintype="input"/>
     </net>
-    <net code="258" name="unconnected-(U13-Pad18)">
-      <node ref="U13" pin="18" pinfunction="~{DSRB}" pintype="output+no_connect"/>
-    </net>
-    <net code="259" name="unconnected-(U13-Pad19)">
-      <node ref="U13" pin="19" pinfunction="~{DTRB}" pintype="input+no_connect"/>
-    </net>
-    <net code="260" name="unconnected-(U13-Pad20)">
-      <node ref="U13" pin="20" pinfunction="~{CDB}" pintype="input+no_connect"/>
-    </net>
-    <net code="261" name="unconnected-(U13-Pad21)">
-      <node ref="U13" pin="21" pinfunction="~{RIB}" pintype="input+no_connect"/>
-    </net>
-    <net code="262" name="unconnected-(U13-Pad25)">
-      <node ref="U13" pin="25" pinfunction="~{DSRA}" pintype="output+no_connect"/>
-    </net>
-    <net code="263" name="unconnected-(U13-Pad26)">
-      <node ref="U13" pin="26" pinfunction="~{DTRA}" pintype="input+no_connect"/>
-    </net>
-    <net code="264" name="unconnected-(U13-Pad27)">
+    <net code="254" name="unconnected-(U13-~{CDA}-Pad27)">
       <node ref="U13" pin="27" pinfunction="~{CDA}" pintype="input+no_connect"/>
     </net>
-    <net code="265" name="unconnected-(U13-Pad28)">
+    <net code="255" name="unconnected-(U13-~{CDB}-Pad20)">
+      <node ref="U13" pin="20" pinfunction="~{CDB}" pintype="input+no_connect"/>
+    </net>
+    <net code="256" name="unconnected-(U13-~{CTSA}-Pad2)">
+      <node ref="U13" pin="2" pinfunction="~{CTSA}" pintype="input+no_connect"/>
+    </net>
+    <net code="257" name="unconnected-(U13-~{CTSB}-Pad16)">
+      <node ref="U13" pin="16" pinfunction="~{CTSB}" pintype="input+no_connect"/>
+    </net>
+    <net code="258" name="unconnected-(U13-~{DSRA}-Pad25)">
+      <node ref="U13" pin="25" pinfunction="~{DSRA}" pintype="output+no_connect"/>
+    </net>
+    <net code="259" name="unconnected-(U13-~{DSRB}-Pad18)">
+      <node ref="U13" pin="18" pinfunction="~{DSRB}" pintype="output+no_connect"/>
+    </net>
+    <net code="260" name="unconnected-(U13-~{DTRA}-Pad26)">
+      <node ref="U13" pin="26" pinfunction="~{DTRA}" pintype="input+no_connect"/>
+    </net>
+    <net code="261" name="unconnected-(U13-~{DTRB}-Pad19)">
+      <node ref="U13" pin="19" pinfunction="~{DTRB}" pintype="input+no_connect"/>
+    </net>
+    <net code="262" name="unconnected-(U13-~{RIA}-Pad28)">
       <node ref="U13" pin="28" pinfunction="~{RIA}" pintype="input+no_connect"/>
     </net>
-    <net code="266" name="unconnected-(U14-Pad1)">
-      <node ref="U14" pin="1" pinfunction="~{RTSA}" pintype="output+no_connect"/>
+    <net code="263" name="unconnected-(U13-~{RIB}-Pad21)">
+      <node ref="U13" pin="21" pinfunction="~{RIB}" pintype="input+no_connect"/>
     </net>
-    <net code="267" name="unconnected-(U14-Pad2)">
-      <node ref="U14" pin="2" pinfunction="~{CTSA}" pintype="input+no_connect"/>
+    <net code="264" name="unconnected-(U13-~{RTSA}-Pad1)">
+      <node ref="U13" pin="1" pinfunction="~{RTSA}" pintype="output+no_connect"/>
     </net>
-    <net code="268" name="unconnected-(U14-Pad16)">
-      <node ref="U14" pin="16" pinfunction="~{CTSB}" pintype="input+no_connect"/>
+    <net code="265" name="unconnected-(U13-~{RTSB}-Pad17)">
+      <node ref="U13" pin="17" pinfunction="~{RTSB}" pintype="output+no_connect"/>
     </net>
-    <net code="269" name="unconnected-(U14-Pad17)">
-      <node ref="U14" pin="17" pinfunction="~{RTSB}" pintype="output+no_connect"/>
-    </net>
-    <net code="270" name="unconnected-(U14-Pad18)">
-      <node ref="U14" pin="18" pinfunction="~{DSRB}" pintype="output+no_connect"/>
-    </net>
-    <net code="271" name="unconnected-(U14-Pad19)">
-      <node ref="U14" pin="19" pinfunction="~{DTRB}" pintype="input+no_connect"/>
-    </net>
-    <net code="272" name="unconnected-(U14-Pad20)">
-      <node ref="U14" pin="20" pinfunction="~{CDB}" pintype="input+no_connect"/>
-    </net>
-    <net code="273" name="unconnected-(U14-Pad21)">
-      <node ref="U14" pin="21" pinfunction="~{RIB}" pintype="input+no_connect"/>
-    </net>
-    <net code="274" name="unconnected-(U14-Pad25)">
-      <node ref="U14" pin="25" pinfunction="~{DSRA}" pintype="output+no_connect"/>
-    </net>
-    <net code="275" name="unconnected-(U14-Pad26)">
-      <node ref="U14" pin="26" pinfunction="~{DTRA}" pintype="input+no_connect"/>
-    </net>
-    <net code="276" name="unconnected-(U14-Pad27)">
+    <net code="266" name="unconnected-(U14-~{CDA}-Pad27)">
       <node ref="U14" pin="27" pinfunction="~{CDA}" pintype="input+no_connect"/>
     </net>
-    <net code="277" name="unconnected-(U14-Pad28)">
+    <net code="267" name="unconnected-(U14-~{CDB}-Pad20)">
+      <node ref="U14" pin="20" pinfunction="~{CDB}" pintype="input+no_connect"/>
+    </net>
+    <net code="268" name="unconnected-(U14-~{CTSA}-Pad2)">
+      <node ref="U14" pin="2" pinfunction="~{CTSA}" pintype="input+no_connect"/>
+    </net>
+    <net code="269" name="unconnected-(U14-~{CTSB}-Pad16)">
+      <node ref="U14" pin="16" pinfunction="~{CTSB}" pintype="input+no_connect"/>
+    </net>
+    <net code="270" name="unconnected-(U14-~{DSRA}-Pad25)">
+      <node ref="U14" pin="25" pinfunction="~{DSRA}" pintype="output+no_connect"/>
+    </net>
+    <net code="271" name="unconnected-(U14-~{DSRB}-Pad18)">
+      <node ref="U14" pin="18" pinfunction="~{DSRB}" pintype="output+no_connect"/>
+    </net>
+    <net code="272" name="unconnected-(U14-~{DTRA}-Pad26)">
+      <node ref="U14" pin="26" pinfunction="~{DTRA}" pintype="input+no_connect"/>
+    </net>
+    <net code="273" name="unconnected-(U14-~{DTRB}-Pad19)">
+      <node ref="U14" pin="19" pinfunction="~{DTRB}" pintype="input+no_connect"/>
+    </net>
+    <net code="274" name="unconnected-(U14-~{RIA}-Pad28)">
       <node ref="U14" pin="28" pinfunction="~{RIA}" pintype="input+no_connect"/>
+    </net>
+    <net code="275" name="unconnected-(U14-~{RIB}-Pad21)">
+      <node ref="U14" pin="21" pinfunction="~{RIB}" pintype="input+no_connect"/>
+    </net>
+    <net code="276" name="unconnected-(U14-~{RTSA}-Pad1)">
+      <node ref="U14" pin="1" pinfunction="~{RTSA}" pintype="output+no_connect"/>
+    </net>
+    <net code="277" name="unconnected-(U14-~{RTSB}-Pad17)">
+      <node ref="U14" pin="17" pinfunction="~{RTSB}" pintype="output+no_connect"/>
     </net>
   </nets>
 </export>
