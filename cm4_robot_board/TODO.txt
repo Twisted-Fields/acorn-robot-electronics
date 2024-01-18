@@ -1,0 +1,3 @@
+RTC
+https://jlcpcb.com/partdetail/NxpSemicon-PCF85063ATAAZ/C2157792
+https://forums.raspberrypi.com/viewtopic.php?f=98&t=293632
