@@ -1,0 +1,71 @@
+(footprint "LED-ARRAY-SMD_4P-L2.1-W2.1-TL_NH-B2020RGBA" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr smd)
+  (fp_text reference "" (at 0 0) (layer "F.SilkS")
+      (effects (font (size 1.27 1.27) (thickness 0.15)))
+    (tstamp ca6181fd-f345-4002-997b-88712110cd31)
+  )
+  (fp_text value "" (at 0 0) (layer "F.SilkS")
+      (effects (font (size 1.27 1.27) (thickness 0.15)))
+    (tstamp 5d37b3c5-b9af-4f8b-b358-e86be59be2ca)
+  )
+  (fp_text user "" (at 0 0) (layer "Cmts.User")
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp e945c8fa-e625-4ac9-9110-234952571618)
+  )
+  (fp_line (start -1.05 -1.05) (end 1.05 -1.05)
+    (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp 2497a061-4685-4dcc-8657-85912d997f77))
+  (fp_line (start -1.05 -0.071) (end -1.05 0.071)
+    (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp 61d09488-e540-4fec-9030-5d5525e71ec8))
+  (fp_line (start -1.05 1.05) (end 1.05 1.05)
+    (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp 8fa42693-4c45-4073-bf77-0b42e45f917a))
+  (fp_line (start 1.05 -0.071) (end 1.05 0.071)
+    (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp d2d0e5f2-a410-41ad-831a-0eeedec3cc78))
+  (fp_line (start 1.4 0.56) (end 1.85 0.56)
+    (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp 9ab67c58-8c52-4795-905e-e25c02163135))
+  (fp_line (start 1.62 0.31) (end 1.62 0.81)
+    (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp 2fa656ae-c1a4-4536-b232-59dc5a494331))
+  (fp_poly
+    (pts
+      (xy -0.39 -0.668)
+      (xy -0.39 -0.992)
+      (xy -0.05 -0.992)
+    )
+
+    (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp c9d514c9-c635-4400-8d05-389b923145e5))
+  (fp_poly
+    (pts
+      (xy -0.39 -0.668)
+      (xy -0.39 -0.992)
+      (xy -0.05 -0.992)
+    )
+
+    (stroke (width 0) (type solid)) (fill solid) (layer "Cmts.User") (tstamp 4fa67c9d-2ad3-4243-a03c-65c3781d393d))
+  (fp_poly
+    (pts
+      (xy 1.4 0.5)
+      (xy 1.9 0.5)
+      (xy 1.9 0.6)
+      (xy 1.4 0.6)
+    )
+
+    (stroke (width 0) (type solid)) (fill solid) (layer "Cmts.User") (tstamp 782fe0f7-1d78-4022-a2a1-b0cf755f8a22))
+  (fp_poly
+    (pts
+      (xy 1.593 0.811)
+      (xy 1.593 0.311)
+      (xy 1.693 0.311)
+      (xy 1.693 0.811)
+    )
+
+    (stroke (width 0) (type solid)) (fill solid) (layer "Cmts.User") (tstamp ec4300af-f468-4d63-82a1-d9a453a6d1c2))
+  (pad "1" smd rect (at -0.85 -0.55) (size 0.8 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp dfe762d5-2ed7-495d-8ce3-bdff82ce8ef5))
+  (pad "2" smd rect (at 0.85 -0.55) (size 0.8 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 685ca65b-c1e8-47c4-9f79-a737d4c84562))
+  (pad "3" smd rect (at 0.85 0.55) (size 0.8 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 10300c2f-6380-4ef5-b6d8-d3e96b7a5c2b))
+  (pad "4" smd rect (at -0.85 0.55) (size 0.8 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c726df4a-f423-4c50-a5a6-173ca4bf17e8))
+  (model "${EASY_EDA_3D}/test.3dshapes/LED-ARRAY-SMD_4P-L2.1-W2.1-TL_NH-B2020RGBA.wrl"
+    (offset (xyz 0 0 0))
+    (scale (xyz 0.3937007874 0.3937007874 0.3937007874))
+    (rotate (xyz 0 0 180))
+  )
+)

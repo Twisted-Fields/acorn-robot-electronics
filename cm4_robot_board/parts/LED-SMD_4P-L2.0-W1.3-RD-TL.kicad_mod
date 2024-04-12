@@ -1,0 +1,78 @@
+(footprint "LED-SMD_4P-L2.0-W1.3-RD-TL" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr smd)
+  (fp_text reference "" (at 0 0) (layer "F.SilkS")
+      (effects (font (size 1.27 1.27) (thickness 0.15)))
+    (tstamp 2fc01a57-52a2-4275-aad2-b6f34f95c675)
+  )
+  (fp_text value "" (at 0 0) (layer "F.SilkS")
+      (effects (font (size 1.27 1.27) (thickness 0.15)))
+    (tstamp 1bc36583-4ff0-4704-967b-ab4683874000)
+  )
+  (fp_text user "" (at 0 0) (layer "Cmts.User")
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp e12805d8-092e-458f-a205-e72ed51477f8)
+  )
+  (fp_line (start -1.016 0.006) (end -1.016 0)
+    (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp 58e604cc-fef1-482e-9d51-06e436c44f63))
+  (fp_line (start -0.369 -0.635) (end 0.369 -0.635)
+    (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp 7c4400c1-28a6-4df9-9851-e3b68e9bd2ee))
+  (fp_line (start -0.369 0.635) (end 0.369 0.635)
+    (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp dabf5a34-2176-462c-a7c9-f3d9c0051ffd))
+  (fp_line (start 1.016 0.006) (end 1.016 0)
+    (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp da0526bf-e3fb-4469-b3de-fcee42cda079))
+  (fp_poly
+    (pts
+      (xy -1.55 0.05)
+      (xy -1.55 -0.05)
+      (xy -0.65 -0.05)
+      (xy -0.65 0.05)
+    )
+
+    (stroke (width 0) (type solid)) (fill solid) (layer "Cmts.User") (tstamp 8e48e96d-9994-4f3f-b290-38064121f01a))
+  (fp_poly
+    (pts
+      (xy -0.1 -0.5)
+      (xy -0.1 0.5)
+      (xy 0.2 0.5)
+      (xy 0.2 -0.5)
+    )
+
+    (stroke (width 0) (type solid)) (fill solid) (layer "Cmts.User") (tstamp bd2d37ba-0956-45d4-96bb-e26fc4c828af))
+  (fp_poly
+    (pts
+      (xy -0.1 -0.2)
+      (xy -0.5 -0.2)
+      (xy -0.5 0.2)
+      (xy -0.1 0.2)
+    )
+
+    (stroke (width 0) (type solid)) (fill solid) (layer "Cmts.User") (tstamp 8ae84add-c82c-473b-8f53-ec2e6fa100e4))
+  (fp_poly
+    (pts
+      (xy 0.64 0.049)
+      (xy 0.64 -0.051)
+      (xy 1.54 -0.051)
+      (xy 1.54 0.049)
+    )
+
+    (stroke (width 0) (type solid)) (fill solid) (layer "Cmts.User") (tstamp 51c94506-9d8d-434d-a555-49c94ebe1d32))
+  (fp_poly
+    (pts
+      (xy 1.162 0.46)
+      (xy 1.062 0.46)
+      (xy 1.062 -0.44)
+      (xy 1.162 -0.44)
+    )
+
+    (stroke (width 0) (type solid)) (fill solid) (layer "Cmts.User") (tstamp 76129ba3-91e1-40dd-9079-c46c85ac9865))
+  (pad "1" smd rect (at -1.05 -0.4) (size 1 0.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp cb40265e-040e-46d8-87c5-71f12d72063a))
+  (pad "2" smd rect (at 1.05 -0.4) (size 1 0.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d5204972-f676-454b-8fdc-598e7402268d))
+  (pad "3" smd rect (at -1.05 0.4) (size 1 0.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4c474d10-5a7e-4533-ab32-9523a50cbddc))
+  (pad "4" smd rect (at 1.05 0.4) (size 1 0.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 61c9c43c-3038-4d8a-98ff-609365f2a2d9))
+  (model "${EASY_EDA_3D}/test.3dshapes/LED-SMD_4P-L2.0-W1.3-RD-TL.wrl"
+    (offset (xyz 0 0 0))
+    (scale (xyz 0.3937007874 0.3937007874 0.3937007874))
+    (rotate (xyz 0 0 180))
+  )
+)
