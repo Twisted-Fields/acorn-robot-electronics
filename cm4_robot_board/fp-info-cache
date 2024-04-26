@@ -1,4 +1,4 @@
-45024696406065
+46738690130576
 parts
 303015
 Inductor, Taiyo Yuden, MD series, Taiyo-Yuden_MD-3030, 3.0mmx3.0mm
@@ -62,6 +62,13 @@ ISL54222AIUZ
 0
 10
 10
+parts
+LED-ARRAY-SMD_4P-L1.9-W1.6-BL-CW
+
+
+0
+4
+4
 parts
 LED-ARRAY-SMD_4P-L2.1-W2.1-TL_NH-B2020RGBA
 

@@ -1,4 +1,5 @@
 (sym_lib_table
+  (version 7)
   (lib (name "dk_USB-DVI-HDMI-Connectors")(type "Legacy")(uri "/home/taylor/pcb/library/digikey-kicad-library/digikey-symbols/dk_USB-DVI-HDMI-Connectors.lib")(options "")(descr ""))
   (lib (name "dk_Trimmer-Potentiometers")(type "Legacy")(uri "/home/taylor/pcb/library/digikey-kicad-library/digikey-symbols/dk_Trimmer-Potentiometers.lib")(options "")(descr ""))
   (lib (name "dk_Transistors-JFETs")(type "Legacy")(uri "/home/taylor/pcb/library/digikey-kicad-library/digikey-symbols/dk_Transistors-JFETs.lib")(options "")(descr ""))
@@ -160,4 +161,5 @@
   (lib (name "HR911105A")(type "KiCad")(uri "${KIPRJMOD}/parts/HR911105A.kicad_sym")(options "")(descr ""))
   (lib (name "CM4IO")(type "KiCad")(uri "/home/taylor/pcb/cm4io/CM4IO.kicad_sym")(options "")(descr ""))
   (lib (name "cm4-robot")(type "KiCad")(uri "${KIPRJMOD}/parts/cm4-robot.kicad_sym")(options "")(descr ""))
+  (lib (name "LED_KKAA")(type "KiCad")(uri "${KIPRJMOD}/parts/LED_KKAA.kicad_sym")(options "")(descr ""))
 )

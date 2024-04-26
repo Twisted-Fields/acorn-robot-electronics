@@ -1,0 +1,3 @@
+input mosfet arrangement incorrect - see https://www.ti.com/lit/an/slva948/slva948.pdf
+current sensing should not be unidirectional for input power at least. and care must be taken
+to ensure that output current sensing is the correct direction (seems ok)
