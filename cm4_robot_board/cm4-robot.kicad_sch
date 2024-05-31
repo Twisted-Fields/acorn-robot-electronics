@@ -37267,17 +37267,6 @@
 		)
 		(uuid "370b5960-ea67-4f12-bad8-3d41b95b99d3")
 	)
-	(text "MAKE DIP SWITCH LARGER OR MOVE LEDS TO BIG SWITCH"
-		(exclude_from_sim no)
-		(at -67.31 628.015 0)
-		(effects
-			(font
-				(size 20 20)
-			)
-			(justify left bottom)
-		)
-		(uuid "37ad10cc-8a61-48fe-a9e4-4dc9c57c02c8")
-	)
 	(text "CM4"
 		(exclude_from_sim no)
 		(at 36.195 60.325 0)
@@ -37478,17 +37467,6 @@
 			(justify left bottom)
 		)
 		(uuid "7dfe1e88-a19f-4bd9-b752-f276097b6716")
-	)
-	(text "MOUNT GPS ON BACK"
-		(exclude_from_sim no)
-		(at 72.39 438.15 0)
-		(effects
-			(font
-				(size 20 20)
-			)
-			(justify left bottom)
-		)
-		(uuid "7ea34d42-de3b-49b4-a016-e43f9284209b")
 	)
 	(text "USB"
 		(exclude_from_sim no)
