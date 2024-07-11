@@ -1,0 +1,6067 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "c96815b7-5107-42d0-b7dc-73f8acaf6bbc")
+	(paper "A4")
+	(lib_symbols
+		(symbol "Connector_Generic:Conn_01x02"
+			(pin_names
+				(offset 1.016) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_01x02"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Conn_01x02_1_1"
+				(rectangle
+					(start -1.27 -2.413)
+					(end 0 -2.667)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 1.27)
+					(end 1.27 -3.81)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "Device:C_Polarized"
+			(pin_numbers hide)
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0.635 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "C_Polarized"
+				(at 0.635 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at 0.9652 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Polarized capacitor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "cap capacitor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "CP_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "C_Polarized_0_1"
+				(rectangle
+					(start -2.286 0.508)
+					(end 2.286 1.016)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.778 2.286) (xy -0.762 2.286)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 2.794) (xy -1.27 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 2.286 -0.508)
+					(end -2.286 -1.016)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+			)
+			(symbol "C_Polarized_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 2.794)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 2.794)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "Device:D_Zener"
+			(pin_numbers hide)
+			(pin_names
+				(offset 1.016) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "D_Zener"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Zener diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "TO-???* *_Diode_* *SingleDiode* D_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "D_Zener_0_1"
+				(polyline
+					(pts
+						(xy 1.27 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -1.27) (xy -1.27 1.27) (xy -0.762 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.27) (xy 1.27 1.27) (xy -1.27 0) (xy 1.27 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "D_Zener_1_1"
+				(pin passive line
+					(at -3.81 0 0)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "Mechanical:MountingHole"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole"
+				(at 0 3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Mounting Hole without connection"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MountingHole_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+		)
+		(symbol "power:GND"
+			(power)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "GND"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "GND_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27) (xy 1.27 -1.27) (xy 0 -2.54) (xy -1.27 -1.27) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "GND_1_1"
+				(pin power_in line
+					(at 0 0 270)
+					(length 0) hide
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "supercap_library:VCAP"
+			(power)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "VCAP"
+				(at 0 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"VBUS\""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "VCAP_0_1"
+				(polyline
+					(pts
+						(xy -0.762 1.27) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "VCAP_1_1"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0) hide
+					(name "VCAP"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+	)
+	(junction
+		(at 72.39 121.92)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "00a38b26-3b41-4933-b969-69c5428ed9c3")
+	)
+	(junction
+		(at 77.47 104.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "13948ada-d273-4fd0-879d-d104d04bd6bf")
+	)
+	(junction
+		(at 72.39 93.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "15ccae57-b5a6-4ad2-89e2-91e880b60a00")
+	)
+	(junction
+		(at 77.47 85.09)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "192276f9-0e0e-4d87-94fb-101013da57b1")
+	)
+	(junction
+		(at 106.68 142.24)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1a1e9cbd-0274-4e12-8c0a-5cf78c988cdf")
+	)
+	(junction
+		(at 77.47 57.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1ee3c38e-dca0-409d-b53b-8d1b56a5681d")
+	)
+	(junction
+		(at 72.39 104.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "26a326a3-597d-4f5d-a30a-7efb18af4f35")
+	)
+	(junction
+		(at 106.68 96.52)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "278a6be8-70b5-4913-8bac-5b1a3ca5f24f")
+	)
+	(junction
+		(at 106.68 115.57)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2b97ffa2-b530-4753-a90e-45b6fef13287")
+	)
+	(junction
+		(at 154.94 67.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "32c721ef-3889-476c-a777-3e7d16d4d9aa")
+	)
+	(junction
+		(at 77.47 121.92)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3541b8c4-2caa-4cc8-9bfc-6cc73bc81245")
+	)
+	(junction
+		(at 106.68 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "428521ab-ab13-4d99-ba0d-9fe4661ebee4")
+	)
+	(junction
+		(at 111.76 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4b5cebb8-8f0f-45f7-84ba-869e471f285b")
+	)
+	(junction
+		(at 111.76 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4d643aaf-f472-404a-9015-8f877fac35ff")
+	)
+	(junction
+		(at 111.76 96.52)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4fd1ed39-4cde-4813-821e-bfbf31a2d948")
+	)
+	(junction
+		(at 77.47 66.04)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "531cbe3c-298e-4db0-b88d-ed562ad231bb")
+	)
+	(junction
+		(at 106.68 124.46)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5884a529-09c7-4fcc-920d-e2959a9c4df2")
+	)
+	(junction
+		(at 106.68 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6b945369-dac0-4dea-8291-9b6ce2a61552")
+	)
+	(junction
+		(at 77.47 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7b6dee5d-dd89-433c-b839-c87b40a7e511")
+	)
+	(junction
+		(at 72.39 130.81)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7d5aec59-9bd7-4739-8d17-f368e340c33e")
+	)
+	(junction
+		(at 72.39 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "809f86bf-cb0a-42cf-90a6-46c62e6c3711")
+	)
+	(junction
+		(at 72.39 85.09)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "92d72c37-0a88-4cf2-b3bf-042f4b31b9a4")
+	)
+	(junction
+		(at 111.76 133.35)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9669cdc2-ec33-437a-82e8-f11c897899b4")
+	)
+	(junction
+		(at 111.76 142.24)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "99e26045-5b81-4c20-b26f-e3ab2e8e5c1a")
+	)
+	(junction
+		(at 106.68 60.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9d6b0132-3cf3-4f4a-96ef-dcd11276320f")
+	)
+	(junction
+		(at 154.94 77.47)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9f2a40b0-5691-4559-8cb4-5f371d1a4e5e")
+	)
+	(junction
+		(at 111.76 152.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a15e280c-fd33-4bc7-88c3-3f9b949c7ae5")
+	)
+	(junction
+		(at 106.68 133.35)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a1e58f5d-9db0-42e1-a3d9-0b9b021a5149")
+	)
+	(junction
+		(at 77.47 93.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a9375942-9cee-4660-8005-5e4f44090559")
+	)
+	(junction
+		(at 111.76 60.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ab0f1a63-4ebb-4b53-bc6b-7749af14c312")
+	)
+	(junction
+		(at 106.68 106.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b22c16c7-8ee4-4238-ad27-3b36a604e666")
+	)
+	(junction
+		(at 106.68 49.53)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b869cc41-1d72-4523-80c0-0f694b77188a")
+	)
+	(junction
+		(at 72.39 57.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b8f6a771-9210-426f-8f78-b15844816042")
+	)
+	(junction
+		(at 111.76 124.46)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c5163006-9850-4623-968d-adbc22e01298")
+	)
+	(junction
+		(at 77.47 49.53)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c850863c-5415-4441-bffd-9d32152e5cc1")
+	)
+	(junction
+		(at 77.47 113.03)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dbaaec82-420a-4696-a288-3749eb97eb35")
+	)
+	(junction
+		(at 154.94 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dc43dff6-cebf-49a6-ac8b-4e4ef7b92341")
+	)
+	(junction
+		(at 106.68 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "de58a943-e3c8-4862-aeba-d7ddd14dda6d")
+	)
+	(junction
+		(at 111.76 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e0c35d19-3136-4a9c-aa38-dfed7a9d0162")
+	)
+	(junction
+		(at 111.76 106.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e7ed8962-1b97-48f9-a8d3-a6b735fa8404")
+	)
+	(junction
+		(at 72.39 113.03)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e9844a34-e292-44eb-a7be-bb85b702409c")
+	)
+	(junction
+		(at 72.39 66.04)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fbfdf869-ceff-4e49-8539-3bbf4c6ca8e4")
+	)
+	(junction
+		(at 111.76 115.57)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ff06a283-48ca-4ec2-a8ef-e49b06d41528")
+	)
+	(wire
+		(pts
+			(xy 106.68 133.35) (xy 106.68 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "02302daf-ed67-4e6c-a225-a428f93a309c")
+	)
+	(wire
+		(pts
+			(xy 106.68 142.24) (xy 111.76 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "02e2f89e-1b8d-41d6-9281-8c5352a38fa3")
+	)
+	(wire
+		(pts
+			(xy 93.98 50.8) (xy 95.25 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "03afe510-da4c-4c43-898a-a0a60dd229ad")
+	)
+	(wire
+		(pts
+			(xy 106.68 106.68) (xy 106.68 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0566b195-e321-4574-880a-78b9400afad7")
+	)
+	(wire
+		(pts
+			(xy 111.76 123.19) (xy 111.76 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "065c21e4-ea88-4210-b10a-40a3cf6dc54c")
+	)
+	(wire
+		(pts
+			(xy 72.39 130.81) (xy 77.47 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0996f997-7596-4951-af92-4c3774c7143f")
+	)
+	(wire
+		(pts
+			(xy 154.94 77.47) (xy 158.75 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0d33e15f-f482-4bb3-99c4-15fdc08c1232")
+	)
+	(wire
+		(pts
+			(xy 77.47 92.71) (xy 77.47 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ebb71ac-b92f-4557-85f4-87fcf7c93813")
+	)
+	(wire
+		(pts
+			(xy 111.76 77.47) (xy 111.76 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0f9d901a-e9d8-4eff-8c23-e4fe1bab2e08")
+	)
+	(wire
+		(pts
+			(xy 95.25 49.53) (xy 106.68 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "10e2288a-6fe1-4d1d-886c-2edf817d963c")
+	)
+	(wire
+		(pts
+			(xy 106.68 133.35) (xy 111.76 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1506b606-d421-4c8c-a7c7-f619ce62c723")
+	)
+	(wire
+		(pts
+			(xy 72.39 92.71) (xy 72.39 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a41a40a-d39e-44cc-833b-ce19aedf0803")
+	)
+	(wire
+		(pts
+			(xy 111.76 95.25) (xy 111.76 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1b6321d5-21dc-443a-9d61-78aa7beaffcd")
+	)
+	(wire
+		(pts
+			(xy 111.76 132.08) (xy 111.76 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c0dac5a-b588-4617-9591-386b3f085a2e")
+	)
+	(wire
+		(pts
+			(xy 111.76 86.36) (xy 111.76 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e86ecd8-0145-4a04-9750-14f60e66bc8d")
+	)
+	(wire
+		(pts
+			(xy 77.47 66.04) (xy 77.47 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21bbd1a1-5381-47fd-b928-7d04384e2912")
+	)
+	(wire
+		(pts
+			(xy 106.68 49.53) (xy 110.49 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2447c5ad-1f4a-4256-b80f-1496f308d51d")
+	)
+	(wire
+		(pts
+			(xy 157.48 54.61) (xy 158.75 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "25c2a4ba-f0b5-4e43-ab8e-bb7f156138a4")
+	)
+	(wire
+		(pts
+			(xy 157.48 85.09) (xy 158.75 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "26705860-6496-48f4-b470-6ab550ec2a97")
+	)
+	(wire
+		(pts
+			(xy 106.68 59.69) (xy 106.68 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2da4ae1b-18ce-4e95-95e3-cc3d12667a12")
+	)
+	(wire
+		(pts
+			(xy 72.39 102.87) (xy 72.39 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "30407634-1ef5-4f0a-9860-70bb118329a3")
+	)
+	(wire
+		(pts
+			(xy 72.39 121.92) (xy 77.47 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "35420dfc-c9bf-4582-8d94-49c4f8578b10")
+	)
+	(wire
+		(pts
+			(xy 72.39 104.14) (xy 77.47 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3828d2ed-8f53-482d-b640-c1c73f9f45f6")
+	)
+	(wire
+		(pts
+			(xy 106.68 87.63) (xy 111.76 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3bc90037-cd29-43bf-8764-134def0a5d24")
+	)
+	(wire
+		(pts
+			(xy 106.68 105.41) (xy 106.68 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d0d5f53-fb65-43f3-807f-621fcc3d1273")
+	)
+	(wire
+		(pts
+			(xy 111.76 153.67) (xy 111.76 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3df341fb-366b-410d-ad78-2fec27bec7f1")
+	)
+	(wire
+		(pts
+			(xy 77.47 74.93) (xy 77.47 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "41161677-8e5c-4504-8e93-6d1a62c135bb")
+	)
+	(wire
+		(pts
+			(xy 106.68 124.46) (xy 111.76 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "41f0afb9-6d0a-4440-aea0-458b4bad003d")
+	)
+	(wire
+		(pts
+			(xy 77.47 120.65) (xy 77.47 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a0a139d-4ab1-400f-8a00-a70d47a77ee4")
+	)
+	(wire
+		(pts
+			(xy 72.39 113.03) (xy 77.47 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5010b1aa-866c-4bdb-8a8c-62309693ed72")
+	)
+	(wire
+		(pts
+			(xy 77.47 48.26) (xy 77.47 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "50d1dcf4-9cb8-4aa0-9122-fb65a12566ab")
+	)
+	(wire
+		(pts
+			(xy 77.47 93.98) (xy 77.47 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "54e8a572-0450-4c2b-9cdb-4ecd36822067")
+	)
+	(wire
+		(pts
+			(xy 154.94 57.15) (xy 158.75 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5975ce72-3cfd-4653-bd90-e9b7d79ff4dc")
+	)
+	(wire
+		(pts
+			(xy 72.39 120.65) (xy 72.39 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5cdd303a-266a-416a-86bc-0c3546f604dd")
+	)
+	(wire
+		(pts
+			(xy 106.68 49.53) (xy 106.68 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "60df46ce-28f1-435f-8618-4e596a13453f")
+	)
+	(wire
+		(pts
+			(xy 77.47 111.76) (xy 77.47 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6272b9db-bdbe-4119-9308-69233d5c7fda")
+	)
+	(wire
+		(pts
+			(xy 157.48 64.77) (xy 158.75 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "64891b75-c296-4cf3-a32a-7a6ec32c6169")
+	)
+	(wire
+		(pts
+			(xy 72.39 85.09) (xy 77.47 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "697097b7-b1f0-4c94-9342-f850ae75ad6b")
+	)
+	(wire
+		(pts
+			(xy 111.76 140.97) (xy 111.76 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6ba70969-2140-40c1-9402-7893bb4574e8")
+	)
+	(wire
+		(pts
+			(xy 72.39 74.93) (xy 72.39 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e90442c-42da-498a-b5fe-af8fb9f6c0a8")
+	)
+	(wire
+		(pts
+			(xy 72.39 83.82) (xy 72.39 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "733ea328-4a00-4d57-8021-bd03bb9b0100")
+	)
+	(wire
+		(pts
+			(xy 106.68 96.52) (xy 111.76 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d588bce-b144-438c-94a7-f82ea7c2f9bb")
+	)
+	(wire
+		(pts
+			(xy 72.39 111.76) (xy 72.39 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8413b75f-587d-48fd-a6ab-f826f6490ad1")
+	)
+	(wire
+		(pts
+			(xy 77.47 129.54) (xy 77.47 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "844eafc4-6d72-4d7e-9f39-4b81e3761452")
+	)
+	(wire
+		(pts
+			(xy 106.68 115.57) (xy 106.68 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "848eb1ea-a800-468e-9adc-78a86286bcb5")
+	)
+	(wire
+		(pts
+			(xy 106.68 152.4) (xy 111.76 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8b40d46d-090c-4534-aeff-5524fa9041e8")
+	)
+	(wire
+		(pts
+			(xy 72.39 130.81) (xy 72.39 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d333867-652c-45ba-a9cf-aa91fc9e49ef")
+	)
+	(wire
+		(pts
+			(xy 72.39 121.92) (xy 72.39 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "95b7b7cd-7669-483e-9a01-e1cabd1eb6c6")
+	)
+	(wire
+		(pts
+			(xy 111.76 152.4) (xy 111.76 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "95bfbe7b-98f6-44d8-af88-f4263c9df441")
+	)
+	(wire
+		(pts
+			(xy 106.68 69.85) (xy 111.76 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "96bf85c3-5780-4af5-b251-d3bce26b0df3")
+	)
+	(wire
+		(pts
+			(xy 111.76 114.3) (xy 111.76 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "99a25deb-c94c-4945-b6c7-6762aeee8cf8")
+	)
+	(wire
+		(pts
+			(xy 106.68 68.58) (xy 106.68 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a0c40884-383a-4ae1-b2c9-256279afa8ab")
+	)
+	(wire
+		(pts
+			(xy 77.47 83.82) (xy 77.47 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a67eb6d9-214a-4d4c-834b-3f90333908ae")
+	)
+	(wire
+		(pts
+			(xy 106.68 86.36) (xy 106.68 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a7d5e55d-8523-4d98-a807-4d0da812a5c0")
+	)
+	(wire
+		(pts
+			(xy 72.39 93.98) (xy 72.39 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ac96d14f-ba95-498b-9773-c37c7d9f5053")
+	)
+	(wire
+		(pts
+			(xy 72.39 57.15) (xy 77.47 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b2ded0ca-907f-40f2-a21d-c786c9ec26e1")
+	)
+	(wire
+		(pts
+			(xy 72.39 66.04) (xy 77.47 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b7c35111-a0d1-486a-9c12-89777e28acb8")
+	)
+	(wire
+		(pts
+			(xy 72.39 135.89) (xy 93.98 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bbd8a138-666d-432b-8611-5c7895d7d7f4")
+	)
+	(wire
+		(pts
+			(xy 72.39 66.04) (xy 72.39 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc656a7d-b2b8-4c16-bd6c-f379f07ebd43")
+	)
+	(wire
+		(pts
+			(xy 154.94 87.63) (xy 154.94 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bca4b0ba-bef2-418f-af72-bd283c5b1b09")
+	)
+	(wire
+		(pts
+			(xy 154.94 77.47) (xy 154.94 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bcf2568c-c0b6-47cb-be45-6a62389d1084")
+	)
+	(wire
+		(pts
+			(xy 72.39 49.53) (xy 77.47 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd023e72-fcfb-404e-bf3d-8213a76df6a5")
+	)
+	(wire
+		(pts
+			(xy 106.68 124.46) (xy 106.68 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be17ae63-aede-4262-aced-95807c2b51d5")
+	)
+	(wire
+		(pts
+			(xy 106.68 77.47) (xy 106.68 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be1fb7cf-fea8-4227-8df9-42228bf9fe52")
+	)
+	(wire
+		(pts
+			(xy 111.76 58.42) (xy 111.76 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bf5f6c06-811d-4f65-9fed-3125009118df")
+	)
+	(wire
+		(pts
+			(xy 110.49 49.53) (xy 111.76 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c7ccb5ff-5b83-4f22-83dc-8bb0a9e082d8")
+	)
+	(wire
+		(pts
+			(xy 106.68 142.24) (xy 106.68 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ccb3706c-aa6c-47aa-943d-31cf461b92d2")
+	)
+	(wire
+		(pts
+			(xy 77.47 102.87) (xy 77.47 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d052298b-383c-4340-8b55-133479fdcb43")
+	)
+	(wire
+		(pts
+			(xy 106.68 60.96) (xy 111.76 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d1f5353e-1aae-47df-baa1-5a0900fad154")
+	)
+	(wire
+		(pts
+			(xy 154.94 57.15) (xy 154.94 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d2127b20-9858-4e3a-ac6f-3db6e3829965")
+	)
+	(wire
+		(pts
+			(xy 106.68 106.68) (xy 111.76 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d6a7d67f-b399-44a4-be83-89bc8b84ef1f")
+	)
+	(wire
+		(pts
+			(xy 154.94 87.63) (xy 158.75 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d85c46bc-1c7a-45a4-8780-5699b9bd67b9")
+	)
+	(wire
+		(pts
+			(xy 111.76 68.58) (xy 111.76 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dcb3724c-8f1b-4121-947c-c1fc3b16ddc9")
+	)
+	(wire
+		(pts
+			(xy 111.76 104.14) (xy 111.76 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dfca5e6f-bff7-4764-a6f6-fadd9833fa98")
+	)
+	(wire
+		(pts
+			(xy 72.39 93.98) (xy 77.47 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e23ae03c-de71-4340-941a-03c998aa286d")
+	)
+	(wire
+		(pts
+			(xy 72.39 57.15) (xy 72.39 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e339271c-ee0b-4e3f-a28e-95aaa45a3180")
+	)
+	(wire
+		(pts
+			(xy 157.48 74.93) (xy 158.75 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e9a97140-e2db-4de0-9b6d-8de745575923")
+	)
+	(wire
+		(pts
+			(xy 154.94 67.31) (xy 154.94 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ee5e2055-9a8b-4f7b-affb-f872ab3e8b79")
+	)
+	(wire
+		(pts
+			(xy 106.68 115.57) (xy 111.76 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eefa0d40-7765-4801-9c3e-af6aaf3147a0")
+	)
+	(wire
+		(pts
+			(xy 106.68 87.63) (xy 106.68 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef1f06de-619c-415f-ab28-e26602df67f9")
+	)
+	(wire
+		(pts
+			(xy 106.68 96.52) (xy 106.68 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f036ab05-9ffd-422c-b65b-8f2685b7f0d6")
+	)
+	(wire
+		(pts
+			(xy 93.98 50.8) (xy 93.98 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f0db319f-8cde-46c3-bac0-f6faaa850547")
+	)
+	(wire
+		(pts
+			(xy 77.47 57.15) (xy 77.47 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f1109a2b-8e0e-45e4-8921-6c7421e44f1c")
+	)
+	(wire
+		(pts
+			(xy 106.68 151.13) (xy 106.68 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f736430d-7bcb-4688-88ef-aae87fbe3c6c")
+	)
+	(wire
+		(pts
+			(xy 72.39 76.2) (xy 77.47 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fb875f6c-230f-4211-bace-7e4badb5102f")
+	)
+	(wire
+		(pts
+			(xy 106.68 78.74) (xy 111.76 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fc9f120e-6c1a-4d71-91f7-48523155ad7d")
+	)
+	(wire
+		(pts
+			(xy 154.94 67.31) (xy 158.75 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fef99856-185f-4cc4-a33f-0aa8101273ed")
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 154.94 96.52 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0015a0c9-95ef-4b19-8794-5664e66e3107")
+		(property "Reference" "#PWR048"
+			(at 154.94 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 154.94 100.965 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 154.94 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 154.94 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 154.94 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "80328895-c269-4aca-8046-23368df7b2b0")
+		)
+		(instances
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "#PWR048")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 77.47 116.84 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "04d8bc1a-b9a9-497e-992c-8b12f6357098")
+		(property "Reference" "C12"
+			(at 80.645 115.316 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "120F 2.3v"
+			(at 80.645 117.856 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm"
+			(at 78.4352 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.tecategroup.com/products/data_sheet.php?i=TPLH-2R7/120WR18X60"
+			(at 77.47 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 77.47 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "2085-TPLH-2R7/120WR18X60-ND"
+			(at 77.47 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "748e9d38-a3bb-4e7f-9249-ab51382041b1")
+		)
+		(pin "2"
+			(uuid "015686ca-8342-4274-9079-cd5de8d318e9")
+		)
+		(instances
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "C12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "supercap_library:VCAP")
+		(at 157.48 64.77 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "08be73d7-e472-4bf2-8e3f-25a83196f649")
+		(property "Reference" "#PWR01"
+			(at 157.48 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCAP"
+			(at 157.48 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 157.48 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 157.48 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 157.48 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "abaee2db-b9a7-44bd-8d87-933c08a8abf0")
+		)
+		(instances
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "#PWR01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 111.76 128.27 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "096d4e36-fa83-43c8-90b1-934df40ab4be")
+		(property "Reference" "C25"
+			(at 114.935 126.746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "120F 2.3v"
+			(at 114.935 129.286 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm"
+			(at 112.7252 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.tecategroup.com/products/data_sheet.php?i=TPLH-2R7/120WR18X60"
+			(at 111.76 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 111.76 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "2085-TPLH-2R7/120WR18X60-ND"
+			(at 111.76 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0f39072d-7236-4c9d-bede-97fedb1ce9c9")
+		)
+		(pin "2"
+			(uuid "f1d28840-c26b-47d2-92c3-b70d8d80567a")
+		)
+		(instances
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "C25")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Zener")
+		(at 106.68 129.54 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "13b27667-5830-4414-bb5e-a6b1744c05ee")
+		(property "Reference" "D19"
+			(at 98.425 128.27 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2.4v zener"
+			(at 95.885 132.08 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "supercap:DIO_PESD5V0S1UL_315"
+			(at 106.68 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2304140030_Nexperia-BZX884-B2V4-315_C551192.pdf"
+			(at 106.68 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 106.68 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C551192"
+			(at 106.68 129.54 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c389744d-202d-4410-99af-6e5a3e962a67")
+		)
+		(pin "2"
+			(uuid "0cda7a11-fc1b-4a6d-a6b5-78ab0aed113f")
+		)
+		(instances
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "D19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Zener")
+		(at 106.68 111.76 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "144f0abd-f136-465f-8e45-2aaf3b9d8324")
+		(property "Reference" "D17"
+			(at 98.425 110.49 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2.4v zener"
+			(at 95.885 114.3 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "supercap:DIO_PESD5V0S1UL_315"
+			(at 106.68 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2304140030_Nexperia-BZX884-B2V4-315_C551192.pdf"
+			(at 106.68 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 106.68 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C551192"
+			(at 106.68 111.76 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "339afca5-3422-452b-8b43-38acba331ffd")
+		)
+		(pin "2"
+			(uuid "ec07884c-912f-4d55-bdf6-4494a37224ff")
+		)
+		(instances
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "D17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 111.76 137.16 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "14aa8a65-1102-4ac0-9c7b-a48f70b64f82")
+		(property "Reference" "C26"
+			(at 114.935 135.636 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "120F 2.3v"
+			(at 114.935 138.176 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm"
+			(at 112.7252 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.tecategroup.com/products/data_sheet.php?i=TPLH-2R7/120WR18X60"
+			(at 111.76 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 111.76 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "2085-TPLH-2R7/120WR18X60-ND"
+			(at 111.76 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ed8d41f7-51d0-4d40-b0f5-ae537877e696")
+		)
+		(pin "2"
+			(uuid "41d6ec9e-b06a-4e53-96b6-1fdbeb8e746d")
+		)
+		(instances
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "C26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 77.47 125.73 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "16ff1912-5b91-4b47-9dbe-d91af3eec94d")
+		(property "Reference" "C13"
+			(at 80.645 124.206 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "120F 2.3v"
+			(at 80.645 126.746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm"
+			(at 78.4352 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.tecategroup.com/products/data_sheet.php?i=TPLH-2R7/120WR18X60"
+			(at 77.47 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 77.47 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "2085-TPLH-2R7/120WR18X60-ND"
+			(at 77.47 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e75aa5dd-3e18-469b-baf8-33c8098906ee")
+		)
+		(pin "2"
+			(uuid "b82beef5-9757-4178-823a-c43de3661ffb")
+		)
+		(instances
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "C13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 163.83 64.77 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1a453b6d-a9fc-485d-b10a-cbcbba2d22fb")
+		(property "Reference" "J1"
+			(at 167.005 65.405 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x02"
+			(at 167.005 67.945 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_Anderson:PowerPole_PP45_1336G1_1x2_Horizontal"
+			(at 163.83 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 163.83 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 163.83 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "002eaf8e-8c00-46a3-bbd1-ee237cf8e28c")
+		)
+		(pin "2"
+			(uuid "4e599834-91b4-445a-bb5c-b2c4e0a2a42d")
+		)
+		(instances
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Zener")
+		(at 72.39 127 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1bb6c87c-187a-4abc-8ad9-a749be8923a8")
+		(property "Reference" "D10"
+			(at 64.135 125.73 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2.4v zener"
+			(at 61.595 129.54 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "supercap:DIO_PESD5V0S1UL_315"
+			(at 72.39 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2304140030_Nexperia-BZX884-B2V4-315_C551192.pdf"
+			(at 72.39 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 72.39 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C551192"
+			(at 72.39 127 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5362a5ec-1797-4078-9546-0ac3a73357f1")
+		)
+		(pin "2"
+			(uuid "5ed49cb5-01a1-498f-aeca-f7bc101d9967")
+		)
+		(instances
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "D10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 163.83 74.93 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1bf2a13f-0af7-4f26-80d9-982653987b65")
+		(property "Reference" "J4"
+			(at 167.005 75.565 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x02"
+			(at 167.005 78.105 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_Anderson:PowerPole_PP45_1336G1_1x2_Horizontal"
+			(at 163.83 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 163.83 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 163.83 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0d45f632-cb5c-4a54-b8f5-3c53c2a50048")
+		)
+		(pin "2"
+			(uuid "949d1fc0-fbce-4d30-8de5-89489aa1c915")
+		)
+		(instances
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "J4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Zener")
+		(at 72.39 99.06 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1c81f5cc-c205-4d6a-9fdd-7bc7b0a33a61")
+		(property "Reference" "D7"
+			(at 64.135 97.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2.4v zener"
+			(at 61.595 101.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "supercap:DIO_PESD5V0S1UL_315"
+			(at 72.39 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2304140030_Nexperia-BZX884-B2V4-315_C551192.pdf"
+			(at 72.39 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 72.39 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C551192"
+			(at 72.39 99.06 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e39b365e-fd0e-4473-9344-c8acb3e21803")
+		)
+		(pin "2"
+			(uuid "f6b36d4c-c2e6-4896-a107-cd6df3629dcc")
+		)
+		(instances
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "D7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "supercap_library:VCAP")
+		(at 77.47 48.26 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1dcccd41-4b2d-4886-a352-de32390aaa7e")
+		(property "Reference" "#PWR029"
+			(at 77.47 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCAP"
+			(at 77.47 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 77.47 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 77.47 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 77.47 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0d409cdb-560e-4006-a3c6-27eafc3bb00a")
+		)
+		(instances
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "#PWR029")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 232.41 150.495 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "27e92e82-d96c-41ba-813c-42cbf1d50b62")
+		(property "Reference" "H8"
+			(at 235.585 149.2249 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 235.585 151.7649 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "supercap:MountingHole_3.9mm_Plastite_#6"
+			(at 232.41 150.495 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 232.41 150.495 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 232.41 150.495 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "RP2040_motor"
+				(path "/10ff4ace-8dac-45ce-94a5-ae8ae7d42914/11bddbd5-e14e-4409-876e-6e46bce03704"
+					(reference "H8")
+					(unit 1)
+				)
+			)
+			(project "power_and_cpu"
+				(path "/8d16b105-3293-4d6d-a54b-7359568d7527"
+					(reference "H2")
+					(unit 1)
+				)
+			)
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "H1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Zener")
+		(at 106.68 92.71 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "37286d89-c052-4bdc-8cd5-5b7df3b9e63d")
+		(property "Reference" "D15"
+			(at 98.425 91.44 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2.4v zener"
+			(at 95.885 95.25 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "supercap:DIO_PESD5V0S1UL_315"
+			(at 106.68 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2304140030_Nexperia-BZX884-B2V4-315_C551192.pdf"
+			(at 106.68 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 106.68 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C551192"
+			(at 106.68 92.71 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8cfec6f0-9efb-45ef-8bfc-307573e22a99")
+		)
+		(pin "2"
+			(uuid "d6e26bb2-2bae-413c-b8a4-a1a42992f4c5")
+		)
+		(instances
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "D15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Zener")
+		(at 106.68 64.77 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "372aadd3-3ae0-4a38-95a8-57ee34bad100")
+		(property "Reference" "D12"
+			(at 98.425 63.5 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2.4v zener"
+			(at 95.885 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "supercap:DIO_PESD5V0S1UL_315"
+			(at 106.68 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2304140030_Nexperia-BZX884-B2V4-315_C551192.pdf"
+			(at 106.68 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 106.68 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C551192"
+			(at 106.68 64.77 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "eefbbd50-8e51-4234-ba74-f3f16b6b7157")
+		)
+		(pin "2"
+			(uuid "00f5ba15-89b2-48ea-9a2e-63f35ea74e02")
+		)
+		(instances
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "D12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Zener")
+		(at 72.39 53.34 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3d7d2235-559b-4c27-8f8f-9f9e7480a74b")
+		(property "Reference" "D2"
+			(at 64.135 52.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2.4v zener"
+			(at 61.595 55.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "supercap:DIO_PESD5V0S1UL_315"
+			(at 72.39 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2304140030_Nexperia-BZX884-B2V4-315_C551192.pdf"
+			(at 72.39 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 72.39 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C551192"
+			(at 72.39 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c227dace-b214-43d3-8412-f414bd0a83db")
+		)
+		(pin "2"
+			(uuid "7f865165-a83a-47d8-ba0f-ed873e645240")
+		)
+		(instances
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "D2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 77.47 99.06 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3d8a5fc1-f23e-4aad-8e5a-71522d730338")
+		(property "Reference" "C10"
+			(at 80.645 97.536 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "120F 2.3v"
+			(at 80.645 100.076 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm"
+			(at 78.4352 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.tecategroup.com/products/data_sheet.php?i=TPLH-2R7/120WR18X60"
+			(at 77.47 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 77.47 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "2085-TPLH-2R7/120WR18X60-ND"
+			(at 77.47 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "30094e64-b9ab-4a44-9281-b202701f8acc")
+		)
+		(pin "2"
+			(uuid "f31f474f-2281-403d-b601-6f76aed92a8a")
+		)
+		(instances
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "C10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "supercap_library:VCAP")
+		(at 157.48 54.61 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "40ea1eed-25da-45b0-90a4-e642e655e50e")
+		(property "Reference" "#PWR04"
+			(at 157.48 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCAP"
+			(at 157.48 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 157.48 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 157.48 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 157.48 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "06111f2a-fb05-4a01-bd14-e179d3b044ba")
+		)
+		(instances
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "#PWR04")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 111.76 153.67 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "44a77587-ebca-4bc3-a9f5-64738478ae86")
+		(property "Reference" "#PWR034"
+			(at 111.76 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 111.76 158.115 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 111.76 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 111.76 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 111.76 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2e11c8d6-c649-4bf5-adc8-89d18ba7c9e4")
+		)
+		(instances
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "#PWR034")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Zener")
+		(at 72.39 116.84 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4e38263d-651c-40e7-8e7b-b105c7e89756")
+		(property "Reference" "D9"
+			(at 64.135 115.57 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2.4v zener"
+			(at 61.595 119.38 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "supercap:DIO_PESD5V0S1UL_315"
+			(at 72.39 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2304140030_Nexperia-BZX884-B2V4-315_C551192.pdf"
+			(at 72.39 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 72.39 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C551192"
+			(at 72.39 116.84 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0bcf5ecc-4954-49b7-ad5f-a57fb4a5b24d")
+		)
+		(pin "2"
+			(uuid "d07e8869-b5cb-4eb1-a811-29d2763927cd")
+		)
+		(instances
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "D9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 255.905 158.75 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5acb06e0-df8b-4194-94f1-e0a877990df9")
+		(property "Reference" "H8"
+			(at 259.08 157.4799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 259.08 160.0199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "supercap:MountingHole_3.9mm_Plastite_#6"
+			(at 255.905 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 255.905 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 255.905 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "RP2040_motor"
+				(path "/10ff4ace-8dac-45ce-94a5-ae8ae7d42914/11bddbd5-e14e-4409-876e-6e46bce03704"
+					(reference "H8")
+					(unit 1)
+				)
+			)
+			(project "power_and_cpu"
+				(path "/8d16b105-3293-4d6d-a54b-7359568d7527"
+					(reference "H2")
+					(unit 1)
+				)
+			)
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "H4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Zener")
+		(at 106.68 55.88 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "61719754-c09e-40ca-8d5a-48dfd23fa13d")
+		(property "Reference" "D11"
+			(at 98.425 54.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2.4v zener"
+			(at 95.885 58.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "supercap:DIO_PESD5V0S1UL_315"
+			(at 106.68 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2304140030_Nexperia-BZX884-B2V4-315_C551192.pdf"
+			(at 106.68 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 106.68 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C551192"
+			(at 106.68 55.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8755c75d-c359-4d72-a48c-761da8681d0b")
+		)
+		(pin "2"
+			(uuid "24e89d6e-b0a1-41b5-b467-3ea55ece046f")
+		)
+		(instances
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "D11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Zener")
+		(at 72.39 88.9 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "644c0f7c-4d65-401c-a9b2-54b128b2b41c")
+		(property "Reference" "D6"
+			(at 64.135 87.63 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2.4v zener"
+			(at 61.595 91.44 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "supercap:DIO_PESD5V0S1UL_315"
+			(at 72.39 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2304140030_Nexperia-BZX884-B2V4-315_C551192.pdf"
+			(at 72.39 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 72.39 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C551192"
+			(at 72.39 88.9 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c328b8fe-6f9a-4117-b1d6-4d5df821f2aa")
+		)
+		(pin "2"
+			(uuid "5dfbd8fb-c02f-49c2-a1fd-afd0b9ede4c2")
+		)
+		(instances
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "D6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 111.76 54.61 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "693817f5-aefd-41c2-a4e0-b0a61368bedf")
+		(property "Reference" "C17"
+			(at 114.935 53.086 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "120F 2.3v"
+			(at 114.935 55.626 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm"
+			(at 112.7252 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.tecategroup.com/products/data_sheet.php?i=TPLH-2R7/120WR18X60"
+			(at 111.76 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 111.76 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "2085-TPLH-2R7/120WR18X60-ND"
+			(at 111.76 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d6d72cb0-d708-4ed2-a18e-6c00778000b2")
+		)
+		(pin "2"
+			(uuid "54d57b36-7876-4a47-97b2-9464758fc713")
+		)
+		(instances
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "C17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Zener")
+		(at 72.39 107.95 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "69ee2526-2a2e-43f5-8db2-da19e175f465")
+		(property "Reference" "D8"
+			(at 64.135 106.68 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2.4v zener"
+			(at 61.595 110.49 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "supercap:DIO_PESD5V0S1UL_315"
+			(at 72.39 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2304140030_Nexperia-BZX884-B2V4-315_C551192.pdf"
+			(at 72.39 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 72.39 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C551192"
+			(at 72.39 107.95 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "08f539cb-baa3-4f52-9c81-1df26ed42df0")
+		)
+		(pin "2"
+			(uuid "377a5df8-cb83-4f35-803a-3c87d03b80d8")
+		)
+		(instances
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "D8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 111.76 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6e03f7bb-d5ce-4966-9232-3d9940f54c31")
+		(property "Reference" "C19"
+			(at 114.935 72.136 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "120F 2.3v"
+			(at 114.935 74.676 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm"
+			(at 112.7252 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.tecategroup.com/products/data_sheet.php?i=TPLH-2R7/120WR18X60"
+			(at 111.76 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 111.76 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "2085-TPLH-2R7/120WR18X60-ND"
+			(at 111.76 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ca4886e1-8104-4dcc-ae09-f43db9a9c05f")
+		)
+		(pin "2"
+			(uuid "5b191d27-f72c-4c61-ad71-10a3152761c7")
+		)
+		(instances
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "C19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Zener")
+		(at 72.39 71.12 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "709ea2ce-f67d-4903-ad31-c945b7b0053d")
+		(property "Reference" "D4"
+			(at 64.135 69.85 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2.4v zener"
+			(at 61.595 73.66 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "supercap:DIO_PESD5V0S1UL_315"
+			(at 72.39 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2304140030_Nexperia-BZX884-B2V4-315_C551192.pdf"
+			(at 72.39 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 72.39 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C551192"
+			(at 72.39 71.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bddcd67c-0fa9-454f-be36-0a6663666188")
+		)
+		(pin "2"
+			(uuid "9beed674-00d8-46f3-9b1c-2d54fc13e4df")
+		)
+		(instances
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "D4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Zener")
+		(at 106.68 73.66 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "721a8ad2-172a-4f3d-9b79-a447eb054db4")
+		(property "Reference" "D13"
+			(at 98.425 72.39 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2.4v zener"
+			(at 95.885 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "supercap:DIO_PESD5V0S1UL_315"
+			(at 106.68 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2304140030_Nexperia-BZX884-B2V4-315_C551192.pdf"
+			(at 106.68 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 106.68 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C551192"
+			(at 106.68 73.66 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2c27e4d9-2ad3-489a-b103-3135c74a0e5f")
+		)
+		(pin "2"
+			(uuid "26869f89-7e84-4bd6-ade5-696231ad291f")
+		)
+		(instances
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "D13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "supercap_library:VCAP")
+		(at 157.48 85.09 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7407a7b8-d4c9-45b6-abfd-b41dcf444dce")
+		(property "Reference" "#PWR02"
+			(at 157.48 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCAP"
+			(at 157.48 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 157.48 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 157.48 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 157.48 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3f24a41b-102b-4f1f-b3c2-5e42fb460a1b")
+		)
+		(instances
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 111.76 146.05 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "76e26f05-0cff-4deb-8860-654cfced8240")
+		(property "Reference" "C27"
+			(at 114.935 144.526 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "120F 2.3v"
+			(at 114.935 147.066 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm"
+			(at 112.7252 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.tecategroup.com/products/data_sheet.php?i=TPLH-2R7/120WR18X60"
+			(at 111.76 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 111.76 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "2085-TPLH-2R7/120WR18X60-ND"
+			(at 111.76 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "dd6430e5-a9ad-4cc4-ae35-182b94fc7488")
+		)
+		(pin "2"
+			(uuid "21bac281-b195-4cc4-b837-e4da3435a8a8")
+		)
+		(instances
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "C27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 111.76 119.38 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8084357b-fa81-4d33-8751-a538cd41ebc4")
+		(property "Reference" "C24"
+			(at 114.935 117.856 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "120F 2.3v"
+			(at 114.935 120.396 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm"
+			(at 112.7252 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.tecategroup.com/products/data_sheet.php?i=TPLH-2R7/120WR18X60"
+			(at 111.76 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 111.76 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "2085-TPLH-2R7/120WR18X60-ND"
+			(at 111.76 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d78f4da0-7ed0-4f3b-b492-c87c0ea371ca")
+		)
+		(pin "2"
+			(uuid "c97353f7-0410-4533-8a93-96d1babc0995")
+		)
+		(instances
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "C24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 77.47 53.34 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "83a276ce-402f-4ef7-9e1d-e91ed835c39c")
+		(property "Reference" "C5"
+			(at 80.645 51.816 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "120F 2.3v"
+			(at 80.645 54.356 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm"
+			(at 78.4352 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.tecategroup.com/products/data_sheet.php?i=TPLH-2R7/120WR18X60"
+			(at 77.47 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 77.47 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "2085-TPLH-2R7/120WR18X60-ND"
+			(at 77.47 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d1078d17-1e8c-4147-a0e1-26370c1c998c")
+		)
+		(pin "2"
+			(uuid "3ea30d43-5f21-4989-9fc0-20d05ed55f3e")
+		)
+		(instances
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "C5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Zener")
+		(at 72.39 80.01 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "840b4789-94b6-4447-aaea-c4681f051355")
+		(property "Reference" "D5"
+			(at 64.135 78.74 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2.4v zener"
+			(at 61.595 82.55 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "supercap:DIO_PESD5V0S1UL_315"
+			(at 72.39 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2304140030_Nexperia-BZX884-B2V4-315_C551192.pdf"
+			(at 72.39 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 72.39 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C551192"
+			(at 72.39 80.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "06df4a43-f2ad-4c81-af80-1b7143925e92")
+		)
+		(pin "2"
+			(uuid "b44545e5-b226-4300-89a9-b9a8bc286505")
+		)
+		(instances
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "D5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Zener")
+		(at 106.68 147.32 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "86a036db-d742-4258-ab97-1031d557d1b1")
+		(property "Reference" "D21"
+			(at 98.425 146.05 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2.4v zener"
+			(at 95.885 149.86 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "supercap:DIO_PESD5V0S1UL_315"
+			(at 106.68 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2304140030_Nexperia-BZX884-B2V4-315_C551192.pdf"
+			(at 106.68 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 106.68 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C551192"
+			(at 106.68 147.32 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3f72b876-28d2-419f-a919-27fa8bc26df2")
+		)
+		(pin "2"
+			(uuid "5573fbec-1a36-4f58-99c1-74ddaa4a0a32")
+		)
+		(instances
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "D21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Zener")
+		(at 72.39 62.23 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "884321fd-89f7-4c37-a935-54b583a11596")
+		(property "Reference" "D3"
+			(at 64.135 60.96 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2.4v zener"
+			(at 61.595 64.77 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "supercap:DIO_PESD5V0S1UL_315"
+			(at 72.39 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2304140030_Nexperia-BZX884-B2V4-315_C551192.pdf"
+			(at 72.39 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 72.39 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C551192"
+			(at 72.39 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0eedf7cc-e22d-4570-9d76-17827425d2ac")
+		)
+		(pin "2"
+			(uuid "988e8c72-0f71-49cc-8517-49d4123e72f9")
+		)
+		(instances
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "D3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Zener")
+		(at 106.68 138.43 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8a9e67bd-bde5-4bee-994a-1fe642b41b71")
+		(property "Reference" "D20"
+			(at 98.425 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2.4v zener"
+			(at 95.885 140.97 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "supercap:DIO_PESD5V0S1UL_315"
+			(at 106.68 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2304140030_Nexperia-BZX884-B2V4-315_C551192.pdf"
+			(at 106.68 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 106.68 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C551192"
+			(at 106.68 138.43 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "817bd22a-5b0b-4708-a5a1-e9526d4d1030")
+		)
+		(pin "2"
+			(uuid "8d4d0c14-92c5-40f4-a56b-774406138f44")
+		)
+		(instances
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "D20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 163.83 54.61 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9569d956-cd39-4b81-8576-8fe94640eb99")
+		(property "Reference" "J2"
+			(at 167.005 55.245 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x02"
+			(at 167.005 57.785 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_Anderson:PowerPole_PP45_1336G1_1x2_Horizontal"
+			(at 163.83 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 163.83 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 163.83 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fb31bfb4-05e6-4470-ba3c-445b4fe1bd95")
+		)
+		(pin "2"
+			(uuid "f4a39b5f-3311-4964-bcf6-528c2163ba22")
+		)
+		(instances
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Zener")
+		(at 106.68 120.65 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "95f50eaf-828f-426e-bd8a-552197ce0f80")
+		(property "Reference" "D18"
+			(at 98.425 119.38 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2.4v zener"
+			(at 95.885 123.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "supercap:DIO_PESD5V0S1UL_315"
+			(at 106.68 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2304140030_Nexperia-BZX884-B2V4-315_C551192.pdf"
+			(at 106.68 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 106.68 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C551192"
+			(at 106.68 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "363ba8db-5ff8-4812-945a-38c5062134fd")
+		)
+		(pin "2"
+			(uuid "1bb68287-5112-4a94-977e-bcfa68472ee3")
+		)
+		(instances
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "D18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 255.905 149.86 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "abbfb376-ecfe-4e63-9ed9-dcc5ee720a1e")
+		(property "Reference" "H8"
+			(at 259.08 148.5899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 259.08 151.1299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "supercap:MountingHole_3.9mm_Plastite_#6"
+			(at 255.905 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 255.905 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 255.905 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "RP2040_motor"
+				(path "/10ff4ace-8dac-45ce-94a5-ae8ae7d42914/11bddbd5-e14e-4409-876e-6e46bce03704"
+					(reference "H8")
+					(unit 1)
+				)
+			)
+			(project "power_and_cpu"
+				(path "/8d16b105-3293-4d6d-a54b-7359568d7527"
+					(reference "H2")
+					(unit 1)
+				)
+			)
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "H3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 111.76 100.33 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b1f5c86d-587c-407c-94a9-441138e698b0")
+		(property "Reference" "C22"
+			(at 114.935 98.806 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "120F 2.3v"
+			(at 114.935 101.346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm"
+			(at 112.7252 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.tecategroup.com/products/data_sheet.php?i=TPLH-2R7/120WR18X60"
+			(at 111.76 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 111.76 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "2085-TPLH-2R7/120WR18X60-ND"
+			(at 111.76 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1e75f42f-2a55-4256-8289-b6c588cfa612")
+		)
+		(pin "2"
+			(uuid "fc46f245-fa7d-4963-adc6-3f81d33e36ff")
+		)
+		(instances
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "C22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 163.83 85.09 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b8b3e6e1-00ee-4b48-a338-cc462a9ac407")
+		(property "Reference" "J5"
+			(at 167.005 85.725 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x02"
+			(at 166.37 83.185 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_Anderson:PowerPole_PP45_1336G1_1x2_Horizontal"
+			(at 163.83 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 163.83 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 163.83 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b2aae03f-e063-4850-8d59-654b7b2fa629")
+		)
+		(pin "2"
+			(uuid "ac02bb8a-3607-4751-ba96-23d3c3cd9167")
+		)
+		(instances
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "J5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Zener")
+		(at 106.68 82.55 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c6ca4161-246a-43b7-8f04-9a5bcc64026b")
+		(property "Reference" "D14"
+			(at 98.425 81.28 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2.4v zener"
+			(at 95.885 85.09 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "supercap:DIO_PESD5V0S1UL_315"
+			(at 106.68 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2304140030_Nexperia-BZX884-B2V4-315_C551192.pdf"
+			(at 106.68 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 106.68 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C551192"
+			(at 106.68 82.55 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9e762145-1317-4331-8007-31d0390b06b6")
+		)
+		(pin "2"
+			(uuid "f19b4042-792d-4cda-a136-112d5b749769")
+		)
+		(instances
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "D14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 77.47 107.95 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c81ca0dd-724b-45ec-909a-6d670cb70d5f")
+		(property "Reference" "C11"
+			(at 80.645 106.426 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "120F 2.3v"
+			(at 80.645 108.966 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm"
+			(at 78.4352 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.tecategroup.com/products/data_sheet.php?i=TPLH-2R7/120WR18X60"
+			(at 77.47 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 77.47 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "2085-TPLH-2R7/120WR18X60-ND"
+			(at 77.47 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "08bd8f6e-9638-4a23-bede-dedbad967b51")
+		)
+		(pin "2"
+			(uuid "c3701436-a23b-4c31-b44a-a49084429287")
+		)
+		(instances
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "C11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 111.76 82.55 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c83c28e7-5a0d-46c5-8e1d-e7df7c65b661")
+		(property "Reference" "C20"
+			(at 114.935 81.026 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "120F 2.3v"
+			(at 114.935 83.566 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm"
+			(at 112.7252 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.tecategroup.com/products/data_sheet.php?i=TPLH-2R7/120WR18X60"
+			(at 111.76 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 111.76 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "2085-TPLH-2R7/120WR18X60-ND"
+			(at 111.76 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4e33e334-7018-467a-affd-f54ed1692188")
+		)
+		(pin "2"
+			(uuid "fb5202be-f5f5-4f97-b2ca-8d5236443c09")
+		)
+		(instances
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "C20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 77.47 62.23 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c9c37e67-7aea-4c25-96ed-edde152dc314")
+		(property "Reference" "C6"
+			(at 80.645 60.706 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "120F 2.3v"
+			(at 80.645 63.246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm"
+			(at 78.4352 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.tecategroup.com/products/data_sheet.php?i=TPLH-2R7/120WR18X60"
+			(at 77.47 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 77.47 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "2085-TPLH-2R7/120WR18X60-ND"
+			(at 77.47 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4e205357-c8b3-49ba-aa9e-343740d7953b")
+		)
+		(pin "2"
+			(uuid "32800d74-c0fc-48a4-863b-771955397c96")
+		)
+		(instances
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "C6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 111.76 91.44 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d230de89-497c-499c-bc28-e565aeb35a40")
+		(property "Reference" "C21"
+			(at 114.935 89.916 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "120F 2.3v"
+			(at 114.935 92.456 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm"
+			(at 112.7252 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.tecategroup.com/products/data_sheet.php?i=TPLH-2R7/120WR18X60"
+			(at 111.76 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 111.76 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "2085-TPLH-2R7/120WR18X60-ND"
+			(at 111.76 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1b0a0549-9e98-423c-9475-f222f55658aa")
+		)
+		(pin "2"
+			(uuid "b0410910-85d6-43b2-b2e0-b906c66f9977")
+		)
+		(instances
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "C21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 77.47 80.01 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d26e91eb-19db-46df-bf18-5043f48e0a14")
+		(property "Reference" "C8"
+			(at 80.645 78.486 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "120F 2.3v"
+			(at 80.645 81.026 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm"
+			(at 78.4352 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.tecategroup.com/products/data_sheet.php?i=TPLH-2R7/120WR18X60"
+			(at 77.47 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 77.47 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "2085-TPLH-2R7/120WR18X60-ND"
+			(at 77.47 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fd984e6e-a7fe-4342-bfe3-8135c1790117")
+		)
+		(pin "2"
+			(uuid "fc42fe8b-0e61-4c08-8c83-0e6881963b34")
+		)
+		(instances
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "C8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 111.76 110.49 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d69e5ebb-d67c-432b-8d55-c94d3864027b")
+		(property "Reference" "C23"
+			(at 114.935 108.966 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "120F 2.3v"
+			(at 114.935 111.506 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm"
+			(at 112.7252 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.tecategroup.com/products/data_sheet.php?i=TPLH-2R7/120WR18X60"
+			(at 111.76 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 111.76 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "2085-TPLH-2R7/120WR18X60-ND"
+			(at 111.76 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f7f680fd-1f91-46fc-a214-fcc43c345181")
+		)
+		(pin "2"
+			(uuid "e5759aef-9338-4d37-ab82-526342475eba")
+		)
+		(instances
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "C23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Zener")
+		(at 106.68 101.6 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "dd813f70-a168-4ae7-9f17-36c901fae517")
+		(property "Reference" "D16"
+			(at 98.425 100.33 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2.4v zener"
+			(at 95.885 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "supercap:DIO_PESD5V0S1UL_315"
+			(at 106.68 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2304140030_Nexperia-BZX884-B2V4-315_C551192.pdf"
+			(at 106.68 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 106.68 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C551192"
+			(at 106.68 101.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6b1bffb6-f4d1-4783-912e-76e02870c63f")
+		)
+		(pin "2"
+			(uuid "c07d6669-2392-4f02-bb8a-c801b6d99ce7")
+		)
+		(instances
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "D16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 77.47 71.12 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e2ee010a-6e63-46a0-bb99-85ef42673dbe")
+		(property "Reference" "C7"
+			(at 80.645 69.596 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "120F 2.3v"
+			(at 80.645 72.136 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm"
+			(at 78.4352 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.tecategroup.com/products/data_sheet.php?i=TPLH-2R7/120WR18X60"
+			(at 77.47 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 77.47 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "2085-TPLH-2R7/120WR18X60-ND"
+			(at 77.47 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f0894eba-b82a-4b60-af9d-0a692a32e8a7")
+		)
+		(pin "2"
+			(uuid "a9930289-339b-4091-a850-c4983c489336")
+		)
+		(instances
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "C7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 111.76 64.77 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e634c09e-19f2-466f-a4aa-878241051aa7")
+		(property "Reference" "C18"
+			(at 114.935 63.246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "120F 2.3v"
+			(at 114.935 65.786 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm"
+			(at 112.7252 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.tecategroup.com/products/data_sheet.php?i=TPLH-2R7/120WR18X60"
+			(at 111.76 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 111.76 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "2085-TPLH-2R7/120WR18X60-ND"
+			(at 111.76 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "18890894-d14c-44c0-aeef-5aff5c08deda")
+		)
+		(pin "2"
+			(uuid "8c833d44-7ff0-4a6a-814d-9ac8112f70ea")
+		)
+		(instances
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "C18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "supercap_library:VCAP")
+		(at 157.48 74.93 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f0319f3c-9089-4aef-8a0a-19c9ca01c6f0")
+		(property "Reference" "#PWR03"
+			(at 157.48 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCAP"
+			(at 157.48 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 157.48 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 157.48 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 157.48 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8c73426f-a2e3-490e-b9bf-88077e695e4f")
+		)
+		(instances
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "#PWR03")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 232.41 159.385 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f81aa920-9739-4038-bd8c-f26977cb7236")
+		(property "Reference" "H8"
+			(at 235.585 158.1149 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 235.585 160.6549 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "supercap:MountingHole_3.9mm_Plastite_#6"
+			(at 232.41 159.385 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 232.41 159.385 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 232.41 159.385 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "RP2040_motor"
+				(path "/10ff4ace-8dac-45ce-94a5-ae8ae7d42914/11bddbd5-e14e-4409-876e-6e46bce03704"
+					(reference "H8")
+					(unit 1)
+				)
+			)
+			(project "power_and_cpu"
+				(path "/8d16b105-3293-4d6d-a54b-7359568d7527"
+					(reference "H2")
+					(unit 1)
+				)
+			)
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "H2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 77.47 88.9 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fd93012c-e93b-420a-a324-e62b2ecf948c")
+		(property "Reference" "C9"
+			(at 80.645 87.376 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "120F 2.3v"
+			(at 80.645 89.916 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm"
+			(at 78.4352 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.tecategroup.com/products/data_sheet.php?i=TPLH-2R7/120WR18X60"
+			(at 77.47 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 77.47 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "2085-TPLH-2R7/120WR18X60-ND"
+			(at 77.47 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1b72586f-3380-490c-991b-97e02cfeb8bb")
+		)
+		(pin "2"
+			(uuid "ac79c9cd-804e-4423-b0e0-a5910cebea88")
+		)
+		(instances
+			(project "supercap"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "C9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

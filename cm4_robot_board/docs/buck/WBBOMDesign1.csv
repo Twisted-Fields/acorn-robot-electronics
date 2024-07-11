@@ -1,0 +1,23 @@
+﻿Part,Manufacturer,Part Number,Quantity,Price ($),Footprint (mm²),Description
+Cout,MuRata,GRM32ER61C476KE15L,2,0.17,14.7,Cap: 47 µF  Total Derated Cap: 63 µF  VDC: 16 V  ESR: 3.04 mΩ  Package: 1210  
+Ccomp2,Johanson Technology,250R07N151JV4T,1,0.01,3,Cap: 150 pF  Total Derated Cap: 150 pF  VDC: 25 V  ESR: 0 Ω  Package: 0402  
+Rcomp,Vishay-Dale,CRCW040230K9FKED,1,0.01,3,Resistance: 30.9 kΩ  Tolerance: 1.0%  Power: 63 mW  
+Rt,Vishay-Dale,CRCW040247K5FKED,1,0.01,3,Resistance: 47.5 kΩ  Tolerance: 1.0%  Power: 63 mW  
+U1,Texas Instruments,LM5116MH/NOPB,1,2.812,71.4,
+Cramp,Samsung Electro-Mechanics,CL10C152JB8NNNC,1,0.02,4.68,Cap: 1.5 nF  Total Derated Cap: 1.5 nF  VDC: 50 V  ESR: 0 Ω  Package: 0603  
+Ruv1,Vishay-Dale,CRCW080532K4FKEA,1,0.01,6.75,Resistance: 32.4 kΩ  Tolerance: 1.0%  Power: 125 mW  
+L1,Vishay-Dale,IHLP6767GZER560M11,1,2.32,366.72,L: 56 µH  DCR: 57.8 mΩ  IDC: 4.2 A  
+Ccomp,TDK,C1608C0G1H472J080AA,1,0.04,4.68,Cap: 4.7 nF  Total Derated Cap: 4.7 nF  VDC: 50 V  ESR: 0 Ω  Package: 0603  
+Renable,Vishay-Dale,CRCW04021M00FKED,1,0.01,3,Resistance: 1 MΩ  Tolerance: 1.0%  Power: 63 mW  
+Cvcc,Taiyo Yuden,TMK212BJ105KG-T,1,0.03,6.75,Cap: 1 µF  Total Derated Cap: 1 µF  VDC: 25 V  ESR: 1 mΩ  Package: 0805  
+M1,Infineon Technologies,BSC320N20NS3 G,1,1.78,55.13,VdsMax: 200 V  IdsMax: 36 Amps  
+Ruv2,Vishay-Dale,CRCW0805110KFKEA,1,0.01,6.75,Resistance: 110 kΩ  Tolerance: 1.0%  Power: 125 mW  
+D1,Nexperia,BAS516 115,1,0.22,5.13,Type: Switching  VRRM: 100 V  Io: 250 mA  
+Cboot,AVX,08053C104KAT2A,1,0.01,6.75,Cap: 100 nF  Total Derated Cap: 100 nF  VDC: 25 V  ESR: 280 mΩ  Package: 0805  
+Css,TDK,CGA4J2C0G1H333J125AA,1,0.08,6.75,Cap: 33 nF  Total Derated Cap: 33 nF  VDC: 50 V  ESR: 0 Ω  Package: 0805  
+Cinx,TDK,C2012X7T2E104K125AA,1,0.09,6.75,Cap: 100 nF  Total Derated Cap: 100 nF  VDC: 250 V  ESR: 1 mΩ  Package: 0805  
+Rfbb,Yageo,RT0805BRD0710K4L,1,0.054,6.75,Resistance: 10.4 kΩ  Tolerance: 0.1%  Power: 125 mW  
+Rfbt,Panasonic,ERJ-6ENF3242V,1,0.01,6.75,Resistance: 32.4 kΩ  Tolerance: 1.0%  Power: 125 mW  
+Cin,CUSTOM,CUSTOM,1,NA,NA,Cap: 2.2 µF  Total Derated Cap: 2.2 µF  VDC: 125 V  ESR: 1 µΩ  Package: null  
+Rsense,Stackpole Electronics Inc,CSR1206FK20L0,1,0.1,10.92,Resistance: 20 mΩ  Tolerance: 1.0%  Power: 500 mW  
+M2,Infineon Technologies,IPW60R199CPFKSA1,2,4.42,123.2,VdsMax: 600 V  IdsMax: 32 Amps  

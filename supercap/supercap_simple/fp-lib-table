@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Connector_Anderson")(type "KiCad")(uri "${KIPRJMOD}/parts/Connector_Anderson.pretty")(options "")(descr ""))
+  (lib (name "supercap")(type "KiCad")(uri "${KIPRJMOD}/parts/supercap.pretty")(options "")(descr ""))
+  (lib (name "RP2040_minimal")(type "KiCad")(uri "${KIPRJMOD}/parts/RP2040_minimal.pretty")(options "")(descr ""))
+)
