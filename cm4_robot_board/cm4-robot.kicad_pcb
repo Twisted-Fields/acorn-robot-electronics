@@ -7227,7 +7227,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 297 "unconnected-(U21-~{DTR}-Pad1)")
 			(pinfunction "~{DTR}")
-			(pintype "output")
+			(pintype "output+no_connect")
 			(uuid "2681867d-17ca-4d5d-97d7-e1856385aa81")
 		)
 		(pad "2" smd rect
@@ -7236,7 +7236,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 298 "unconnected-(U21-~{RTS}-Pad2)")
 			(pinfunction "~{RTS}")
-			(pintype "output")
+			(pintype "output+no_connect")
 			(uuid "d922a2c7-4204-455e-ab67-6357732e421b")
 		)
 		(pad "3" smd rect
@@ -7263,7 +7263,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 299 "unconnected-(U21-~{RI}-Pad5)")
 			(pinfunction "~{RI}")
-			(pintype "input")
+			(pintype "input+no_connect")
 			(uuid "e810fca1-83c7-45fc-a253-96990866bd37")
 		)
 		(pad "6" smd rect
@@ -7281,7 +7281,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 300 "unconnected-(U21-~{DSR}-Pad7)")
 			(pinfunction "~{DSR}")
-			(pintype "input")
+			(pintype "input+no_connect")
 			(uuid "1343c64c-58fd-4c2f-82a0-45a2ce936f68")
 		)
 		(pad "8" smd rect
@@ -7290,7 +7290,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 301 "unconnected-(U21-~{DCD}-Pad8)")
 			(pinfunction "~{DCD}")
-			(pintype "input")
+			(pintype "input+no_connect")
 			(uuid "89d94dd5-8917-4bd6-aee9-78859eefe333")
 		)
 		(pad "9" smd rect
@@ -7299,7 +7299,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 302 "unconnected-(U21-~{CTS}-Pad9)")
 			(pinfunction "~{CTS}")
-			(pintype "input")
+			(pintype "input+no_connect")
 			(uuid "107dc116-b0c6-4f2b-bb43-52c19f96f549")
 		)
 		(pad "10" smd rect
@@ -7308,7 +7308,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 303 "unconnected-(U21-CBUS2-Pad10)")
 			(pinfunction "CBUS2")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "e9066aa5-803c-4ffd-a39b-0036c446ec41")
 		)
 		(pad "11" smd rect
@@ -7335,7 +7335,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 304 "unconnected-(U21-3V3OUT-Pad13)")
 			(pinfunction "3V3OUT")
-			(pintype "power_out")
+			(pintype "power_out+no_connect")
 			(uuid "19a34747-bd4a-4290-a850-06d43336ca72")
 		)
 		(pad "14" smd rect
@@ -7371,7 +7371,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 305 "unconnected-(U21-CBUS1-Pad17)")
 			(pinfunction "CBUS1")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "7454ff0b-c668-4ce3-a8bc-70b20ffe1e03")
 		)
 		(pad "18" smd rect
@@ -7380,7 +7380,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 306 "unconnected-(U21-CBUS0-Pad18)")
 			(pinfunction "CBUS0")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "d1213782-9d56-4552-9ff5-f7d7a8c58637")
 		)
 		(pad "19" smd rect
@@ -7389,7 +7389,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 307 "unconnected-(U21-CBUS3-Pad19)")
 			(pinfunction "CBUS3")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "4d6bb9fa-ed82-45f7-a7c6-0768de174d9e")
 		)
 		(pad "20" smd rect
@@ -8871,7 +8871,7 @@
 			(remove_unused_layers no)
 			(net 360 "unconnected-(J9-Pin_2-Pad2)")
 			(pinfunction "Pin_2")
-			(pintype "passive")
+			(pintype "passive+no_connect")
 			(uuid "9017bdbb-196e-4a8f-b044-1fc5d96b3258")
 		)
 		(pad "3" thru_hole oval
@@ -12227,7 +12227,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 349 "unconnected-(U33-ALERT{slash}RDY-Pad2)")
 			(pinfunction "ALERT/RDY")
-			(pintype "output")
+			(pintype "output+no_connect")
 			(uuid "82703cdc-08b8-401c-a441-540ec7345751")
 		)
 		(pad "3" smd rect
@@ -19759,7 +19759,7 @@
 			(remove_unused_layers no)
 			(net 293 "unconnected-(SW4-C-Pad3)")
 			(pinfunction "C")
-			(pintype "passive")
+			(pintype "passive+no_connect")
 			(uuid "b4358435-114b-4b07-bedb-48fc53467642")
 		)
 		(model "${KIPRJMOD}/parts/MS12ANW03.stp"
@@ -28022,7 +28022,7 @@
 			(roundrect_rratio 0.25)
 			(net 192 "unconnected-(U8-CLKOUT{slash}SOF-Pad3)")
 			(pinfunction "CLKOUT/SOF")
-			(pintype "output")
+			(pintype "output+no_connect")
 			(uuid "0d14ca60-bb5f-43c8-9afc-95b5729803b8")
 		)
 		(pad "4" smd roundrect
@@ -28032,7 +28032,7 @@
 			(roundrect_rratio 0.25)
 			(net 193 "unconnected-(U8-~{TX0RTS}-Pad4)")
 			(pinfunction "~{TX0RTS}")
-			(pintype "input")
+			(pintype "input+no_connect")
 			(uuid "2fb78ed1-5b9f-4ffe-8074-71a3ca10e187")
 		)
 		(pad "5" smd roundrect
@@ -28042,7 +28042,7 @@
 			(roundrect_rratio 0.25)
 			(net 194 "unconnected-(U8-~{TX1RTS}-Pad5)")
 			(pinfunction "~{TX1RTS}")
-			(pintype "input")
+			(pintype "input+no_connect")
 			(uuid "4f094767-90ae-4ebc-906f-44480f387ba8")
 		)
 		(pad "6" smd roundrect
@@ -28052,7 +28052,7 @@
 			(roundrect_rratio 0.25)
 			(net 195 "unconnected-(U8-~{TX2RTS}-Pad6)")
 			(pinfunction "~{TX2RTS}")
-			(pintype "input")
+			(pintype "input+no_connect")
 			(uuid "5567f0b8-bfe7-40e1-922c-163ef38d1e9f")
 		)
 		(pad "7" smd roundrect
@@ -28092,7 +28092,7 @@
 			(roundrect_rratio 0.25)
 			(net 196 "unconnected-(U8-~{RX1BF}-Pad10)")
 			(pinfunction "~{RX1BF}")
-			(pintype "output")
+			(pintype "output+no_connect")
 			(uuid "da3d4e63-10a3-4013-96a5-a7ff3132a0e1")
 		)
 		(pad "11" smd roundrect
@@ -28102,7 +28102,7 @@
 			(roundrect_rratio 0.25)
 			(net 197 "unconnected-(U8-~{RX0BF}-Pad11)")
 			(pinfunction "~{RX0BF}")
-			(pintype "output")
+			(pintype "output+no_connect")
 			(uuid "d64ca960-2717-4243-b65f-289c3e209911")
 		)
 		(pad "12" smd roundrect
@@ -33937,7 +33937,7 @@
 			(remove_unused_layers no)
 			(net 189 "unconnected-(SW3-C-Pad3)")
 			(pinfunction "C")
-			(pintype "passive")
+			(pintype "passive+no_connect")
 			(uuid "4a7a90e3-29f0-4274-a4a7-65731c6a2216")
 		)
 		(model "${KIPRJMOD}/parts/MS12ANW03.stp"
@@ -41726,7 +41726,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 343 "unconnected-(U32-INT-Pad7)")
 			(pinfunction "INT")
-			(pintype "output")
+			(pintype "output+no_connect")
 			(uuid "98c0c8ea-8d9e-41e0-89cf-a36b5d4fe6bd")
 		)
 		(pad "8" smd rect
@@ -41735,7 +41735,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 344 "unconnected-(U32-DRDY-Pad8)")
 			(pinfunction "DRDY")
-			(pintype "output")
+			(pintype "output+no_connect")
 			(uuid "379b8693-ca63-457f-b226-2823f30c02a4")
 		)
 		(pad "9" smd rect
@@ -43570,7 +43570,7 @@
 			(remove_unused_layers no)
 			(net 296 "unconnected-(SW5-C-Pad3)")
 			(pinfunction "C")
-			(pintype "passive")
+			(pintype "passive+no_connect")
 			(uuid "41d604f8-beba-4f99-bdb1-849d96f53268")
 		)
 		(model "${KIPRJMOD}/parts/MS12ANW03.stp"
@@ -49167,7 +49167,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "0.1u"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(uuid "0c8fbd2d-916e-4d60-a277-567e3a2d9bb2")
@@ -49214,7 +49214,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C14663"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -51065,7 +51065,7 @@
 			(remove_unused_layers no)
 			(net 188 "unconnected-(SW2-C-Pad3)")
 			(pinfunction "C")
-			(pintype "passive")
+			(pintype "passive+no_connect")
 			(uuid "dcbb4b08-5b6e-4c5f-bb70-b14b007ce8ec")
 		)
 		(model "${KIPRJMOD}/parts/MS12ANW03.stp"
@@ -54420,7 +54420,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 64 "unconnected-(J3-SBU1-PadA8)")
 			(pinfunction "SBU1")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "9a899272-c4e3-4dc0-bf87-f2c9a739853b")
 		)
 		(pad "A9" smd rect
@@ -54492,7 +54492,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 66 "unconnected-(J3-SBU2-PadB8)")
 			(pinfunction "SBU2")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "f30a2ccb-c7a7-4214-803b-e80507f149b1")
 		)
 		(pad "B9" smd rect
@@ -56172,6 +56172,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C7466458"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f8dc1dc3-015d-41db-b305-56c039ee2d26")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -58934,7 +58947,7 @@
 			(roundrect_rratio 0.25)
 			(net 200 "unconnected-(U9-CLKOUT{slash}SOF-Pad3)")
 			(pinfunction "CLKOUT/SOF")
-			(pintype "output")
+			(pintype "output+no_connect")
 			(uuid "44734be8-56e6-46e7-a237-7725f322917b")
 		)
 		(pad "4" smd roundrect
@@ -58944,7 +58957,7 @@
 			(roundrect_rratio 0.25)
 			(net 211 "unconnected-(U9-~{TX0RTS}-Pad4)")
 			(pinfunction "~{TX0RTS}")
-			(pintype "input")
+			(pintype "input+no_connect")
 			(uuid "fb19bcb0-daaf-4d0a-a635-7c3116e66404")
 		)
 		(pad "5" smd roundrect
@@ -58954,7 +58967,7 @@
 			(roundrect_rratio 0.25)
 			(net 212 "unconnected-(U9-~{TX1RTS}-Pad5)")
 			(pinfunction "~{TX1RTS}")
-			(pintype "input")
+			(pintype "input+no_connect")
 			(uuid "43e31a90-f478-45f7-aebc-45c9280fb1a4")
 		)
 		(pad "6" smd roundrect
@@ -58964,7 +58977,7 @@
 			(roundrect_rratio 0.25)
 			(net 213 "unconnected-(U9-~{TX2RTS}-Pad6)")
 			(pinfunction "~{TX2RTS}")
-			(pintype "input")
+			(pintype "input+no_connect")
 			(uuid "eebeb8a1-a857-490d-811d-f5159954c529")
 		)
 		(pad "7" smd roundrect
@@ -59004,7 +59017,7 @@
 			(roundrect_rratio 0.25)
 			(net 214 "unconnected-(U9-~{RX1BF}-Pad10)")
 			(pinfunction "~{RX1BF}")
-			(pintype "output")
+			(pintype "output+no_connect")
 			(uuid "41bfc46d-bc83-48eb-b962-aeaed38bd622")
 		)
 		(pad "11" smd roundrect
@@ -59014,7 +59027,7 @@
 			(roundrect_rratio 0.25)
 			(net 215 "unconnected-(U9-~{RX0BF}-Pad11)")
 			(pinfunction "~{RX0BF}")
-			(pintype "output")
+			(pintype "output+no_connect")
 			(uuid "309985e6-11a7-4af0-ba3f-b67d625dea1b")
 		)
 		(pad "12" smd roundrect
@@ -61725,6 +61738,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "429e48a1-7a73-419b-929b-8c72b48d4de8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C3016651"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9398bb0f-bffe-4cd5-85c5-8354b94dd5d7")
 			(effects
 				(font
 					(size 1 1)
@@ -71294,7 +71320,7 @@
 			(roundrect_rratio 0.25)
 			(net 341 "unconnected-(U31-INT1-Pad4)")
 			(pinfunction "INT1")
-			(pintype "output")
+			(pintype "output+no_connect")
 			(uuid "5b8b5286-1ef7-4efa-a6b6-7de56de6050b")
 		)
 		(pad "5" smd roundrect
@@ -71344,7 +71370,7 @@
 			(roundrect_rratio 0.25)
 			(net 342 "unconnected-(U31-INT2-Pad9)")
 			(pinfunction "INT2")
-			(pintype "output")
+			(pintype "output+no_connect")
 			(uuid "b08ba89d-e822-43c3-9f17-ed81d4a6ff5c")
 		)
 		(pad "10" smd roundrect
@@ -75809,7 +75835,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 80 "unconnected-(Module1A-Ethernet_SYNC_IN(1.8v)-Pad16)")
 			(pinfunction "Ethernet_SYNC_IN(1.8v)")
-			(pintype "input")
+			(pintype "input+no_connect")
 			(uuid "8592651e-9d0f-4056-9ba2-e6a82c5d27c9")
 		)
 		(pad "17" smd rect
@@ -75827,7 +75853,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 81 "unconnected-(Module1A-Ethernet_SYNC_OUT(1.8v)-Pad18)")
 			(pinfunction "Ethernet_SYNC_OUT(1.8v)")
-			(pintype "input")
+			(pintype "input+no_connect")
 			(uuid "9c090f79-3189-4162-bf8b-cddbab08b6a2")
 		)
 		(pad "19" smd rect
@@ -76178,7 +76204,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 83 "unconnected-(Module1A-SD_CLK-Pad57)")
 			(pinfunction "SD_CLK")
-			(pintype "passive")
+			(pintype "passive+no_connect")
 			(uuid "4a13e2e9-db5c-4355-af35-18a2501e51a7")
 		)
 		(pad "58" smd rect
@@ -76214,7 +76240,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 84 "unconnected-(Module1A-SD_DAT3-Pad61)")
 			(pinfunction "SD_DAT3")
-			(pintype "passive")
+			(pintype "passive+no_connect")
 			(uuid "6d09a78d-45fc-4800-8cc4-12b7d3709d74")
 		)
 		(pad "62" smd rect
@@ -76223,7 +76249,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 85 "unconnected-(Module1A-SD_CMD-Pad62)")
 			(pinfunction "SD_CMD")
-			(pintype "passive")
+			(pintype "passive+no_connect")
 			(uuid "e59a5bce-b565-4f86-9486-6787178f11cb")
 		)
 		(pad "63" smd rect
@@ -76232,7 +76258,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 86 "unconnected-(Module1A-SD_DAT0-Pad63)")
 			(pinfunction "SD_DAT0")
-			(pintype "passive")
+			(pintype "passive+no_connect")
 			(uuid "a89c7258-d213-483a-9ce6-5a7a7117c971")
 		)
 		(pad "64" smd rect
@@ -76241,7 +76267,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 87 "unconnected-(Module1A-SD_DAT5-Pad64)")
 			(pinfunction "SD_DAT5")
-			(pintype "passive")
+			(pintype "passive+no_connect")
 			(uuid "c716e7cf-5535-475c-a880-b681fdf42c6c")
 		)
 		(pad "65" smd rect
@@ -76268,7 +76294,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 88 "unconnected-(Module1A-SD_DAT1-Pad67)")
 			(pinfunction "SD_DAT1")
-			(pintype "passive")
+			(pintype "passive+no_connect")
 			(uuid "75376599-631f-4402-a701-a070d7cbcdc9")
 		)
 		(pad "68" smd rect
@@ -76277,7 +76303,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 89 "unconnected-(Module1A-SD_DAT4-Pad68)")
 			(pinfunction "SD_DAT4")
-			(pintype "passive")
+			(pintype "passive+no_connect")
 			(uuid "f726cfd6-2235-42cc-b188-d29d394b68fc")
 		)
 		(pad "69" smd rect
@@ -76286,7 +76312,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 90 "unconnected-(Module1A-SD_DAT2-Pad69)")
 			(pinfunction "SD_DAT2")
-			(pintype "passive")
+			(pintype "passive+no_connect")
 			(uuid "57c4d56d-de84-4172-ae0f-4c05a32da8d4")
 		)
 		(pad "70" smd rect
@@ -76295,7 +76321,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 91 "unconnected-(Module1A-SD_DAT7-Pad70)")
 			(pinfunction "SD_DAT7")
-			(pintype "passive")
+			(pintype "passive+no_connect")
 			(uuid "fe9d6340-080e-4acd-9d09-d25fe0434f49")
 		)
 		(pad "71" smd rect
@@ -76313,7 +76339,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 92 "unconnected-(Module1A-SD_DAT6-Pad72)")
 			(pinfunction "SD_DAT6")
-			(pintype "passive")
+			(pintype "passive+no_connect")
 			(uuid "e9246204-bc0b-48d0-9379-51212a544635")
 		)
 		(pad "73" smd rect
@@ -76322,7 +76348,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 93 "unconnected-(Module1A-SD_VDD_Override-Pad73)")
 			(pinfunction "SD_VDD_Override")
-			(pintype "input")
+			(pintype "input+no_connect")
 			(uuid "e6fc3cc6-5a26-4d2f-b2e8-99304deb0ab9")
 		)
 		(pad "74" smd rect
@@ -76340,7 +76366,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 94 "unconnected-(Module1A-SD_PWR_ON-Pad75)")
 			(pinfunction "SD_PWR_ON")
-			(pintype "output")
+			(pintype "output+no_connect")
 			(uuid "99da6184-b218-4abf-b264-97cc49e1f88b")
 		)
 		(pad "76" smd rect
@@ -76349,7 +76375,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 95 "unconnected-(Module1A-Reserved-Pad76)")
 			(pinfunction "Reserved")
-			(pintype "passive")
+			(pintype "passive+no_connect")
 			(uuid "6d7505eb-5195-4783-8a80-5195982576c7")
 		)
 		(pad "77" smd rect
@@ -76421,7 +76447,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 267 "unconnected-(Module1A-+3.3v_(Output)-Pad84)")
 			(pinfunction "+3.3v_(Output)")
-			(pintype "power_out")
+			(pintype "power_out+no_connect")
 			(uuid "a69df229-89f7-480a-ac84-c92721fbd065")
 		)
 		(pad "85" smd rect
@@ -76457,7 +76483,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 96 "unconnected-(Module1A-+1.8v_(Output)-Pad88)")
 			(pinfunction "+1.8v_(Output)")
-			(pintype "power_out")
+			(pintype "power_out+no_connect")
 			(uuid "edb95790-5b5f-444e-92b3-c818282d01a8")
 		)
 		(pad "89" smd rect
@@ -76466,7 +76492,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 97 "unconnected-(Module1A-WiFi_nDisable-Pad89)")
 			(pinfunction "WiFi_nDisable")
-			(pintype "power_in")
+			(pintype "power_in+no_connect")
 			(uuid "53e1fc84-97c0-42f6-9aad-532b792ef86e")
 		)
 		(pad "90" smd rect
@@ -76475,7 +76501,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 98 "unconnected-(Module1A-+1.8v_(Output)-Pad90)")
 			(pinfunction "+1.8v_(Output)")
-			(pintype "power_out")
+			(pintype "power_out+no_connect")
 			(uuid "0c5948d3-76a8-4777-8d15-28cb54769fb4")
 		)
 		(pad "91" smd rect
@@ -76484,7 +76510,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 99 "unconnected-(Module1A-BT_nDisable-Pad91)")
 			(pinfunction "BT_nDisable")
-			(pintype "power_in")
+			(pintype "power_in+no_connect")
 			(uuid "ee8dee01-75dc-4986-b062-f3a33375746f")
 		)
 		(pad "92" smd rect
@@ -76511,7 +76537,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 100 "unconnected-(Module1A-AnalogIP1-Pad94)")
 			(pinfunction "AnalogIP1")
-			(pintype "passive")
+			(pintype "passive+no_connect")
 			(uuid "b33f1b8f-a79e-458b-8278-64bcd0488407")
 		)
 		(pad "95" smd rect
@@ -76529,7 +76555,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 101 "unconnected-(Module1A-AnalogIP0-Pad96)")
 			(pinfunction "AnalogIP0")
-			(pintype "passive")
+			(pintype "passive+no_connect")
 			(uuid "9469841d-fdde-4254-bf36-4b0ce0a1d5ad")
 		)
 		(pad "97" smd rect
@@ -76538,7 +76564,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 102 "unconnected-(Module1A-Camera_GPIO-Pad97)")
 			(pinfunction "Camera_GPIO")
-			(pintype "passive")
+			(pintype "passive+no_connect")
 			(uuid "1ca084a7-d0a1-47d4-9863-8c2d69a1f35e")
 		)
 		(pad "98" smd rect
@@ -76565,7 +76591,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 103 "unconnected-(Module1A-nEXTRST-Pad100)")
 			(pinfunction "nEXTRST")
-			(pintype "output")
+			(pintype "output+no_connect")
 			(uuid "051a9e8e-df79-4cba-b1ab-f4887f77d47d")
 		)
 		(pad "101" smd rect
@@ -76646,7 +76672,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 107 "unconnected-(Module1B-PCIe_nRST-Pad109)")
 			(pinfunction "PCIe_nRST")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "52a9fe66-af67-4e58-b8b1-bae91796ae3a")
 		)
 		(pad "110" smd rect
@@ -76655,7 +76681,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 108 "unconnected-(Module1B-PCIe_CLK_P-Pad110)")
 			(pinfunction "PCIe_CLK_P")
-			(pintype "output")
+			(pintype "output+no_connect")
 			(uuid "4f0289da-4303-46c2-b424-184aa2eca52e")
 		)
 		(pad "111" smd rect
@@ -76664,7 +76690,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 115 "unconnected-(Module1B-VDAC_COMP-Pad111)")
 			(pinfunction "VDAC_COMP")
-			(pintype "passive")
+			(pintype "passive+no_connect")
 			(uuid "94db2a2c-1135-4513-9962-2d0388ffbe0f")
 		)
 		(pad "112" smd rect
@@ -76673,7 +76699,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 116 "unconnected-(Module1B-PCIe_CLK_N-Pad112)")
 			(pinfunction "PCIe_CLK_N")
-			(pintype "output")
+			(pintype "output+no_connect")
 			(uuid "5e58012f-c148-486f-8847-2722c5815ebd")
 		)
 		(pad "113" smd rect
@@ -76700,7 +76726,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 117 "unconnected-(Module1B-CAM1_D0_N-Pad115)")
 			(pinfunction "CAM1_D0_N")
-			(pintype "input")
+			(pintype "input+no_connect")
 			(die_length 0.02)
 			(uuid "74329994-ac79-4ee5-ab7e-1f472a5cd608")
 		)
@@ -76710,7 +76736,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 118 "unconnected-(Module1B-PCIe_RX_P-Pad116)")
 			(pinfunction "PCIe_RX_P")
-			(pintype "input")
+			(pintype "input+no_connect")
 			(uuid "cd3cf840-7283-40c0-be3c-a73c68618e3b")
 		)
 		(pad "117" smd rect
@@ -76719,7 +76745,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 119 "unconnected-(Module1B-CAM1_D0_P-Pad117)")
 			(pinfunction "CAM1_D0_P")
-			(pintype "input")
+			(pintype "input+no_connect")
 			(die_length 0.01)
 			(uuid "daaafb14-7822-4a0f-9c3e-9bd26b5b1170")
 		)
@@ -76729,7 +76755,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 120 "unconnected-(Module1B-PCIe_RX_N-Pad118)")
 			(pinfunction "PCIe_RX_N")
-			(pintype "input")
+			(pintype "input+no_connect")
 			(uuid "208336e4-9c07-44fd-b05c-a8b34a59b17c")
 		)
 		(pad "119" smd rect
@@ -76756,7 +76782,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 121 "unconnected-(Module1B-CAM1_D1_N-Pad121)")
 			(pinfunction "CAM1_D1_N")
-			(pintype "input")
+			(pintype "input+no_connect")
 			(die_length 0.4)
 			(uuid "c1c895ec-d4fd-4a8b-84a2-f01929d7438b")
 		)
@@ -76766,7 +76792,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 122 "unconnected-(Module1B-PCIe_TX_P-Pad122)")
 			(pinfunction "PCIe_TX_P")
-			(pintype "output")
+			(pintype "output+no_connect")
 			(uuid "04c2e7e5-0afd-4525-970b-5a890e945752")
 		)
 		(pad "123" smd rect
@@ -76775,7 +76801,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 123 "unconnected-(Module1B-CAM1_D1_P-Pad123)")
 			(pinfunction "CAM1_D1_P")
-			(pintype "input")
+			(pintype "input+no_connect")
 			(die_length 0.4)
 			(uuid "0ee7ddd4-7422-4125-8c81-436064c0dbc6")
 		)
@@ -76785,7 +76811,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 124 "unconnected-(Module1B-PCIe_TX_N-Pad124)")
 			(pinfunction "PCIe_TX_N")
-			(pintype "output")
+			(pintype "output+no_connect")
 			(uuid "fa8a4ef4-d6c0-4872-bf6f-9bc47e02f4f2")
 		)
 		(pad "125" smd rect
@@ -76812,7 +76838,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 125 "unconnected-(Module1B-CAM1_C_N-Pad127)")
 			(pinfunction "CAM1_C_N")
-			(pintype "input")
+			(pintype "input+no_connect")
 			(die_length 0.78)
 			(uuid "27f7ff86-39ba-496a-b2f4-95cf12e8ffa4")
 		)
@@ -76822,7 +76848,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 126 "unconnected-(Module1B-CAM0_D0_N-Pad128)")
 			(pinfunction "CAM0_D0_N")
-			(pintype "input")
+			(pintype "input+no_connect")
 			(die_length 0.06)
 			(uuid "771d2bff-733a-4219-a299-74396b5ea99f")
 		)
@@ -76832,7 +76858,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 127 "unconnected-(Module1B-CAM1_C_P-Pad129)")
 			(pinfunction "CAM1_C_P")
-			(pintype "input")
+			(pintype "input+no_connect")
 			(die_length 0.78)
 			(uuid "0c4bf7ec-1e2d-4006-9229-b1d9ff99fe00")
 		)
@@ -76842,7 +76868,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 128 "unconnected-(Module1B-CAM0_D0_P-Pad130)")
 			(pinfunction "CAM0_D0_P")
-			(pintype "input")
+			(pintype "input+no_connect")
 			(die_length 0.07)
 			(uuid "73de4dda-7f86-43dc-9c32-77ac0125ce83")
 		)
@@ -76870,7 +76896,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 134 "unconnected-(Module1B-CAM1_D2_N-Pad133)")
 			(pinfunction "CAM1_D2_N")
-			(pintype "input")
+			(pintype "input+no_connect")
 			(die_length 0.05)
 			(uuid "419aeeb9-d813-49cb-bdad-8b4127626220")
 		)
@@ -76880,7 +76906,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 135 "unconnected-(Module1B-CAM0_D1_N-Pad134)")
 			(pinfunction "CAM0_D1_N")
-			(pintype "input")
+			(pintype "input+no_connect")
 			(uuid "50e3f42f-97b9-4383-bf01-8c71cd4d7468")
 		)
 		(pad "135" smd rect
@@ -76889,7 +76915,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 136 "unconnected-(Module1B-CAM1_D2_P-Pad135)")
 			(pinfunction "CAM1_D2_P")
-			(pintype "input")
+			(pintype "input+no_connect")
 			(die_length 0.04)
 			(uuid "fbf56423-3534-4bd4-9359-cd5d581b6510")
 		)
@@ -76899,7 +76925,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 137 "unconnected-(Module1B-CAM0_D1_P-Pad136)")
 			(pinfunction "CAM0_D1_P")
-			(pintype "input")
+			(pintype "input+no_connect")
 			(uuid "d04f7ffb-101e-48e3-ad1e-2d63dd2e9375")
 		)
 		(pad "137" smd rect
@@ -76926,7 +76952,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 138 "unconnected-(Module1B-CAM1_D3_N-Pad139)")
 			(pinfunction "CAM1_D3_N")
-			(pintype "input")
+			(pintype "input+no_connect")
 			(uuid "c6b6b439-113d-41ef-bf81-2813317a820b")
 		)
 		(pad "140" smd rect
@@ -76935,7 +76961,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 139 "unconnected-(Module1B-CAM0_C_N-Pad140)")
 			(pinfunction "CAM0_C_N")
-			(pintype "input")
+			(pintype "input+no_connect")
 			(die_length 0.02)
 			(uuid "0b89163e-f67a-456d-a72a-b7bda61551c9")
 		)
@@ -76945,7 +76971,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 142 "unconnected-(Module1B-CAM1_D3_P-Pad141)")
 			(pinfunction "CAM1_D3_P")
-			(pintype "input")
+			(pintype "input+no_connect")
 			(uuid "5978cd62-94bb-4442-965c-d75495efc1ef")
 		)
 		(pad "142" smd rect
@@ -76954,7 +76980,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 145 "unconnected-(Module1B-CAM0_C_P-Pad142)")
 			(pinfunction "CAM0_C_P")
-			(pintype "input")
+			(pintype "input+no_connect")
 			(die_length 0.02)
 			(uuid "f3f31134-c7a0-44f6-9ebc-2baedd479c80")
 		)
@@ -76964,7 +76990,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 147 "unconnected-(Module1B-HDMI1_HOTPLUG-Pad143)")
 			(pinfunction "HDMI1_HOTPLUG")
-			(pintype "input")
+			(pintype "input+no_connect")
 			(uuid "c9a8bab8-7358-49b1-a2e6-8098bda3c7ae")
 		)
 		(pad "144" smd rect
@@ -76982,7 +77008,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 148 "unconnected-(Module1B-HDMI1_SDA-Pad145)")
 			(pinfunction "HDMI1_SDA")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "59951b87-4322-4343-9227-74063111b0fa")
 		)
 		(pad "146" smd rect
@@ -76991,7 +77017,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 149 "unconnected-(Module1B-HDMI1_TX2_P-Pad146)")
 			(pinfunction "HDMI1_TX2_P")
-			(pintype "output")
+			(pintype "output+no_connect")
 			(uuid "1bd3f673-7219-40a8-804d-a8965fcb66d8")
 		)
 		(pad "147" smd rect
@@ -77000,7 +77026,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 150 "unconnected-(Module1B-HDMI1_SCL-Pad147)")
 			(pinfunction "HDMI1_SCL")
-			(pintype "open_collector")
+			(pintype "open_collector+no_connect")
 			(uuid "58fe135a-3326-48fc-89a6-c3c937b4f48b")
 		)
 		(pad "148" smd rect
@@ -77009,7 +77035,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 151 "unconnected-(Module1B-HDMI1_TX2_N-Pad148)")
 			(pinfunction "HDMI1_TX2_N")
-			(pintype "output")
+			(pintype "output+no_connect")
 			(uuid "7a5feeaf-100a-44bb-95dc-0fe14922f0e0")
 		)
 		(pad "149" smd rect
@@ -77018,7 +77044,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 152 "unconnected-(Module1B-HDMI1_CEC-Pad149)")
 			(pinfunction "HDMI1_CEC")
-			(pintype "open_collector")
+			(pintype "open_collector+no_connect")
 			(uuid "455ab6b6-50af-45de-bda3-7f56475ae840")
 		)
 		(pad "150" smd rect
@@ -77045,7 +77071,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 153 "unconnected-(Module1B-HDMI1_TX1_P-Pad152)")
 			(pinfunction "HDMI1_TX1_P")
-			(pintype "output")
+			(pintype "output+no_connect")
 			(die_length 1)
 			(uuid "2c2069a3-6b8a-4ee0-8822-a53bfc216388")
 		)
@@ -77064,7 +77090,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 154 "unconnected-(Module1B-HDMI1_TX1_N-Pad154)")
 			(pinfunction "HDMI1_TX1_N")
-			(pintype "output")
+			(pintype "output+no_connect")
 			(die_length 1)
 			(uuid "d56d1aa2-0d21-4b4a-97a9-45536d0783b5")
 		)
@@ -77092,7 +77118,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 155 "unconnected-(Module1B-DSI0_D0_N-Pad157)")
 			(pinfunction "DSI0_D0_N")
-			(pintype "output")
+			(pintype "output+no_connect")
 			(uuid "2a4555de-b662-434d-b791-7c86ccaad9ed")
 		)
 		(pad "158" smd rect
@@ -77101,7 +77127,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 156 "unconnected-(Module1B-HDMI1_TX0_P-Pad158)")
 			(pinfunction "HDMI1_TX0_P")
-			(pintype "output")
+			(pintype "output+no_connect")
 			(die_length 1.51)
 			(uuid "bebc0613-a025-4650-a574-2444761d6979")
 		)
@@ -77111,7 +77137,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 157 "unconnected-(Module1B-DSI0_D0_P-Pad159)")
 			(pinfunction "DSI0_D0_P")
-			(pintype "output")
+			(pintype "output+no_connect")
 			(uuid "8daa5f71-74c3-4029-b706-260d2d507723")
 		)
 		(pad "160" smd rect
@@ -77120,7 +77146,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 158 "unconnected-(Module1B-HDMI1_TX0_N-Pad160)")
 			(pinfunction "HDMI1_TX0_N")
-			(pintype "output")
+			(pintype "output+no_connect")
 			(die_length 1.51)
 			(uuid "f9b9f6f5-3e98-48c0-b81e-96103a7d1e8b")
 		)
@@ -77148,7 +77174,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 159 "unconnected-(Module1B-DSI0_D1_N-Pad163)")
 			(pinfunction "DSI0_D1_N")
-			(pintype "output")
+			(pintype "output+no_connect")
 			(uuid "923c5f58-ba99-4b35-8347-e71c7e2320d4")
 		)
 		(pad "164" smd rect
@@ -77157,7 +77183,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 160 "unconnected-(Module1B-HDMI1_CLK_P-Pad164)")
 			(pinfunction "HDMI1_CLK_P")
-			(pintype "output")
+			(pintype "output+no_connect")
 			(die_length 2.47)
 			(uuid "cd35d242-064d-47f3-9569-fd89bb7dbe98")
 		)
@@ -77167,7 +77193,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 161 "unconnected-(Module1B-DSI0_D1_P-Pad165)")
 			(pinfunction "DSI0_D1_P")
-			(pintype "output")
+			(pintype "output+no_connect")
 			(uuid "a698d77f-700d-420f-8b9c-07dd2b7a5946")
 		)
 		(pad "166" smd rect
@@ -77176,7 +77202,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 162 "unconnected-(Module1B-HDMI1_CLK_N-Pad166)")
 			(pinfunction "HDMI1_CLK_N")
-			(pintype "output")
+			(pintype "output+no_connect")
 			(die_length 2.47)
 			(uuid "66325119-3dc3-4851-87b0-59667337823b")
 		)
@@ -77204,7 +77230,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 163 "unconnected-(Module1B-DSI0_C_N-Pad169)")
 			(pinfunction "DSI0_C_N")
-			(pintype "output")
+			(pintype "output+no_connect")
 			(uuid "24372e27-969c-4a74-8137-03f4b4039fd7")
 		)
 		(pad "170" smd rect
@@ -77222,7 +77248,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 164 "unconnected-(Module1B-DSI0_C_P-Pad171)")
 			(pinfunction "DSI0_C_P")
-			(pintype "output")
+			(pintype "output+no_connect")
 			(uuid "3daae139-e07c-45a7-9106-2418d3681995")
 		)
 		(pad "172" smd rect
@@ -77258,7 +77284,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 165 "unconnected-(Module1B-DSI1_D0_N-Pad175)")
 			(pinfunction "DSI1_D0_N")
-			(pintype "output")
+			(pintype "output+no_connect")
 			(uuid "f72b6b2b-6a31-4bad-8fb6-1454195ae218")
 		)
 		(pad "176" smd rect
@@ -77277,7 +77303,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 166 "unconnected-(Module1B-DSI1_D0_P-Pad177)")
 			(pinfunction "DSI1_D0_P")
-			(pintype "output")
+			(pintype "output+no_connect")
 			(die_length 0.01)
 			(uuid "30aae743-f2e6-4d2e-ab74-427ee6e82e0d")
 		)
@@ -77315,7 +77341,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 167 "unconnected-(Module1B-DSI1_D1_N-Pad181)")
 			(pinfunction "DSI1_D1_N")
-			(pintype "output")
+			(pintype "output+no_connect")
 			(die_length 1.06)
 			(uuid "87dbbe46-f8e9-48f4-a18c-e46a04d81843")
 		)
@@ -77335,7 +77361,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 168 "unconnected-(Module1B-DSI1_D1_P-Pad183)")
 			(pinfunction "DSI1_D1_P")
-			(pintype "output")
+			(pintype "output+no_connect")
 			(die_length 1.06)
 			(uuid "a207f635-e8ab-4696-b691-25ec7823bece")
 		)
@@ -77373,7 +77399,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 170 "unconnected-(Module1B-DSI1_C_N-Pad187)")
 			(pinfunction "DSI1_C_N")
-			(pintype "output")
+			(pintype "output+no_connect")
 			(uuid "6e7699c7-0593-4ec0-8a58-081a9a4b7e07")
 		)
 		(pad "188" smd rect
@@ -77392,7 +77418,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 171 "unconnected-(Module1B-DSI1_C_P-Pad189)")
 			(pinfunction "DSI1_C_P")
-			(pintype "output")
+			(pintype "output+no_connect")
 			(die_length 1.28)
 			(uuid "e2098380-da0b-4ea3-89ce-910b2ab65fc2")
 		)
@@ -77431,7 +77457,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 172 "unconnected-(Module1B-DSI1_D2_N-Pad193)")
 			(pinfunction "DSI1_D2_N")
-			(pintype "output")
+			(pintype "output+no_connect")
 			(die_length 0.83)
 			(uuid "8bb36f5e-1539-42e4-ba53-26282e84f35a")
 		)
@@ -77441,7 +77467,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 173 "unconnected-(Module1B-DSI1_D3_N-Pad194)")
 			(pinfunction "DSI1_D3_N")
-			(pintype "output")
+			(pintype "output+no_connect")
 			(die_length 3.78)
 			(uuid "19b42dc3-8ced-4288-b223-3947959bda9d")
 		)
@@ -77451,7 +77477,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 174 "unconnected-(Module1B-DSI1_D2_P-Pad195)")
 			(pinfunction "DSI1_D2_P")
-			(pintype "output")
+			(pintype "output+no_connect")
 			(die_length 0.84)
 			(uuid "636adf88-6c8f-4baf-8c94-d2871c3ec308")
 		)
@@ -77461,7 +77487,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 175 "unconnected-(Module1B-DSI1_D3_P-Pad196)")
 			(pinfunction "DSI1_D3_P")
-			(pintype "output")
+			(pintype "output+no_connect")
 			(die_length 3.78)
 			(uuid "5224e319-7e93-47e9-8ac5-3447bf6e3790")
 		)
@@ -80365,7 +80391,7 @@
 			(roundrect_rratio 0.25)
 			(net 191 "unconnected-(U6-STAT-Pad4)")
 			(pinfunction "STAT")
-			(pintype "open_collector")
+			(pintype "open_collector+no_connect")
 			(uuid "68881fe5-4ade-4e2d-a262-af9adb759cd0")
 		)
 		(pad "5" smd roundrect
@@ -87913,7 +87939,7 @@
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 364 "unconnected-(J19-Pin_1-Pad1)")
 			(pinfunction "Pin_1")
-			(pintype "passive")
+			(pintype "passive+no_connect")
 			(uuid "d344ea56-85da-44fc-a996-9e99697615f3")
 		)
 		(pad "2" smd rect
@@ -87922,7 +87948,7 @@
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 363 "unconnected-(J19-Pin_2-Pad2)")
 			(pinfunction "Pin_2")
-			(pintype "passive")
+			(pintype "passive+no_connect")
 			(uuid "45c82079-928a-433f-a308-e7deb2a11a71")
 		)
 		(pad "3" smd rect

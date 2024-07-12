@@ -161,5 +161,5 @@
   (lib (name "HR911105A")(type "KiCad")(uri "${KIPRJMOD}/parts/HR911105A.kicad_sym")(options "")(descr ""))
   (lib (name "CM4IO")(type "KiCad")(uri "/home/taylor/pcb/cm4io/CM4IO.kicad_sym")(options "")(descr ""))
   (lib (name "cm4-robot")(type "KiCad")(uri "${KIPRJMOD}/parts/cm4-robot.kicad_sym")(options "")(descr ""))
-  (lib (name "LED_KKAA")(type "KiCad")(uri "${KIPRJMOD}/parts/LED_KKAA.kicad_sym")(options "")(descr ""))
+  (lib (name "LED_KKAA")(type "KiCad")(uri "${KIPRJMOD}/parts/LED_KKAA.kicad_sym")(options "")(descr "")(disabled)(hidden))
 )
