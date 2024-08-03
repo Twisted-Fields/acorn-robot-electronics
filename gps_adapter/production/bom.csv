@@ -1,0 +1,5 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"H1, H2, H3, H4",MountingHole_3.7mm,4,MountingHole,
+J3,PinHeader_2x05_P2.54mm_Vertical,1,Serial Input,
+"JP1, JP2",SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,2,SolderJumper_2_Open,
+"U1, U2",GPS-RTK-SMA,2,GPS-RTK-SMA,

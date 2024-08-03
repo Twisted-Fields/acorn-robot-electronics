@@ -1096,6 +1096,16 @@
 	)
 	(wire
 		(pts
+			(xy 220.98 68.58) (xy 218.44 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "103166df-14f7-4aad-a884-5cb6259b9c54")
+	)
+	(wire
+		(pts
 			(xy 95.25 49.53) (xy 106.68 49.53)
 		)
 		(stroke
@@ -1296,6 +1306,16 @@
 	)
 	(wire
 		(pts
+			(xy 220.98 52.07) (xy 218.44 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e919f24-5ad8-43c7-b7b3-1a33c4df22d0")
+	)
+	(wire
+		(pts
 			(xy 72.39 113.03) (xy 77.47 113.03)
 		)
 		(stroke
@@ -1456,6 +1476,16 @@
 	)
 	(wire
 		(pts
+			(xy 220.98 66.04) (xy 218.44 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "860f47b9-460a-484a-8ce5-1c860704fb1d")
+	)
+	(wire
+		(pts
 			(xy 106.68 152.4) (xy 111.76 152.4)
 		)
 		(stroke
@@ -1513,6 +1543,16 @@
 			(type default)
 		)
 		(uuid "99a25deb-c94c-4945-b6c7-6762aeee8cf8")
+	)
+	(wire
+		(pts
+			(xy 220.98 54.61) (xy 218.44 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9db03a50-40cc-47f6-9fa5-2541d76e850e")
 	)
 	(wire
 		(pts
@@ -1874,6 +1914,16 @@
 		)
 		(uuid "fef99856-185f-4cc4-a33f-0aa8101273ed")
 	)
+	(text "For longest cap life, keep under 2.3v per cap, 46 volts total.\nMaximum rated voltage 2.7 volts per cap, 54 volts total.\nSurge voltage 2.85 volts per cap, 57 volts total."
+		(exclude_from_sim no)
+		(at 92.71 35.56 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "bf63e354-f71b-4b5d-9263-80354c559bbc")
+	)
 	(symbol
 		(lib_id "power:GND")
 		(at 154.94 96.52 0)
@@ -1932,7 +1982,7 @@
 			(uuid "80328895-c269-4aca-8046-23368df7b2b0")
 		)
 		(instances
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "#PWR048")
 					(unit 1)
@@ -2011,7 +2061,7 @@
 			(uuid "015686ca-8342-4274-9079-cd5de8d318e9")
 		)
 		(instances
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "C12")
 					(unit 1)
@@ -2077,7 +2127,7 @@
 			(uuid "abaee2db-b9a7-44bd-8d87-933c08a8abf0")
 		)
 		(instances
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "#PWR01")
 					(unit 1)
@@ -2156,7 +2206,7 @@
 			(uuid "f1d28840-c26b-47d2-92c3-b70d8d80567a")
 		)
 		(instances
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "C25")
 					(unit 1)
@@ -2234,7 +2284,7 @@
 			(uuid "0cda7a11-fc1b-4a6d-a6b5-78ab0aed113f")
 		)
 		(instances
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "D19")
 					(unit 1)
@@ -2312,7 +2362,7 @@
 			(uuid "ec07884c-912f-4d55-bdf6-4494a37224ff")
 		)
 		(instances
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "D17")
 					(unit 1)
@@ -2391,7 +2441,7 @@
 			(uuid "41d6ec9e-b06a-4e53-96b6-1fdbeb8e746d")
 		)
 		(instances
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "C26")
 					(unit 1)
@@ -2470,7 +2520,7 @@
 			(uuid "b82beef5-9757-4178-823a-c43de3661ffb")
 		)
 		(instances
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "C13")
 					(unit 1)
@@ -2540,7 +2590,7 @@
 			(uuid "4e599834-91b4-445a-bb5c-b2c4e0a2a42d")
 		)
 		(instances
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "J1")
 					(unit 1)
@@ -2618,7 +2668,7 @@
 			(uuid "5ed49cb5-01a1-498f-aeca-f7bc101d9967")
 		)
 		(instances
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "D10")
 					(unit 1)
@@ -2688,7 +2738,7 @@
 			(uuid "949d1fc0-fbce-4d30-8de5-89489aa1c915")
 		)
 		(instances
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "J4")
 					(unit 1)
@@ -2766,7 +2816,7 @@
 			(uuid "f6b36d4c-c2e6-4896-a107-cd6df3629dcc")
 		)
 		(instances
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "D7")
 					(unit 1)
@@ -2832,7 +2882,7 @@
 			(uuid "0d409cdb-560e-4006-a3c6-27eafc3bb00a")
 		)
 		(instances
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "#PWR029")
 					(unit 1)
@@ -2908,9 +2958,75 @@
 					(unit 1)
 				)
 			)
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "H1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 220.98 68.58 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2bfee0fc-de27-4705-a3bd-22e1bf704da3")
+		(property "Reference" "#PWR07"
+			(at 220.98 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 220.98 73.025 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 220.98 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 220.98 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 220.98 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "874f9496-7f20-4e44-a7b6-84fe9cca3fdb")
+		)
+		(instances
+			(project "supercap_simple"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -2986,7 +3102,7 @@
 			(uuid "d6e26bb2-2bae-413c-b8a4-a1a42992f4c5")
 		)
 		(instances
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "D15")
 					(unit 1)
@@ -3064,7 +3180,7 @@
 			(uuid "00f5ba15-89b2-48ea-9a2e-63f35ea74e02")
 		)
 		(instances
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "D12")
 					(unit 1)
@@ -3142,7 +3258,7 @@
 			(uuid "7f865165-a83a-47d8-ba0f-ed873e645240")
 		)
 		(instances
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "D2")
 					(unit 1)
@@ -3221,7 +3337,7 @@
 			(uuid "f31f474f-2281-403d-b601-6f76aed92a8a")
 		)
 		(instances
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "C10")
 					(unit 1)
@@ -3287,7 +3403,7 @@
 			(uuid "06111f2a-fb05-4a01-bd14-e179d3b044ba")
 		)
 		(instances
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "#PWR04")
 					(unit 1)
@@ -3353,7 +3469,7 @@
 			(uuid "2e11c8d6-c649-4bf5-adc8-89d18ba7c9e4")
 		)
 		(instances
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "#PWR034")
 					(unit 1)
@@ -3431,7 +3547,7 @@
 			(uuid "d07e8869-b5cb-4eb1-a811-29d2763927cd")
 		)
 		(instances
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "D9")
 					(unit 1)
@@ -3507,7 +3623,7 @@
 					(unit 1)
 				)
 			)
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "H4")
 					(unit 1)
@@ -3585,7 +3701,7 @@
 			(uuid "24e89d6e-b0a1-41b5-b467-3ea55ece046f")
 		)
 		(instances
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "D11")
 					(unit 1)
@@ -3663,7 +3779,7 @@
 			(uuid "5dfbd8fb-c02f-49c2-a1fd-afd0b9ede4c2")
 		)
 		(instances
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "D6")
 					(unit 1)
@@ -3742,7 +3858,7 @@
 			(uuid "54d57b36-7876-4a47-97b2-9464758fc713")
 		)
 		(instances
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "C17")
 					(unit 1)
@@ -3820,7 +3936,7 @@
 			(uuid "377a5df8-cb83-4f35-803a-3c87d03b80d8")
 		)
 		(instances
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "D8")
 					(unit 1)
@@ -3899,9 +4015,75 @@
 			(uuid "5b191d27-f72c-4c61-ad71-10a3152761c7")
 		)
 		(instances
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "C19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "supercap_library:VCAP")
+		(at 220.98 52.07 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6ff2f574-d58b-4eef-bf86-ad2b5c39760a")
+		(property "Reference" "#PWR05"
+			(at 220.98 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCAP"
+			(at 220.98 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 220.98 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 220.98 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 220.98 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "21d37981-d713-4644-9ce8-2216cffb7e80")
+		)
+		(instances
+			(project "supercap_simple"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -3977,7 +4159,7 @@
 			(uuid "9beed674-00d8-46f3-9b1c-2d54fc13e4df")
 		)
 		(instances
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "D4")
 					(unit 1)
@@ -4055,9 +4237,75 @@
 			(uuid "26869f89-7e84-4bd6-ade5-696231ad291f")
 		)
 		(instances
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "D13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 220.98 54.61 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "73cf9bf0-74c2-46d4-9322-84c31b6b1336")
+		(property "Reference" "#PWR06"
+			(at 220.98 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 220.98 59.055 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 220.98 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 220.98 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 220.98 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e14b2d97-aeee-4986-af65-fcf29d330eaf")
+		)
+		(instances
+			(project "supercap_simple"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -4121,7 +4369,7 @@
 			(uuid "3f24a41b-102b-4f1f-b3c2-5e42fb460a1b")
 		)
 		(instances
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "#PWR02")
 					(unit 1)
@@ -4200,7 +4448,7 @@
 			(uuid "21bac281-b195-4cc4-b837-e4da3435a8a8")
 		)
 		(instances
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "C27")
 					(unit 1)
@@ -4279,7 +4527,7 @@
 			(uuid "c97353f7-0410-4533-8a93-96d1babc0995")
 		)
 		(instances
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "C24")
 					(unit 1)
@@ -4358,7 +4606,7 @@
 			(uuid "3ea30d43-5f21-4989-9fc0-20d05ed55f3e")
 		)
 		(instances
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "C5")
 					(unit 1)
@@ -4436,7 +4684,7 @@
 			(uuid "b44545e5-b226-4300-89a9-b9a8bc286505")
 		)
 		(instances
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "D5")
 					(unit 1)
@@ -4514,7 +4762,7 @@
 			(uuid "5573fbec-1a36-4f58-99c1-74ddaa4a0a32")
 		)
 		(instances
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "D21")
 					(unit 1)
@@ -4592,7 +4840,7 @@
 			(uuid "988e8c72-0f71-49cc-8517-49d4123e72f9")
 		)
 		(instances
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "D3")
 					(unit 1)
@@ -4670,7 +4918,7 @@
 			(uuid "8d4d0c14-92c5-40f4-a56b-774406138f44")
 		)
 		(instances
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "D20")
 					(unit 1)
@@ -4740,7 +4988,7 @@
 			(uuid "f4a39b5f-3311-4964-bcf6-528c2163ba22")
 		)
 		(instances
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "J2")
 					(unit 1)
@@ -4818,9 +5066,75 @@
 			(uuid "1bb68287-5112-4a94-977e-bcfa68472ee3")
 		)
 		(instances
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "D18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "supercap_library:VCAP")
+		(at 220.98 66.04 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a4b171f8-d8a8-4783-bfa3-66e53790b884")
+		(property "Reference" "#PWR08"
+			(at 220.98 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCAP"
+			(at 220.98 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 220.98 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 220.98 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 220.98 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "db670768-217b-4662-a02d-76de683f40e4")
+		)
+		(instances
+			(project "supercap_simple"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -4894,7 +5208,7 @@
 					(unit 1)
 				)
 			)
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "H3")
 					(unit 1)
@@ -4973,7 +5287,7 @@
 			(uuid "fc46f245-fa7d-4963-adc6-3f81d33e36ff")
 		)
 		(instances
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "C22")
 					(unit 1)
@@ -5042,7 +5356,7 @@
 			(uuid "ac02bb8a-3607-4751-ba96-23d3c3cd9167")
 		)
 		(instances
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "J5")
 					(unit 1)
@@ -5120,7 +5434,7 @@
 			(uuid "f19b4042-792d-4cda-a136-112d5b749769")
 		)
 		(instances
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "D14")
 					(unit 1)
@@ -5199,7 +5513,7 @@
 			(uuid "c3701436-a23b-4c31-b44a-a49084429287")
 		)
 		(instances
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "C11")
 					(unit 1)
@@ -5278,7 +5592,7 @@
 			(uuid "fb5202be-f5f5-4f97-b2ca-8d5236443c09")
 		)
 		(instances
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "C20")
 					(unit 1)
@@ -5357,7 +5671,7 @@
 			(uuid "32800d74-c0fc-48a4-863b-771955397c96")
 		)
 		(instances
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "C6")
 					(unit 1)
@@ -5436,7 +5750,7 @@
 			(uuid "b0410910-85d6-43b2-b2e0-b906c66f9977")
 		)
 		(instances
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "C21")
 					(unit 1)
@@ -5515,7 +5829,7 @@
 			(uuid "fc42fe8b-0e61-4c08-8c83-0e6881963b34")
 		)
 		(instances
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "C8")
 					(unit 1)
@@ -5594,7 +5908,7 @@
 			(uuid "e5759aef-9338-4d37-ab82-526342475eba")
 		)
 		(instances
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "C23")
 					(unit 1)
@@ -5672,7 +5986,7 @@
 			(uuid "c07d6669-2392-4f02-bb8a-c801b6d99ce7")
 		)
 		(instances
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "D16")
 					(unit 1)
@@ -5751,9 +6065,87 @@
 			(uuid "a9930289-339b-4091-a850-c4983c489336")
 		)
 		(instances
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "C7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 213.36 68.58 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e60908fa-43bf-4f29-916c-eff282c2d74d")
+		(property "Reference" "J6"
+			(at 210.185 67.945 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "    XT30PW-F20.G.Y"
+			(at 216.027 72.263 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_AMASS:AMASS_XT30PW-F_1x02_P2.50mm_Horizontal"
+			(at 213.36 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 213.36 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 213.36 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2913282"
+			(at 213.36 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2a7795ea-2fb7-4833-9eeb-90d004c3bd4d")
+		)
+		(pin "2"
+			(uuid "a414a1f5-dad4-465f-ae5f-b11cdd06ff19")
+		)
+		(instances
+			(project "supercap_simple"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "J6")
 					(unit 1)
 				)
 			)
@@ -5830,7 +6222,7 @@
 			(uuid "8c833d44-7ff0-4a6a-814d-9ac8112f70ea")
 		)
 		(instances
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "C18")
 					(unit 1)
@@ -5896,9 +6288,85 @@
 			(uuid "8c73426f-a2e3-490e-b9bf-88077e695e4f")
 		)
 		(instances
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "#PWR03")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 213.36 54.61 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f57551d1-5a7c-4176-90e2-9e3500e727c5")
+		(property "Reference" "J3"
+			(at 213.36 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "XT30PW-M"
+			(at 210.058 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_AMASS:AMASS_XT30PW-M_1x02_P2.50mm_Horizontal"
+			(at 213.36 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 213.36 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 213.36 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C431092"
+			(at 213.36 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "68ce35ee-f6d5-48f8-a722-5f3b7fec5519")
+		)
+		(pin "2"
+			(uuid "436bb4e1-7a6c-4e99-9f45-32f94b203e9b")
+		)
+		(instances
+			(project "supercap_simple"
+				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -5972,7 +6440,7 @@
 					(unit 1)
 				)
 			)
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "H2")
 					(unit 1)
@@ -6051,7 +6519,7 @@
 			(uuid "ac79c9cd-804e-4423-b0e0-a5910cebea88")
 		)
 		(instances
-			(project "supercap"
+			(project "supercap_simple"
 				(path "/c96815b7-5107-42d0-b7dc-73f8acaf6bbc"
 					(reference "C9")
 					(unit 1)

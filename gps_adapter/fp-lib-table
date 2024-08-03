@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Raspberry_Pi_Pico_W_Kicad_Files")(type "KiCad")(uri "${KIPRJMOD}/parts/Raspberry_Pi_Pico_W_Kicad_Files")(options "")(descr ""))
+)

@@ -69,7 +69,7 @@
         "hole_clearance|111070000|35443000|d32125ea-9823-4a31-adf4-12e823c87125|0f48d619-415f-40fd-845c-10a87138fa6f",
         "items_not_allowed|154250000|61500000|9ba75c68-120a-485a-8fc2-e3cd071947b2|00000000-0000-0000-0000-000000000000",
         "items_not_allowed|154250000|94500000|7d6505a0-3dfa-49a3-89e9-f17d62c94f6d|00000000-0000-0000-0000-000000000000",
-        "unconnected_items|149650000|104025000|f4c213fa-e47f-4082-a417-78f75cc9aa5d|0094c7a2-8612-4512-8c80-b07bb98c2e15"
+        "unconnected_items|177950002|93420001|0094c7a2-8612-4512-8c80-b07bb98c2e15|f4c213fa-e47f-4082-a417-78f75cc9aa5d"
       ],
       "meta": {
         "filename": "board_design_settings.json",
@@ -92,6 +92,7 @@
         "footprint_type_mismatch": "error",
         "hole_clearance": "error",
         "hole_near_hole": "error",
+        "holes_co_located": "warning",
         "invalid_outline": "error",
         "isolated_copper": "warning",
         "item_on_disabled_layer": "error",
@@ -477,7 +478,7 @@
       "pin_not_connected": "error",
       "pin_not_driven": "error",
       "pin_to_pin": "ignore",
-      "power_pin_not_driven": "error",
+      "power_pin_not_driven": "ignore",
       "similar_labels": "warning",
       "simulation_model_issue": "ignore",
       "unannotated": "error",
@@ -592,6 +593,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
+    "bom_export_filename": "",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",

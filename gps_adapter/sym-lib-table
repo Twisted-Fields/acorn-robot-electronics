@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "gps")(type "KiCad")(uri "${KIPRJMOD}/gps.kicad_sym")(options "")(descr ""))
+  (lib (name "Raspberry_Pi_Pico_W_SC0918")(type "KiCad")(uri "${KIPRJMOD}/parts/Raspberry_Pi_Pico_W_Kicad_Files/Raspberry_Pi_Pico_W_SC0918.kicad_sym")(options "")(descr ""))
+)
