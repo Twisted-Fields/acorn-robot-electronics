@@ -1,0 +1,8 @@
+color: purple
+summary: Acorn Motherboard from Twisted Fields. This board provides motor control communication over CANBUS to four BLDC motor drivers
+website: https://github.com/Twisted-Fields/acorn-robot-electronics/tree/main#readme
+gerbers:  cm4_robot_board/gerber/
+bom: cm4_robot_board/cm4-robot.csv
+eda:
+  type: kicad
+  pcb: cm4_robot_board/cm4-robot.kicad_pcb
